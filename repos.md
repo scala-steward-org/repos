@@ -388,6 +388,7 @@
 - navicore/NaviPath
 - NeQuissimus/circe-kafka
 - NeQuissimus/nequi-kafka
+- NeQuissimus/sort-imports
 - NeQuissimus/zio-slf4j
 - nevillelyh/parquet-avro-extra
 - nevillelyh/protobuf-generic
