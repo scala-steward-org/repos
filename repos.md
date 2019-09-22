@@ -170,6 +170,7 @@
 - DanielaSfregola/random-data-generator
 - DanielaSfregola/random-data-generator-magnolia
 - DanielaSfregola/twitter4s
+- DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
 - daenyth/scytest
 - devilune/dotty-graalvm.g8
