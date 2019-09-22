@@ -38,7 +38,6 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
-- amarrella/fs2-elastic
 - Atry/Curried.scala
 - Atry/Dsl.scala-akka-actor
 - Atry/fastring
