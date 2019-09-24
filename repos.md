@@ -556,6 +556,7 @@
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
 - synesso/scala-stellar-sdk
+- taig/lokal
 - tanishiking/scalaunfmt
 - tbrown1979/totp4s
 - thesamet/sbt-protoc
