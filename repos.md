@@ -536,6 +536,7 @@
 - softwaremill/correlator
 - softwaremill/diffx
 - softwaremill/elasticmq
+- softwaremill/neme-plugin
 - softwaremill/sbt-softwaremill
 - softwaremill/sttp
 - softwaremill/tapir
