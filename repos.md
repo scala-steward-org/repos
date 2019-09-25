@@ -548,6 +548,7 @@
 - spotify/scio-idea-plugin
 - spotify/tfexample-derive
 - srenault/sre-api
+- sritchie/scala-rl
 - stephennancekivell/scalatest-json
 - stryker-mutator/stryker4s
 - sullis/java-scala-interop-examples
