@@ -5,6 +5,8 @@
 - 2m/kabrioletas
 - 2m/polyfact
 - 2m/sonatype-stats
+- 7mind/izumi
+- 7mind/sbtgen
 - 47deg/fetch
 - 47deg/github4s
 - 47deg/metrifier
@@ -13,8 +15,6 @@
 - 47deg/sbt-microsites
 - 47deg/sbt-org-policies
 - 47deg/scalacheck-toolbox
-- 7mind/izumi
-- 7mind/sbtgen
 - agourlay/cornichon
 - agourlay/json-2-csv
 - akka/akka
@@ -167,12 +167,12 @@
 - criteo/lolhttp
 - d2a4u/sqs4s
 - daandi/nice-url-encode-decode
+- daenyth/scytest
 - DanielaSfregola/random-data-generator
 - DanielaSfregola/random-data-generator-magnolia
 - DanielaSfregola/twitter4s
 - DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
-- daenyth/scytest
 - devilune/dotty-graalvm.g8
 - dispalt/scala-relay
 - dispalt/tagless-redux
@@ -665,8 +665,8 @@
 - zio/zio
 - zio/zio-actors
 - zio/zio-akka-cluster
+- zio/zio-config
 - zio/zio-keeper
 - zio/zio-nio
 - zio/zio-sqs
-- zio/zio-config
 - ziyasal/reducio
