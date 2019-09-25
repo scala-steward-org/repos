@@ -641,7 +641,7 @@
 - vlovgr/ciris
 - wegtam/amws-scala
 - wehkamp/cakemix
-- Wei-1/scala-machine-learning
+- Wei-1/Scala-Machine-Learning-from-Scratch
 - WellFactored/clovis
 - WellFactored/property-info
 - WellFactored/resourcepool
