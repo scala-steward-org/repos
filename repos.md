@@ -666,4 +666,5 @@
 - zio/zio-keeper
 - zio/zio-nio
 - zio/zio-sqs
+- zio/zio-config
 - ziyasal/reducio
