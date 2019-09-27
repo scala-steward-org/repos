@@ -27,6 +27,7 @@
 - akka/akka-sample-cluster-docker-compose-java
 - akka/akka-sample-cluster-docker-compose-scala
 - akka/akka-sample-cluster-kubernetes-dns-java
+- albuch/sbt-dependency-check
 - alekslitvinenk/logshingles
 - alexarchambault/ammonite-spark
 - alexarchambault/argonaut-shapeless
