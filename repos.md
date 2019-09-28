@@ -479,6 +479,7 @@
 - scalapb/protoc-bridge
 - scalapb/ScalaPB
 - scalapb/scalapb-json4s
+- scalapb/sparksql-scalapb
 - scala-ts/scala-ts
 - scala/hello-world.g8
 - scala/make-release-notes
