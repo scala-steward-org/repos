@@ -451,6 +451,7 @@
 - profunktor/console4cats
 - profunktor/fs2-rabbit
 - profunktor/http4s-tracer
+- profunktor/http4s-jwt-auth
 - profunktor/redis4cats
 - pureconfig/pureconfig
 - qbicsoftware/scark-cli
