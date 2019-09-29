@@ -565,6 +565,7 @@
 - taig/lokal
 - tanishiking/scalaunfmt
 - tbrown1979/totp4s
+- TeamWanari/tutelar
 - thesamet/sbt-protoc
 - ThoughtWorksInc/bindable.scala
 - ThoughtWorksInc/Binding.scala
