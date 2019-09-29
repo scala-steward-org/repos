@@ -533,6 +533,7 @@
 - slamdata/sbt-quasar-plugin
 - slamdata/sbt-slamdata
 - slamdata/tectonic
+- sloshy/fs2-es
 - snowplow-incubator/cla-bot
 - snowplow-incubator/snowplow-indicative-relay
 - softwaremill/bootzooka
