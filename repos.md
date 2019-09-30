@@ -187,6 +187,7 @@
 - dwijnand/sbt-project-graph
 - dwijnand/sbt-reloadquick
 - dwijnand/sbt-travisci
+- eltherion/http4s-timer
 - emartech/pure-scheduler
 - embeddedkafka/embedded-kafka
 - embeddedkafka/embedded-kafka-schema-registry
