@@ -311,6 +311,7 @@
 - kmizu/pegex
 - kontainers/micrometer-akka
 - kovszilard/twitter-server-prometheus
+- Ksisu/tell-me-a-secret
 - kubukoz/brick-store
 - kubukoz/datas
 - kubukoz/error-control
