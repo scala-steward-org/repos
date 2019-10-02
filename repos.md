@@ -640,6 +640,7 @@
 - UdashFramework/udash-core
 - underscoreio/slickless
 - unfiltered/unfiltered
+- unsecurityio/unsecurity
 - vigoo/clipp
 - vigoo/prox
 - vigoo/simpp
