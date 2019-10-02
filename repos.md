@@ -608,6 +608,7 @@
 - tpolecat/atto
 - tpolecat/doobie
 - tpolecat/skunk
+- tpolecat/natchez
 - transcendent-ai-labs/DynaML
 - travisbrown/catbird
 - travisbrown/iteratee
