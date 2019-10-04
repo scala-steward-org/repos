@@ -164,6 +164,7 @@
 - cquiroz/scalajs-react-virtualized
 - cquiroz/scala-java-locales
 - cquiroz/scala-java-time
+- crealytics/spark-excel
 - criteo/cuttle
 - criteo/lolhttp
 - d2a4u/sqs4s
