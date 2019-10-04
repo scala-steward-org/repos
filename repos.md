@@ -467,6 +467,7 @@
 - ReactivePlatform/Reactive-Design-Patterns
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
+- salesforce/transmogrifai-helloworld-sbt
 - sake92/hepek
 - saksdirect/sundial
 - sbt/sbt-autoversion
