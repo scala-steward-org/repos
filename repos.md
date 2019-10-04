@@ -486,6 +486,7 @@
 - profunktor/http4s-jwt-auth
 - profunktor/redis4cats
 - pureconfig/pureconfig
+- pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
 - raboof/sbt-reproducible-builds
 - ReactiveMongo/Play-ReactiveMongo
