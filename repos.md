@@ -15,6 +15,7 @@
 - 47deg/sbt-microsites
 - 47deg/sbt-org-policies
 - 47deg/scalacheck-toolbox
+- afsalthaj/safe-string-interpolation
 - agourlay/cornichon
 - agourlay/json-2-csv
 - akka/akka
