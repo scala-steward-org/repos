@@ -449,6 +449,7 @@
 - permutive/fs2-google-pubsub
 - phdoerfler/beegment
 - phdoerfler/enni
+- phdoerfler/latex-scanner
 - phenoscape/scowl
 - Philippus/baggage-jwt
 - Philippus/between
