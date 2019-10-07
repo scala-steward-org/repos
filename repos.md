@@ -134,10 +134,13 @@
 - circe/circe-config
 - circe/circe-derivation
 - circe/circe-fs2
+- circe/circe-generic-extras
 - circe/circe-iteratee
 - circe/circe-jackson
+- circe/circe-json-schema
 - circe/circe-magnolia
 - circe/circe-optics
+- circe/circe-sangria
 - circe/circe-spire
 - circe/circe-spray
 - circe/circe-yaml
