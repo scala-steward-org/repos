@@ -583,6 +583,7 @@
 - softwaremill/sbt-softwaremill
 - softwaremill/sttp
 - softwaremill/tapir
+- solidninja/schema-registry-sttp-client
 - sphereio/sphere-scala-libs
 - spotify/big-data-rosetta-code
 - spotify/featran
