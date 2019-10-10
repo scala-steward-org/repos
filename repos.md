@@ -352,6 +352,7 @@
 - kubukoz/slick-effect
 - kubukoz/sup
 - kubukoz/vivalidi
+- kubukoz/flawless
 - kwark/play-refined
 - kwark/slick-refined
 - labra/shaclex
