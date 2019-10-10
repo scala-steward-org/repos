@@ -642,6 +642,7 @@
 - tmtsoftware/esw
 - tmtsoftware/esw-prototype
 - tmtsoftware/sequencer-scripts
+- to-ithaca/libra
 - tomwadeson/scala-barebones
 - tpolecat/atto
 - tpolecat/doobie
