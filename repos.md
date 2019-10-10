@@ -654,6 +654,7 @@
 - travisbrown/iteratee-twitter
 - twilio/guardrail
 - twitter/algebird
+- twitter/bijection
 - typelevel/cats
 - typelevel/cats-collections
 - typelevel/cats-effect
