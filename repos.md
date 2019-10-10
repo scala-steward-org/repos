@@ -655,6 +655,7 @@
 - twilio/guardrail
 - twitter/algebird
 - twitter/bijection
+- twitter/chill
 - typelevel/cats
 - typelevel/cats-collections
 - typelevel/cats-effect
