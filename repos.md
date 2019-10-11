@@ -517,6 +517,7 @@
 - sbt/sbt-unidoc
 - scalabin-no/http4s-directives
 - scalameta/metabrowse
+- scalameta/sbt-scalafmt
 - scalapb/protobuf-scala-runtime
 - scalapb/protoc-bridge
 - scalapb/ScalaPB
