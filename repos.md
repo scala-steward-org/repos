@@ -155,6 +155,7 @@
 - cornerman/mycelium
 - cornerman/scala-cuid
 - cornerman/sloth
+- commercetools/ctp-smoke-tests
 - coursier/coursier
 - coursier/echo
 - coursier/http-server
