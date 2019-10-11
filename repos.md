@@ -37,6 +37,7 @@
 - alexarchambault/scalacheck-shapeless
 - almond-sh/almond
 - alonsodomin/cron4s
+- alonsodomin/kamon-cloudwatch
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
