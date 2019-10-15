@@ -238,6 +238,7 @@
 - exoego/aws-lambda-scalajs-facade
 - exoego/aws-sdk-scalajs-facade
 - exoego/aws-sdk-scalajs-facade-generator
+- exoego/intellij-smashtest
 - exoego/scala-js-nodejs
 - exoego/scala-js-ts-importer
 - Fabszn/scaffolding-plugin-lagom
