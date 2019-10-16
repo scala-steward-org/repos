@@ -293,6 +293,7 @@
 - gfc-collective/sbt-aws-lambda
 - gfc-collective/sbt-dependency-graph-sugar
 - gfc-collective/sbt-newrelic
+- ghostdogpr/caliban
 - gnieh/diffson
 - henricook/SAMLer
 - higherkindness/compendium
