@@ -610,6 +610,7 @@
 - sullis/scala-hello-world-app
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
+- SwissBorg/lithium
 - synesso/scala-stellar-sdk
 - taig/lokal
 - tanishiking/scalaunfmt
