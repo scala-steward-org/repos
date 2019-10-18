@@ -370,6 +370,7 @@
 - laserdisc-io/stream-it
 - leanovate/play-mockws
 - leigh-perry/conduction
+- leigh-perry/log4zio
 - leigh-perry/metamorphosis
 - leigh-perry/template-cats-io-app
 - leigh-perry/template-cats-zio-app
