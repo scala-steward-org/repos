@@ -79,6 +79,7 @@
 - cchantep/foorgol
 - cchantep/sbt-hl-compiler
 - ceedubs/irrec
+- census-ecosystem/opencensus-scala
 - channingwalton/http4sWS
 - ChocPanda/argonaut-magnolia
 - ChocPanda/scalacheck-magnolia
