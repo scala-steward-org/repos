@@ -30,6 +30,7 @@
 - akka/akka-sample-cluster-kubernetes-dns-java
 - albuch/sbt-dependency-check
 - alejandrohdezma/sensitive-strings
+- alejandrohdezma/sbt-me
 - alekslitvinenk/logshingles
 - alexarchambault/ammonite-spark
 - alexarchambault/argonaut-shapeless
