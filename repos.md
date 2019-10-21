@@ -596,6 +596,7 @@
 - softwaremill/sttp
 - softwaremill/tapir
 - solidninja/schema-registry-sttp-client
+- soundcloud/twinagle
 - sphereio/sphere-scala-libs
 - spotify/big-data-rosetta-code
 - spotify/featran
