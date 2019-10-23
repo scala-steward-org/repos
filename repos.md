@@ -448,6 +448,10 @@
 - notxcain/aecor
 - novakov-alexey/http4s-spnego
 - nrinaudo/kantan.codecs
+- nrinaudo/kantan.csv
+- nrinaudo/kantan.regex
+- nrinaudo/kantan.sbt
+- nrinaudo/kantan.xpath
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
 - OutWatch/outwatch
