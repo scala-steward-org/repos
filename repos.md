@@ -142,6 +142,7 @@
 - circe/circe-derivation
 - circe/circe-fs2
 - circe/circe-generic-extras
+- circe/circe-golden
 - circe/circe-iteratee
 - circe/circe-jackson
 - circe/circe-json-schema
