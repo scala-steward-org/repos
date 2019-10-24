@@ -378,6 +378,7 @@
 - leigh-perry/template-cats-io-app
 - leigh-perry/template-cats-zio-app
 - lemastero/scala_typeclassopedia
+- lemonlabsuk/scala-uri
 - lightbend/genjavadoc
 - lightbend/lightbend-emoji
 - lightbend/mima
