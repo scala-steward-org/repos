@@ -33,6 +33,7 @@
 - alejandrohdezma/sensitive-strings
 - alejandrohdezma/sbt-me
 - alekslitvinenk/logshingles
+- alekslitvinenk/doppler
 - alexarchambault/ammonite-spark
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
