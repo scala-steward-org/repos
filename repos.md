@@ -188,7 +188,6 @@
 - DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
 - devilune/dotty-graalvm.g8
-- dispalt/scala-relay
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
 - djspiewak/gll-combinators
@@ -298,6 +297,7 @@
 - gfc-collective/sbt-dependency-graph-sugar
 - gfc-collective/sbt-newrelic
 - ghostdogpr/caliban
+- goodcover/scala-relay
 - gnieh/diffson
 - henricook/SAMLer
 - higherkindness/compendium
