@@ -30,8 +30,9 @@
 - akka/akka-sample-cluster-docker-compose-scala
 - akka/akka-sample-cluster-kubernetes-dns-java
 - albuch/sbt-dependency-check
-- alejandrohdezma/sensitive-strings
+- alejandrohdezma/sbt-fix
 - alejandrohdezma/sbt-me
+- alejandrohdezma/sensitive-strings
 - alekslitvinenk/logshingles
 - alekslitvinenk/doppler
 - alexarchambault/ammonite-spark
