@@ -302,6 +302,7 @@
 - goodcover/scala-relay
 - gnieh/diffson
 - henricook/SAMLer
+- herzrasen/stash
 - higherkindness/compendium
 - higherkindness/compendium-example
 - higherkindness/droste
