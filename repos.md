@@ -240,7 +240,7 @@
 - evolution-gaming/smetrics
 - evolution-gaming/sstream
 - evolution-gaming/stracer
-- evolution-gaming/throttler 
+- evolution-gaming/throttler
 - exoego/aws-lambda-scalajs-facade
 - exoego/aws-sdk-scalajs-facade
 - exoego/aws-sdk-scalajs-facade-generator
@@ -329,6 +329,7 @@
 - iheartradio/thomas
 - ilya-murzinov/finch-todo-backend
 - INCATools/dosdp-tools
+- ing-bank/baker
 - intracer/scalawiki
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
