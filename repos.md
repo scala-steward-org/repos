@@ -370,7 +370,6 @@
 - kubukoz/flawless
 - kwark/play-refined
 - kwark/slick-refined
-- labra/shaclex
 - lagom/lagom
 - lancewalton/treelog
 - laserdisc-io/laserdisc
@@ -739,6 +738,7 @@
 - WellFactored/clovis
 - WellFactored/property-info
 - WellFactored/resourcepool
+- weso/shaclex
 - wvlet/airframe
 - X9Developers/block-explorer
 - xerial/sbt-pack
