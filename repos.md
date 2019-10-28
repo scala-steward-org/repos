@@ -359,8 +359,8 @@
 - kmizu/macro_peg
 - kmizu/pegex
 - kontainers/micrometer-akka
-- kovszilard/twitter-server-prometheus
 - kovszilard/smenu
+- kovszilard/twitter-server-prometheus
 - Ksisu/tell-me-a-secret
 - kubukoz/brick-store
 - kubukoz/datas
@@ -589,6 +589,7 @@
 - scodec/scodec-build
 - scodec/scodec-protocols
 - scodec/scodec-stream
+- scredis/scredis
 - scullxbones/akka-persistence-mongo
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
