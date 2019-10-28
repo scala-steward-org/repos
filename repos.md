@@ -11,12 +11,11 @@
 - 47deg/github4s
 - 47deg/metrifier
 - 47deg/mu-smart-home
-- 47deg/petstore4s
 - 47deg/pbdirect
+- 47deg/petstore4s
 - 47deg/sbt-microsites
 - 47deg/sbt-org-policies
 - 47deg/scalacheck-toolbox
-- geirolz/advxml
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
 - agourlay/json-2-csv
@@ -34,8 +33,8 @@
 - alejandrohdezma/sbt-fix
 - alejandrohdezma/sbt-me
 - alejandrohdezma/sensitive-strings
-- alekslitvinenk/logshingles
 - alekslitvinenk/doppler
+- alekslitvinenk/logshingles
 - alexarchambault/ammonite-spark
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
@@ -217,9 +216,9 @@
 - evolution-gaming/akka-http-play-json
 - evolution-gaming/akka-serialization
 - evolution-gaming/akka-tools
-- evolution-gaming/cats-helper
 - evolution-gaming/cassandra-launcher
 - evolution-gaming/cassandra-sync
+- evolution-gaming/cats-helper
 - evolution-gaming/conhub
 - evolution-gaming/crypto
 - evolution-gaming/future-helper
@@ -241,7 +240,7 @@
 - evolution-gaming/smetrics
 - evolution-gaming/sstream
 - evolution-gaming/stracer
-- evolution-gaming/throttler 
+- evolution-gaming/throttler
 - exoego/aws-lambda-scalajs-facade
 - exoego/aws-sdk-scalajs-facade
 - exoego/aws-sdk-scalajs-facade-generator
@@ -277,6 +276,7 @@
 - fullfacing/keycloak4s
 - functional-streams-for-scala/fs2
 - gearpump/gearpump
+- geirolz/advxml
 - gemini-hlsw/gemini-locales
 - gemini-hlsw/gsp-math
 - gemini-hlsw/ocs3
@@ -300,8 +300,8 @@
 - gfc-collective/sbt-dependency-graph-sugar
 - gfc-collective/sbt-newrelic
 - ghostdogpr/caliban
-- goodcover/scala-relay
 - gnieh/diffson
+- goodcover/scala-relay
 - henricook/SAMLer
 - herzrasen/stash
 - higherkindness/compendium
@@ -329,6 +329,7 @@
 - iheartradio/thomas
 - ilya-murzinov/finch-todo-backend
 - INCATools/dosdp-tools
+- ing-bank/baker
 - intracer/scalawiki
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
@@ -364,10 +365,10 @@
 - kubukoz/brick-store
 - kubukoz/datas
 - kubukoz/error-control
+- kubukoz/flawless
 - kubukoz/slick-effect
 - kubukoz/sup
 - kubukoz/vivalidi
-- kubukoz/flawless
 - kwark/play-refined
 - kwark/slick-refined
 - lagom/lagom
@@ -508,8 +509,8 @@
 - pravin-raha/maantrack
 - profunktor/console4cats
 - profunktor/fs2-rabbit
-- profunktor/http4s-tracer
 - profunktor/http4s-jwt-auth
+- profunktor/http4s-tracer
 - profunktor/redis4cats
 - pureconfig/pureconfig
 - pwliwanow/foundationdb4s
@@ -524,9 +525,9 @@
 - ReactivePlatform/Reactive-Design-Patterns
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
-- salesforce/transmogrifai-helloworld-sbt
 - sake92/hepek
 - saksdirect/sundial
+- salesforce/transmogrifai-helloworld-sbt
 - sangria-graphql-org/macro-visit
 - sangria-graphql-org/sangria
 - sangria-graphql-org/sangria-akka-streams
@@ -685,12 +686,12 @@
 - tmtsoftware/esw
 - tmtsoftware/esw-prototype
 - tmtsoftware/sequencer-scripts
-- to-ithaca/libra
 - tomwadeson/scala-barebones
+- to-ithaca/libra
 - tpolecat/atto
 - tpolecat/doobie
-- tpolecat/skunk
 - tpolecat/natchez
+- tpolecat/skunk
 - transcendent-ai-labs/DynaML
 - travisbrown/catbird
 - travisbrown/iteratee
