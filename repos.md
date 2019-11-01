@@ -730,6 +730,7 @@
 - underscoreio/slickless
 - unfiltered/unfiltered
 - unsecurityio/unsecurity
+- vaslabs/sbt-kubeyml
 - vigoo/clipp
 - vigoo/prox
 - vigoo/simpp
