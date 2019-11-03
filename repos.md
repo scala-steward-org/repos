@@ -344,6 +344,7 @@
 - japgolly/scala-graal
 - japgolly/test-state
 - japgolly/univeq
+- jatcwang/hotpotato
 - jmcardon/tsec
 - JohnReedLOL/pos
 - jsuereth/scala-arm
