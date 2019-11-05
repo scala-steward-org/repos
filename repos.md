@@ -395,6 +395,7 @@
 - lightbend/ssl-config
 - lihaoyi/scala.rx
 - loicknuchel/gospeak
+- lomigmegard/akka-http-cors
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
 - LREN-CHUV/woken-validation
