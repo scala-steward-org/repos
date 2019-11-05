@@ -522,6 +522,7 @@
 - ReactiveMongo/ReactiveMongo
 - ReactiveMongo/ReactiveMongo-BSON
 - ReactiveMongo/ReactiveMongo-Play-Json
+- ReactiveMongo/ReactiveMongo-Shaded
 - ReactiveMongo/ReactiveMongo-Streaming
 - ReactivePlatform/Pragmatic-Scala
 - ReactivePlatform/Reactive-Design-Patterns
