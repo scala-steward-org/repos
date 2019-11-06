@@ -446,6 +446,7 @@
 - navicore/naviblob
 - navicore/navilake
 - navicore/NaviPath
+- navicore/ehtail
 - NeQuissimus/circe-kafka
 - NeQuissimus/nequi-kafka
 - NeQuissimus/sort-imports
