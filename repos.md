@@ -303,6 +303,7 @@
 - ghostdogpr/caliban
 - gnieh/diffson
 - goodcover/scala-relay
+- hayasshi/akka-http-router
 - henricook/SAMLer
 - herzrasen/stash
 - higherkindness/compendium
