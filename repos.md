@@ -85,6 +85,7 @@
 - ceedubs/irrec
 - census-ecosystem/opencensus-scala
 - channingwalton/http4sWS
+- chenharryhua/nanjin
 - ChocPanda/argonaut-magnolia
 - ChocPanda/scalacheck-magnolia
 - ChristopherDavenport/agitation
