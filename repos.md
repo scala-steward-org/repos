@@ -442,11 +442,11 @@
 - nafg/slick-migration-api
 - nafg/slick-migration-api-flyway
 - navicore/akka-eventhubs
+- navicore/ehtail
 - navicore/lots-of-names
 - navicore/naviblob
 - navicore/navilake
 - navicore/NaviPath
-- navicore/ehtail
 - NeQuissimus/circe-kafka
 - NeQuissimus/nequi-kafka
 - NeQuissimus/sort-imports
@@ -654,6 +654,7 @@
 - swagger-akka-http/swagger-scala-module
 - SwissBorg/lithium
 - synesso/scala-stellar-sdk
+- SystemFw/upperbound
 - taig/lokal
 - tanishiking/scalaunfmt
 - tbrown1979/totp4s
