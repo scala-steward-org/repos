@@ -66,6 +66,9 @@
 - BenFradet/gsheets4s
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
+- betagouv/aplus
+- betagouv/plante-et-moi-backend
+- betagouv/signalement-api
 - bitcoin-s/bitcoin-s
 - bkirwi/decline
 - blemale/scaffeine
