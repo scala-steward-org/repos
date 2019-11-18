@@ -768,7 +768,6 @@
 - zengularity/benji
 - zengularity/query-monad
 - zio/interop-cats
-- zio/interop-future
 - zio/interop-guava
 - zio/interop-java
 - zio/interop-monix
