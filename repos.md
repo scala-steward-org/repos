@@ -690,6 +690,7 @@
 - ThoughtWorksInc/tryt.scala
 - TimWSpence/cats-stm
 - TinkoffCreditSystems/typed-schema
+- TinkoffCreditSystems/tofu
 - tjheslin1/DMsPredictor
 - tmtsoftware/csw
 - tmtsoftware/csw.g8
