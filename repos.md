@@ -776,6 +776,7 @@
 - zio/zio-actors
 - zio/zio-akka-cluster
 - zio/zio-config
+- zio/zio-kafka
 - zio/zio-keeper
 - zio/zio-nio
 - zio/zio-sqs
