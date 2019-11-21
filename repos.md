@@ -636,6 +636,7 @@
 - softwaremill/sbt-softwaremill
 - softwaremill/sttp
 - softwaremill/tapir
+- solidninja/albion
 - solidninja/schema-registry-sttp-client
 - soundcloud/twinagle
 - sphereio/sphere-scala-libs
