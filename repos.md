@@ -535,6 +535,7 @@
 - ReactiveMongo/ReactiveMongo-Streaming
 - ReactivePlatform/Pragmatic-Scala
 - ReactivePlatform/Reactive-Design-Patterns
+- rememberthemilk/akka-amqp
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
 - sake92/hepek
