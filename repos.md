@@ -55,6 +55,7 @@
 - augustjune/canoe
 - avast/datadog4s
 - avast/scala-server-toolkit
+- avdv/scalals
 - AVSystem/scala-commons
 - azhur/kafka-serde-scala
 - balhoff/arachne
