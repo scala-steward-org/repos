@@ -380,6 +380,7 @@
 - kwark/slick-refined
 - lagom/lagom
 - lancewalton/treelog
+- laserdisc-io/eisner
 - laserdisc-io/laserdisc
 - laserdisc-io/log-effect
 - laserdisc-io/stream-it
