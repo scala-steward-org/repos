@@ -750,6 +750,7 @@
 - unfiltered/unfiltered
 - unsecurityio/unsecurity
 - vaslabs/sbt-kubeyml
+- vaslabs/talos
 - vigoo/clipp
 - vigoo/prox
 - vigoo/simpp
