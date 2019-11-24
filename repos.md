@@ -654,9 +654,9 @@
 - srenault/sre-api
 - sritchie/scala-rl
 - stephennancekivell/scalatest-json
-- stryker-mutator/stryker4s
 - stripe/agate
 - stripe/dagon
+- stryker-mutator/stryker4s
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/scala-hello-world-app
@@ -695,8 +695,8 @@
 - ThoughtWorksInc/todo
 - ThoughtWorksInc/tryt.scala
 - TimWSpence/cats-stm
-- TinkoffCreditSystems/typed-schema
 - TinkoffCreditSystems/tofu
+- TinkoffCreditSystems/typed-schema
 - tjheslin1/DMsPredictor
 - tmtsoftware/csw
 - tmtsoftware/csw.g8
