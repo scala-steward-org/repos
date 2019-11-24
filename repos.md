@@ -718,6 +718,7 @@
 - travisbrown/iteratee
 - travisbrown/iteratee-twitter
 - twilio/guardrail
+- twilio/sbt-guardrail
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
