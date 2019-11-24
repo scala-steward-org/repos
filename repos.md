@@ -786,6 +786,7 @@
 - zio/zio-config
 - zio/zio-kafka
 - zio/zio-keeper
+- zio/zio-logging
 - zio/zio-nio
 - zio/zio-sqs
 - zio/zio-telemetry
