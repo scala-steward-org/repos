@@ -749,6 +749,7 @@
 - underscoreio/slickless
 - unfiltered/unfiltered
 - unsecurityio/unsecurity
+- valskalla/odin
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
 - vigoo/clipp
