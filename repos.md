@@ -789,6 +789,7 @@
 - zio/zio-kafka
 - zio/zio-keeper
 - zio/zio-logging
+- zio/zio-macros
 - zio/zio-nio
 - zio/zio-sqs
 - zio/zio-telemetry
