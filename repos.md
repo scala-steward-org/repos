@@ -643,6 +643,7 @@
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
 - soundcloud/twinagle
+- spf3000/functional-kniffle
 - sphereio/sphere-scala-libs
 - spotify/big-data-rosetta-code
 - spotify/featran
