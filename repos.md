@@ -457,7 +457,7 @@
 - NeQuissimus/nequi-kafka
 - NeQuissimus/sort-imports
 - NeQuissimus/zio-slf4j
-- nevillelyh/parquet-avro-extra
+- nevillelyh/parquet-extra
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
 - NomadBlacky/digdag-plugin-datadog
