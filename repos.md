@@ -422,6 +422,7 @@
 - mbuzdalov/incremental-orthants
 - mbuzdalov/non-dominated-sorting
 - mbuzdalov/orthant-search
+- medeia/medeia
 - mefellows/sbt-dotenv
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
