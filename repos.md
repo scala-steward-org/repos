@@ -307,6 +307,7 @@
 - ghostdogpr/caliban
 - gnieh/diffson
 - goodcover/scala-relay
+- gvolpe/pfps-examples
 - hayasshi/akka-http-router
 - henricook/SAMLer
 - herzrasen/stash
