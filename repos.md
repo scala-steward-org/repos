@@ -434,6 +434,7 @@
 - monadless/monadless
 - monix/monix
 - monix/monix-kafka
+- mthmulders/hyperion
 - mwz/sbt-sonar
 - mwz/sonar-scala
 - nafg/cloud-logging-logback-scala
