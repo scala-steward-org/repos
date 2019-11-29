@@ -429,6 +429,7 @@
 - metabookmarks/sbt-plantuml-plugin
 - mfirry/scala-http-clients
 - mfirry/web-frameworks-templates
+- michaelahlers/b2-scala
 - milessabin/shapeless
 - mitochon/polyjuice
 - mockito/mockito-scala
