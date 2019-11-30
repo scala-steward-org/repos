@@ -572,8 +572,12 @@
 - sbt/sbt-java-formatter
 - sbt/sbt-unidoc
 - scalabin-no/http4s-directives
+- scalacenter/sbt-scalafix
+- scalacenter/scalafix
 - scalameta/metabrowse
+- scalameta/metals
 - scalameta/sbt-scalafmt
+- scalameta/scalafmt
 - scalapb/protobuf-scala-runtime
 - scalapb/protoc-bridge
 - scalapb/ScalaPB
