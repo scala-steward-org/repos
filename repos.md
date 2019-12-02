@@ -414,6 +414,7 @@
 - L-space/L-space-NS
 - L-space/Types
 - makiftutuncu/e
+- matsluni/aws-spi-akka-http
 - maximn/coding-interview-questions-scala
 - maximn/scala-workshop
 - maximn/TaxCalculator
