@@ -657,6 +657,7 @@
 - spotify/featran
 - spotify/magnolify
 - spotify/noether
+- spotify/ratatool
 - spotify/scio
 - spotify/scio.g8
 - spotify/scio-idea-plugin
