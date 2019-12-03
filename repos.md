@@ -385,6 +385,7 @@
 - laserdisc-io/laserdisc
 - laserdisc-io/log-effect
 - laserdisc-io/stream-it
+- laserdisc-io/tamer
 - leanovate/play-mockws
 - leigh-perry/conduction
 - leigh-perry/log4zio
