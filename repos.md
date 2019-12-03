@@ -341,6 +341,7 @@
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
+- j5ik2o/akka-persistence-dynamodb
 - JannikArndt/scala-start
 - japgolly/clear-config
 - japgolly/microlibs-scala
