@@ -761,6 +761,7 @@
 - typelevel/squants
 - ua-parser/uap-scala
 - UdashFramework/udash-core
+- UkonnRa/chessur
 - underscoreio/slickless
 - unfiltered/unfiltered
 - unsecurityio/unsecurity
