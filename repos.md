@@ -309,6 +309,7 @@
 - gnieh/diffson
 - goodcover/scala-relay
 - gvolpe/pfps-examples
+- gvolpe/pfps-shopping-cart
 - hayasshi/akka-http-router
 - henricook/SAMLer
 - herzrasen/stash
