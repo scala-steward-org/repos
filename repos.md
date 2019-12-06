@@ -509,6 +509,7 @@
 - Philippus/julius
 - Philippus/scala-for-all
 - picnicml/doddle-model
+- pityka/saddle
 - pjan/akka-d3
 - playalot/ReactiveMongo-Extensions
 - playframework/anorm
