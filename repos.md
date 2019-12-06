@@ -212,6 +212,7 @@
 - emartech/pure-scheduler
 - embeddedkafka/embedded-kafka
 - embeddedkafka/embedded-kafka-schema-registry
+- emergentorder/onnx-scala
 - enzief/recursionz
 - erikerlandson/coulomb
 - erikvanoosten/metrics-scala
