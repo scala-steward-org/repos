@@ -60,6 +60,7 @@
 - AVSystem/scala-commons
 - azhur/kafka-serde-scala
 - balhoff/arachne
+- balhoff/owl-to-rules
 - balhoff/whelk
 - barambani/docker-effect
 - barambani/http4s-poc-api
