@@ -311,6 +311,7 @@
 - ghostdogpr/caliban
 - gnieh/diffson
 - goodcover/scala-relay
+- gospeak-io/gospeak
 - gvolpe/pfps-examples
 - gvolpe/pfps-shopping-cart
 - hayasshi/akka-http-router
@@ -410,7 +411,6 @@
 - lightbend/scala-sculpt
 - lightbend/ssl-config
 - lihaoyi/scala.rx
-- loicknuchel/gospeak
 - lomigmegard/akka-http-cors
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
