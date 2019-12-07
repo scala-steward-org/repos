@@ -258,6 +258,8 @@
 - exoego/scala-js-ts-importer
 - Fabszn/scaffolding-plugin-lagom
 - Facsimiler/facsimile
+- fd4s/fs2-kafka
+- fd4s/vulcan
 - fdietze/bench
 - fdietze/colorado
 - fdietze/flatland
@@ -486,9 +488,7 @@
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
 - OutWatch/outwatch
-- ovotech/fs2-kafka
 - ovotech/kafka-serialization
-- ovotech/vulcan
 - pathikrit/better-files
 - pathikrit/dijon
 - pauljamescleary/scala-pet-store
