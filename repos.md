@@ -790,6 +790,12 @@
 - WellFactored/property-info
 - WellFactored/resourcepool
 - weso/shaclex
+- weso/srdf
+- weso/document
+- weso/shex-s
+- weso/shacl-s
+- weso/rdfshape
+- weso/utils
 - wvlet/airframe
 - X9Developers/block-explorer
 - xerial/sbt-pack
