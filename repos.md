@@ -352,6 +352,7 @@
 - IronCoreLabs/recrypt
 - j5ik2o/akka-persistence-dynamodb
 - j5ik2o/reactive-aws-clients
+- j5ik2o/sw4jj
 - JannikArndt/scala-start
 - japgolly/clear-config
 - japgolly/microlibs-scala
