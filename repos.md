@@ -7,6 +7,9 @@
 - 2m/sonatype-stats
 - 7mind/izumi
 - 7mind/sbtgen
+- 7mind/distage-livecode
+- 7mind/distage-sample
+- 7mind/idealingua-example
 - 47deg/fetch
 - 47deg/github4s
 - 47deg/metrifier
