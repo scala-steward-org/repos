@@ -288,6 +288,7 @@
 - fthomas/singleton-ops
 - fthomas/status-page
 - fullfacing/keycloak4s
+- fullfacing/akkaMonixSttpBackend
 - functional-streams-for-scala/fs2
 - gearpump/gearpump
 - geirolz/advxml
