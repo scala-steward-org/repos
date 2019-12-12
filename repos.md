@@ -640,6 +640,7 @@
 - shankarshastri/ScalaFPCode
 - sirocchj/sbt-api-builder
 - sirthias/borer
+- sisioh/baseunits-scala
 - sksamuel/avro4s
 - sksamuel/elastic4s
 - sksamuel/pulsar4s
