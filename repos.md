@@ -457,6 +457,9 @@
 - monadless/monadless
 - monix/monix
 - monix/monix-kafka
+- mslinn/play28-template
+- mslinn/sbtTemplate
+- mslinn/web3j-scala
 - mthmulders/hyperion
 - mwz/sbt-sonar
 - mwz/sonar-scala
