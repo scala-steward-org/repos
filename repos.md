@@ -12,6 +12,7 @@
 - 7mind/idealingua-example
 - 47deg/fetch
 - 47deg/github4s
+- 47deg/memeid
 - 47deg/metrifier
 - 47deg/mu-smart-home
 - 47deg/pbdirect
