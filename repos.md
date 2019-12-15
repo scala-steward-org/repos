@@ -454,6 +454,7 @@
 - mitochon/polyjuice
 - mockito/mockito-scala
 - molikto/mlang
+- molikto/medit
 - monadless/monadless
 - monix/monix
 - monix/monix-kafka
