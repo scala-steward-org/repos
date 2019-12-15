@@ -40,7 +40,7 @@
 - alejandrohdezma/sensitive-strings
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
-- alexarchambault/ammonite-spark
+- alexarchambault/amnite-spark
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
 - alexarchambault/plotly-scala
@@ -454,6 +454,7 @@
 - mitochon/polyjuice
 - mockito/mockito-scala
 - molikto/mlang
+- molikto/medit
 - monadless/monadless
 - monix/monix
 - monix/monix-kafka
