@@ -460,6 +460,11 @@
 - mslinn/play28-template
 - mslinn/sbtTemplate
 - mslinn/web3j-scala
+- mslinn/quill-cache
+- mslinn/awslib_scala
+- mslinn/dotty-example-project
+- mslinn/dottyTemplate
+- mslinn/quill-cache
 - mthmulders/hyperion
 - mwz/sbt-sonar
 - mwz/sonar-scala
