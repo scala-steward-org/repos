@@ -40,7 +40,7 @@
 - alejandrohdezma/sensitive-strings
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
-- alexarchambault/amnite-spark
+- alexarchambault/ammonite-spark
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
 - alexarchambault/plotly-scala
