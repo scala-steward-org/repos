@@ -499,6 +499,10 @@
 - nrinaudo/kantan.xpath
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
+- ornicar/lila
+- ornicar/lila-ws
+- ornicar/lila-fishnet
+- ornicar/lila-search
 - OutWatch/outwatch
 - ovotech/kafka-serialization
 - pathikrit/better-files
