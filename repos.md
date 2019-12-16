@@ -6,7 +6,7 @@
 - 2m/polyfact
 - 2m/sonatype-stats
 - 7mind/distage-livecode
-- 7mind/distage-sample
+- 7mind/distage-example
 - 7mind/idealingua-example
 - 7mind/izumi
 - 7mind/sbtgen
