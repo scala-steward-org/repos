@@ -201,6 +201,7 @@
 - DanielaSfregola/twitter4s
 - DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
+- davegurnell/bridges
 - devilune/dotty-graalvm.g8
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
