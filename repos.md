@@ -161,7 +161,6 @@
 - circe/circe-json-schema
 - circe/circe-magnolia
 - circe/circe-optics
-- circe/circe-sangria
 - circe/circe-spire
 - circe/circe-spray
 - circe/circe-yaml
