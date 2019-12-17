@@ -467,6 +467,7 @@
 - mslinn/quill-cache
 - mslinn/sbtTemplate
 - mslinn/scalacourses-utils
+- mslinn/urlettes
 - mslinn/web3j-scala
 - mthmulders/hyperion
 - mwz/sbt-sonar
