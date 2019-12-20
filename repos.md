@@ -811,7 +811,6 @@
 - typelevel/jawn
 - typelevel/kind-projector
 - typelevel/kittens
-- typelevel/machinist
 - typelevel/mouse
 - typelevel/paiges
 - typelevel/sbt-catalysts
