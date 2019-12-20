@@ -696,7 +696,6 @@
 - slamdata/quasar-destination-s3
 - slamdata/quasar-destination-snowflake
 - slamdata/quasar-destination-thoughtspot
-- slamdata/sbt-quasar-destination
 - slamdata/sbt-quasar-plugin
 - slamdata/sbt-slamdata
 - slamdata/slamdata-predef
