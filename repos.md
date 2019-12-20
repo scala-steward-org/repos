@@ -500,6 +500,7 @@
 - NomadBlacky/scala_examples
 - notxcain/aecor
 - novakov-alexey/http4s-spnego
+- novakov-alexey/freya
 - nrinaudo/kantan.codecs
 - nrinaudo/kantan.csv
 - nrinaudo/kantan.regex
