@@ -576,6 +576,7 @@
 - ReactiveMongo/ReactiveMongo-Streaming
 - ReactivePlatform/Pragmatic-Scala
 - ReactivePlatform/Reactive-Design-Patterns
+- redis4s/redis4s
 - regadas/sbt-socco
 - rememberthemilk/akka-amqp
 - rtimush/sbt-updates
