@@ -193,6 +193,7 @@
 - criteo/lolhttp
 - d2a4u/sqs4s
 - d10xa/jadd
+- d10xa/scala.g8
 - daandi/nice-url-encode-decode
 - daenyth/scytest
 - DanielaSfregola/random-data-generator
