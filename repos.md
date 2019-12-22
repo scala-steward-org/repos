@@ -354,6 +354,7 @@
 - INCATools/dosdp-tools
 - ing-bank/baker
 - intracer/scalawiki
+- iRevive/fmq
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
