@@ -328,7 +328,7 @@
 - higherkindness/compendium
 - higherkindness/compendium-example
 - higherkindness/droste
-- higherkindness/mu
+- higherkindness/mu-scala
 - higherkindness/mu-client.g8
 - higherkindness/mu-server.g8
 - higherkindness/sbt-compendium
