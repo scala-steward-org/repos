@@ -440,6 +440,7 @@
 - maximn/scala-workshop
 - maximn/TaxCalculator
 - max-leuthaeuser/SCROLL
+- manatki/derevo
 - mbuzdalov/data-slicer
 - mbuzdalov/generic-onell
 - mbuzdalov/incremental-orthants
