@@ -829,6 +829,7 @@
 - valskalla/odin
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
+- vertical-blank/scala-sql-formatter
 - vigoo/clipp
 - vigoo/prox
 - vigoo/simpp
