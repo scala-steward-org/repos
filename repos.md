@@ -56,7 +56,11 @@
 - Atry/Curried.scala
 - Atry/Dsl.scala-akka-actor
 - Atry/fastring
+- Atry/FutureBinding.scala
+- Atry/JsPromiseBinding.scala
+- Atry/Route.scala
 - Atry/scalajs-all-in-one-template
+- Atry/XmlExtractor.scala
 - augustjune/canoe
 - avast/datadog4s
 - avast/scala-server-toolkit
