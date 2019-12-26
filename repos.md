@@ -73,7 +73,7 @@
 - barambani/docker-effect
 - barambani/http4s-poc-api
 - barambani/laws
-- BenFradet/dashing
+#- BenFradet/dashing # temporarily ignored
 - BenFradet/gsheets4s
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
