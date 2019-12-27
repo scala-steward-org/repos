@@ -66,6 +66,8 @@
 - avast/scala-server-toolkit
 - avdv/scalals
 - AVSystem/scala-commons
+- azavea/franklin
+- azavea/stac4s
 - azhur/kafka-serde-scala
 - balhoff/arachne
 - balhoff/owl-to-rules
@@ -575,6 +577,7 @@
 - pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
 - raboof/sbt-reproducible-builds
+- raster-foundry/granary
 - ReactiveMongo/Play-ReactiveMongo
 - ReactiveMongo/ReactiveMongo
 - ReactiveMongo/ReactiveMongo-BSON
