@@ -23,6 +23,7 @@
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
 - agourlay/json-2-csv
+- ahjohannessen/sec
 - akka/akka
 - akka/akka-grpc
 - akka/akka-grpc-sample-kubernetes-scala
