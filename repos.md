@@ -885,3 +885,4 @@
 - zio/zio-sqs
 - zio/zio-telemetry
 - ziyasal/reducio
+- zouzias/spark-lucenerdd
