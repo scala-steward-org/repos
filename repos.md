@@ -679,6 +679,7 @@
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
 - shankarshastri/ScalaFPCode
+- shankarshastri/scala-proj-template
 - sirocchj/sbt-api-builder
 - sirthias/borer
 - sisioh/baseunits-scala
