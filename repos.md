@@ -576,6 +576,7 @@
 - qbicsoftware/scark-cli
 - raboof/sbt-reproducible-builds
 - raster-foundry/granary
+- rcmartins/blinky
 - ReactiveMongo/Play-ReactiveMongo
 - ReactiveMongo/ReactiveMongo
 - ReactiveMongo/ReactiveMongo-BSON
