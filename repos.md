@@ -299,6 +299,8 @@
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
 - functional-streams-for-scala/fs2
+- GlasslabGames/html.scala
+- GlasslabGames/nameBasedXml.scala
 - gearpump/gearpump
 - geirolz/advxml
 - gemini-hlsw/gemini-locales
