@@ -517,6 +517,7 @@
 - nrinaudo/kantan.xpath
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
+- orbeon/orbeon-forms
 - ornicar/lila
 - ornicar/lila-fishnet
 - ornicar/lila-search
