@@ -879,6 +879,7 @@
 - zio/zio-config
 - zio/zio-kafka
 - zio/zio-keeper
+- zio/zio-lambda
 - zio/zio-logging
 - zio/zio-macros
 - zio/zio-nio
