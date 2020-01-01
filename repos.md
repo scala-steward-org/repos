@@ -394,7 +394,7 @@
 - kemitix/thorp
 - kiambogo/fs2-jms
 - kmizu/jsonda
-- kmizu/macro_peg
+- macro-peg/macro_peg
 - kmizu/pegex
 - kontainers/micrometer-akka
 - kovszilard/smenu
