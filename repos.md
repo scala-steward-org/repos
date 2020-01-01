@@ -396,6 +396,8 @@
 - kmizu/jsonda
 - macro-peg/macro_peg
 - kmizu/pegex
+- klassic/klassic
+- kmizu/matlike
 - kontainers/micrometer-akka
 - kovszilard/smenu
 - kovszilard/twitter-server-prometheus
