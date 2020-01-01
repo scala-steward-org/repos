@@ -394,8 +394,9 @@
 - kemitix/thorp
 - kiambogo/fs2-jms
 - kmizu/jsonda
-- kmizu/macro_peg
 - kmizu/pegex
+- klassic/klassic
+- kmizu/matlike
 - kontainers/micrometer-akka
 - kovszilard/smenu
 - kovszilard/twitter-server-prometheus
