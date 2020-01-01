@@ -1,3 +1,4 @@
+#- BenFradet/dashing # temporarily ignored
 - 0um/thehand
 - 2m/authors
 - 2m/ciris-hocon
@@ -5,8 +6,8 @@
 - 2m/kabrioletas
 - 2m/polyfact
 - 2m/sonatype-stats
-- 7mind/distage-livecode
 - 7mind/distage-example
+- 7mind/distage-livecode
 - 7mind/idealingua-example
 - 7mind/izumi
 - 7mind/sbtgen
@@ -76,7 +77,6 @@
 - barambani/docker-effect
 - barambani/http4s-poc-api
 - barambani/laws
-#- BenFradet/dashing # temporarily ignored
 - BenFradet/gsheets4s
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
@@ -299,8 +299,6 @@
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
 - functional-streams-for-scala/fs2
-- GlasslabGames/html.scala
-- GlasslabGames/nameBasedXml.scala
 - gearpump/gearpump
 - geirolz/advxml
 - gemini-hlsw/gemini-locales
@@ -326,6 +324,8 @@
 - gfc-collective/sbt-dependency-graph-sugar
 - gfc-collective/sbt-newrelic
 - ghostdogpr/caliban
+- GlasslabGames/html.scala
+- GlasslabGames/nameBasedXml.scala
 - gnieh/diffson
 - goodcover/scala-relay
 - gospeak-io/gospeak
@@ -337,8 +337,8 @@
 - higherkindness/compendium
 - higherkindness/compendium-example
 - higherkindness/droste
-- higherkindness/mu-scala
 - higherkindness/mu-client.g8
+- higherkindness/mu-scala
 - higherkindness/mu-server.g8
 - higherkindness/sbt-compendium
 - higherkindness/skeuomorph
@@ -393,11 +393,10 @@
 - kemitix/eip-zio
 - kemitix/thorp
 - kiambogo/fs2-jms
-- kmizu/jsonda
-- macro-peg/macro_peg
-- kmizu/pegex
 - klassic/klassic
+- kmizu/jsonda
 - kmizu/matlike
+- kmizu/pegex
 - kontainers/micrometer-akka
 - kovszilard/smenu
 - kovszilard/twitter-server-prometheus
@@ -442,13 +441,14 @@
 - L-space/L-space
 - L-space/L-space-NS
 - L-space/Types
+- macro-peg/macro_peg
 - makiftutuncu/e
+- manatki/derevo
 - matsluni/aws-spi-akka-http
 - maximn/coding-interview-questions-scala
 - maximn/scala-workshop
 - maximn/TaxCalculator
 - max-leuthaeuser/SCROLL
-- manatki/derevo
 - mbuzdalov/data-slicer
 - mbuzdalov/generic-onell
 - mbuzdalov/incremental-orthants
@@ -510,8 +510,8 @@
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
 - notxcain/aecor
-- novakov-alexey/http4s-spnego
 - novakov-alexey/freya
+- novakov-alexey/http4s-spnego
 - nrinaudo/kantan.codecs
 - nrinaudo/kantan.csv
 - nrinaudo/kantan.regex
@@ -638,16 +638,16 @@
 - scalapb/scalapb-json4s
 - scalapb/sparksql-scalapb
 - scala-exercises/evaluator
-- scala-exercises/exercises-fetch
-- scala-exercises/exercises-stdlib
-- scala-exercises/exercises-fpinscala
 - scala-exercises/exercises-cats
 - scala-exercises/exercises-circe
 - scala-exercises/exercises-doobie
+- scala-exercises/exercises-fetch
+- scala-exercises/exercises-fpinscala
 - scala-exercises/exercises-monocle
 - scala-exercises/exercises-scalacheck
 - scala-exercises/exercises-scalatutorial
 - scala-exercises/exercises-shapeless
+- scala-exercises/exercises-stdlib
 - scala-exercises/exercises-template
 - scala-exercises/scala-exercises
 - scala-ts/scala-ts
