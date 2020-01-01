@@ -394,6 +394,7 @@
 - kemitix/thorp
 - kiambogo/fs2-jms
 - kmizu/jsonda
+- macro-peg/macro_peg
 - kmizu/pegex
 - klassic/klassic
 - kmizu/matlike
