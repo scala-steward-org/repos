@@ -694,6 +694,7 @@
 - sksamuel/elastic4s
 - sksamuel/pulsar4s
 - Slakah/fastparse-parsers
+- Slakah/slakah.github.io
 - Slakah/uritemplate4s
 - slamdata/async-blobstore
 - slamdata/fs2-job
