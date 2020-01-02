@@ -212,6 +212,7 @@
 - devilune/dotty-graalvm.g8
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
+- djspiewak/coop
 - djspiewak/gll-combinators
 - djspiewak/shims
 - dmrolfs/base-sbt-mult-project
