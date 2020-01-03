@@ -888,6 +888,7 @@
 - zio/zio-actors
 - zio/zio-akka-cluster
 - zio/zio-config
+- zio/zio-ftp
 - zio/zio-kafka
 - zio/zio-keeper
 - zio/zio-lambda
@@ -896,6 +897,5 @@
 - zio/zio-nio
 - zio/zio-sqs
 - zio/zio-telemetry
-- zio/zio-ftp
 - ziyasal/reducio
 - zouzias/spark-lucenerdd
