@@ -896,5 +896,6 @@
 - zio/zio-nio
 - zio/zio-sqs
 - zio/zio-telemetry
+- zio/zio-ftp
 - ziyasal/reducio
 - zouzias/spark-lucenerdd
