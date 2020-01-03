@@ -541,6 +541,7 @@
 - phdoerfler/latex-scanner
 - phenoscape/scowl
 - Philippus/baggage-jwt
+- Philippus/base64
 - Philippus/between
 - Philippus/bump
 - Philippus/emoji-clock
