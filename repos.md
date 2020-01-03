@@ -530,6 +530,7 @@
 - ovotech/kafka-serialization
 - pathikrit/better-files
 - pathikrit/dijon
+- paulbutcher/ScalaMock
 - pauljamescleary/scala-pet-store
 - pbernet/akka_streams_tutorial
 - pdalpra/gh4s
