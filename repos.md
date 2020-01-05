@@ -335,7 +335,6 @@
 - gvolpe/pfps-shopping-cart
 - hayasshi/akka-http-router
 - henricook/SAMLer
-- herzrasen/stash
 - higherkindness/compendium
 - higherkindness/compendium-example
 - higherkindness/droste
