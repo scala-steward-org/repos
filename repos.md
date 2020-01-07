@@ -209,6 +209,7 @@
 - DanielaSfregola/twitter4s
 - DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
+- dapperware/zio-slack
 - davegurnell/bridges
 - devilune/dotty-graalvm.g8
 - dispalt/tagless-redux
