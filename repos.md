@@ -483,6 +483,9 @@
 - mslinn/urlettes
 - mslinn/web3j-scala
 - mthmulders/hyperion
+- mvillafuertem/scala
+- mvillafuertem/scalcite
+- mvillafuertem/mdoc-modifier
 - mwz/sbt-sonar
 - mwz/sonar-scala
 - nafg/cloud-logging-logback-scala
