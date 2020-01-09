@@ -407,6 +407,7 @@
 - kubukoz/flawless
 - kubukoz/slick-effect
 - kubukoz/sup
+- kubukoz/spotify-next
 - kwark/play-refined
 - kwark/slick-refined
 - lagom/lagom
