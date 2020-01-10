@@ -224,6 +224,13 @@
 - dwijnand/sbt-project-graph
 - dwijnand/sbt-reloadquick
 - dwijnand/sbt-travisci
+- eikek/bitpeace
+- eikek/docspell
+- eikek/emil
+- eikek/mpc4s
+- eikek/sbt-openapi-schema
+- eikek/sharry
+- eikek/yamusca
 - eltherion/http4s-timer
 - emartech/pure-scheduler
 - embeddedkafka/embedded-kafka
