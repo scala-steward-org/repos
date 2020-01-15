@@ -480,6 +480,7 @@
 - monadless/monadless
 - monix/monix
 - monix/monix-kafka
+- mschuwalow/zio-todo-backend
 - mslinn/awslib_scala
 - mslinn/dottyTemplate
 - mslinn/dotty-example-project
