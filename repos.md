@@ -399,6 +399,7 @@
 - julien-truffaut/Monocle
 - kailuowang/henkan
 - kailuowang/mau
+- katlasik/functionmeta
 - KelkooGroup/theGardener
 - kemitix/eip-zio
 - kemitix/thorp
