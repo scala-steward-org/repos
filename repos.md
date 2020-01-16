@@ -36,6 +36,7 @@
 - akka/akka-sample-cluster-docker-compose-java
 - akka/akka-sample-cluster-docker-compose-scala
 - akka/akka-sample-cluster-kubernetes-dns-java
+- akka/akka-sample-cluster-kubernetes-scala
 - albuch/sbt-dependency-check
 - alejandrohdezma/sbt-fix
 - alejandrohdezma/sbt-me
