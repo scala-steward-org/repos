@@ -193,7 +193,9 @@
 - cquiroz/scalajs-react-clipboard
 - cquiroz/scalajs-react-common
 - cquiroz/scalajs-react-draggable
+- cquiroz/scalajs-react-grid-layout
 - cquiroz/scalajs-react-semantic-ui
+- cquiroz/scalajs-react-sizeme
 - cquiroz/scalajs-react-virtualized
 - cquiroz/scala-java-locales
 - cquiroz/scala-java-time
@@ -312,7 +314,9 @@
 - functional-streams-for-scala/fs2
 - gearpump/gearpump
 - geirolz/advxml
+- gemini-hlsw/explore
 - gemini-hlsw/gemini-locales
+- gemini-hlsw/gsp-core
 - gemini-hlsw/gsp-math
 - gemini-hlsw/ocs3
 - gemini-hlsw/sbt-gsp
