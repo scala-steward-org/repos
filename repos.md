@@ -890,6 +890,7 @@
 - yannick-cw/elastic-indexer4s
 - yannick-cw/sjq
 - YannMoisan/graphite4s
+- yoshiyoshifujii/sbt-jig
 - zengularity/benji
 - zengularity/query-monad
 - zio/interop-cats
