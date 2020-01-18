@@ -617,6 +617,7 @@
 - redis4s/redis4s
 - regadas/sbt-socco
 - regadas/scala-seed
+- regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
