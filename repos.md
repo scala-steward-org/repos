@@ -421,6 +421,7 @@
 - kubukoz/slick-effect
 - kubukoz/sup
 - kubukoz/spotify-next
+- kubukoz/library-template.g8
 - kwark/play-refined
 - kwark/slick-refined
 - lagom/lagom
