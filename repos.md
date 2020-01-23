@@ -314,7 +314,6 @@
 - functional-streams-for-scala/fs2
 - gearpump/gearpump
 - geirolz/advxml
-- gemini-hlsw/explore
 - gemini-hlsw/gemini-locales
 - gemini-hlsw/gsp-core
 - gemini-hlsw/gsp-math
@@ -619,6 +618,7 @@
 - regadas/scala-seed
 - regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
+- rpiaggio/crystal
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
 - sake92/hepek
