@@ -620,6 +620,7 @@
 - rememberthemilk/akka-amqp
 - rpiaggio/crystal
 - rtimush/sbt-updates
+- runtologist/BuildingAnEffectRuntime
 - ruippeixotog/scala-scraper
 - sake92/hepek
 - saksdirect/sundial
