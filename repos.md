@@ -821,8 +821,8 @@
 - tmtsoftware/csw
 - tmtsoftware/csw.g8
 - tmtsoftware/csw-acceptance
-- tmtsoftware/csw-client
 - tmtsoftware/csw-js
+- tmtsoftware/csw-shell
 - tmtsoftware/embedded-keycloak
 - tmtsoftware/esw
 - tmtsoftware/esw-prototype
