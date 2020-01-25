@@ -227,6 +227,7 @@
 - dwijnand/sbt-project-graph
 - dwijnand/sbt-reloadquick
 - dwijnand/sbt-travisci
+- ecyshor/akka-consul-lease
 - eikek/bitpeace
 - eikek/docspell
 - eikek/emil
