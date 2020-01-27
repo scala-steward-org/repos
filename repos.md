@@ -39,7 +39,7 @@
 - akka/akka-sample-cluster-kubernetes-scala
 - albuch/sbt-dependency-check
 - alejandrohdezma/sbt-fix
-- alejandrohdezma/sbt-me
+- alejandrohdezma/sbt-github
 - alejandrohdezma/sensitive-strings
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
