@@ -549,6 +549,7 @@
 - ornicar/lila-ws
 - OutWatch/outwatch
 - ovotech/kafka-serialization
+- ovotech/http4s-micrometer-metrics
 - pathikrit/better-files
 - pathikrit/dijon
 - paulbutcher/ScalaMock
