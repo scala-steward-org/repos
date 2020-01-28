@@ -377,6 +377,8 @@
 - imazsak/imazsak
 - INCATools/boomer
 - INCATools/dosdp-tools
+- IndiscriminateCoding/api4s
+- IndiscriminateCoding/jetty4s
 - ing-bank/baker
 - intracer/scalawiki
 - iRevive/fmq
