@@ -484,6 +484,7 @@
 - milessabin/shapeless
 - mitochon/polyjuice
 - mockito/mockito-scala
+- moia-dev/streamee
 - molikto/medit
 - molikto/mlang
 - monadless/monadless
