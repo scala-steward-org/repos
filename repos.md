@@ -533,6 +533,8 @@
 - nevillelyh/parquet-extra
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
+- niqdev/kafka-scala-examples
+- niqdev/scala-fp
 - NomadBlacky/digdag-plugin-datadog
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
