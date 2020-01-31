@@ -610,6 +610,7 @@
 - profunktor/http4s-tracer
 - profunktor/redis4cats
 - pureconfig/pureconfig
+- pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
 - raboof/sbt-reproducible-builds
