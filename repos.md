@@ -610,6 +610,7 @@
 - profunktor/http4s-jwt-auth
 - profunktor/http4s-tracer
 - profunktor/redis4cats
+- protenus/dipendi
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
