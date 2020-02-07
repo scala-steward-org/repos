@@ -54,6 +54,7 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
+- asachdeva/fpinsscala 
 - atnos-org/eff
 - atnos-org/origami
 - Atry/Curried.scala
