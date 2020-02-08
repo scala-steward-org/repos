@@ -91,6 +91,7 @@
 - bitcoin-s/bitcoin-s
 - bkirwi/decline
 - blemale/scaffeine
+- buildo/retro
 - butcherless/incubator
 - butcherless/scala
 - cb372/cats-retry
