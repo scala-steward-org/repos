@@ -54,6 +54,7 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
+- asachdeva/cats-sandbox
 - asachdeva/fpinsscala 
 - atnos-org/eff
 - atnos-org/origami
