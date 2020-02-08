@@ -82,6 +82,8 @@
 - barambani/docker-effect
 - barambani/http4s-poc-api
 - barambani/laws
+- beautiful-scala/sbt-scalastyle
+- beautiful-scala/scalastyle
 - BenFradet/gsheets4s
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
