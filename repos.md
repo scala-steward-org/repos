@@ -48,6 +48,7 @@
 - alexarchambault/case-app
 - alexarchambault/plotly-scala
 - alexarchambault/scalacheck-shapeless
+- alexandru/typelevel-library.g8
 - almond-sh/almond
 - alonsodomin/cron4s
 - alonsodomin/kamon-cloudwatch
