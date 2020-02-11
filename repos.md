@@ -307,7 +307,12 @@
 - finagle/finch
 - finch/finch-oauth2
 - fp-tower/foundation
+- freechipsproject/chisel-template
+- freechipsproject/chisel3
+- freechipsproject/diagrammer
 - freechipsproject/firrtl
+- freechipsproject/firrtl-interpreter
+- freechipsproject/treadle
 - fthomas/base.g8
 - fthomas/crjdt
 - fthomas/datapackage
@@ -882,6 +887,8 @@
 - typelevel/spire
 - typelevel/squants
 - ua-parser/uap-scala
+- ucb-bar/dsp-tools
+- ucb-bar/chisel-testers2
 - UdashFramework/udash-core
 - underscoreio/slickless
 - unfiltered/unfiltered
