@@ -1,1 +1,2 @@
 - fthomas/scala-steward-test
+- tyoras/cards
