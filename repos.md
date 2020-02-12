@@ -71,7 +71,7 @@
 - avast/datadog4s
 - avast/scala-server-toolkit
 - avast/slog4s
-- avdv/scalals
+- avdv/play-json-refined
 - AVSystem/scala-commons
 - azavea/franklin
 - azavea/stac4s
