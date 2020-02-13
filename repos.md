@@ -91,6 +91,11 @@
 - betagouv/plante-et-moi-backend
 - betagouv/signalement-api
 - bitcoin-s/bitcoin-s
+- bitrockteam/kafka-dvs-api
+- bitrockteam/kafka-dvs-aviation-edge-producer
+- bitrockteam/kafka-dvs-avro-schemas
+- bitrockteam/kafka-dvs-streams
+- bitrockteam/kafka-dvs-ui
 - bkirwi/decline
 - blemale/scaffeine
 - buildo/retro
