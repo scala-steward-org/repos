@@ -1,4 +1,8 @@
 #!/bin/sh
 
-sort --ignore-case --version-sort -o repos.md repos.md
-git commit -m "Sort repos" repos.md
+sort_repos() {
+    sort --ignore-case --version-sort -o $1 $1
+}
+
+sort_repos repos.md
+sort_repos repos-gitlab.md
