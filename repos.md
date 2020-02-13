@@ -681,7 +681,9 @@
 - scalapb/protoc-bridge
 - scalapb/ScalaPB
 - scalapb/scalapb-json4s
+- scalapb/scalapb-template.g8
 - scalapb/sparksql-scalapb
+- scalapb/zio-grpc
 - scala-exercises/evaluator
 - scala-exercises/exercises-cats
 - scala-exercises/exercises-circe
