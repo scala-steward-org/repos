@@ -95,7 +95,6 @@
 - bitrockteam/kafka-dvs-aviation-edge-producer
 - bitrockteam/kafka-dvs-avro-schemas
 - bitrockteam/kafka-dvs-streams
-- bitrockteam/kafka-dvs-ui
 - bkirwi/decline
 - blemale/scaffeine
 - buildo/retro
