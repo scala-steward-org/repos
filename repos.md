@@ -709,6 +709,7 @@
 - scala-ts/scala-ts
 - scala/hello-world.g8
 - scala/make-release-notes
+- scala/nanotest-strawman
 - scala/sbt-scala-module
 - scala/scalatest-example.g8
 - scala/scala-collection-compat
