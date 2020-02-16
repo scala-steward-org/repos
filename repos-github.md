@@ -447,11 +447,11 @@
 - lagom/lagom
 - lancewalton/treelog
 - laserdisc-io/eisner
+- laserdisc-io/fs2-aws
 - laserdisc-io/laserdisc
 - laserdisc-io/log-effect
 - laserdisc-io/stream-it
 - laserdisc-io/tamer
-- laserdisc-io/fs2-aws
 - leanovate/play-mockws
 - leigh-perry/conduction
 - leigh-perry/log4zio
