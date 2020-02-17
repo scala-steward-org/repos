@@ -628,6 +628,8 @@
 - profunktor/redis4cats
 - proteinevolution/Toolkit
 - protenus/dipendi
+- protenus/dipendi-jsr330
+- protenus/dipendi-play
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
