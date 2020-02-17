@@ -626,6 +626,7 @@
 - profunktor/http4s-jwt-auth
 - profunktor/http4s-tracer
 - profunktor/redis4cats
+- proteinevolution/Toolkit
 - protenus/dipendi
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
