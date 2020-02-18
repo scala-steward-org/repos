@@ -576,6 +576,7 @@
 - ovotech/kafka-serialization
 - pathikrit/better-files
 - pathikrit/dijon
+- payalabs/scalajs-react-bridge
 - paulbutcher/ScalaMock
 - pauljamescleary/scala-pet-store
 - pbernet/akka_streams_tutorial
