@@ -800,6 +800,7 @@
 - spotify/scio.g8
 - spotify/scio-idea-plugin
 - spotify/tfexample-derive
+- spotify/tfreader
 - srenault/sre-api
 - sritchie/scala-rl
 - stephennancekivell/scalatest-json
