@@ -543,6 +543,7 @@
 - navicore/naviblob
 - navicore/navilake
 - navicore/NaviPath
+- neotypes/neotypes
 - NeQuissimus/circe-kafka
 - NeQuissimus/nequi-kafka
 - NeQuissimus/sort-imports
