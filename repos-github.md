@@ -808,6 +808,8 @@
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/scala-hello-world-app
+- svroonland/zio-kinesis
+- svroonland/zio-amqp
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
 - SwissBorg/lithium
