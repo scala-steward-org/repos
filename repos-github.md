@@ -589,6 +589,8 @@
 - phdoerfler/beegment
 - phdoerfler/enni
 - phdoerfler/latex-scanner
+- phenoscape/owlery
+- phenoscape/owlet
 - phenoscape/scowl
 - Philippus/baggage-jwt
 - Philippus/base64
