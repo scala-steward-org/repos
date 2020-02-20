@@ -9,6 +9,7 @@
 - 7mind/distage-example
 - 7mind/distage-livecode
 - 7mind/idealingua-example
+- 7mind/idealingua-v1
 - 7mind/izumi
 - 7mind/sbtgen
 - 47deg/fetch
