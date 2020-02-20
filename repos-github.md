@@ -12,6 +12,7 @@
 - 7mind/idealingua-v1
 - 7mind/izumi
 - 7mind/sbtgen
+- 47degrees/memeid
 - 47deg/fetch
 - 47deg/github4s
 - 47deg/metrifier
@@ -21,7 +22,6 @@
 - 47deg/sbt-microsites
 - 47deg/sbt-org-policies
 - 47deg/scalacheck-toolbox
-- 47degrees/memeid
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
 - agourlay/json-2-csv
@@ -577,9 +577,9 @@
 - ovotech/kafka-serialization
 - pathikrit/better-files
 - pathikrit/dijon
-- payalabs/scalajs-react-bridge
 - paulbutcher/ScalaMock
 - pauljamescleary/scala-pet-store
+- payalabs/scalajs-react-bridge
 - pbernet/akka_streams_tutorial
 - pdalpra/computer-database
 - pdalpra/gh4s
@@ -813,8 +813,8 @@
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/scala-hello-world-app
-- svroonland/zio-kinesis
 - svroonland/zio-amqp
+- svroonland/zio-kinesis
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
 - SwissBorg/lithium
