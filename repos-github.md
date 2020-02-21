@@ -437,6 +437,7 @@
 - kovszilard/smenu
 - kovszilard/twitter-server-prometheus
 - Ksisu/tell-me-a-secret
+- kubukoz/catharsis
 - kubukoz/datas
 - kubukoz/flawless
 - kubukoz/library-template.g8
