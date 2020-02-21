@@ -945,7 +945,6 @@
 - zengularity/query-monad
 - zio/interop-cats
 - zio/interop-guava
-- zio/interop-java
 - zio/interop-monix
 - zio/interop-reactive-streams
 - zio/interop-scalaz
