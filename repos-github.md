@@ -565,6 +565,7 @@
 - nrinaudo/kantan.regex
 - nrinaudo/kantan.sbt
 - nrinaudo/kantan.xpath
+- NthPortal/v
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
 - orbeon/orbeon-forms
