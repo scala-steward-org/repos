@@ -729,6 +729,7 @@
 - scala/scala-parser-combinators
 - scala/scala-seed.g8
 - scala/scala-xml
+- scala-cash/scash
 - scanamo/scanamo
 - scaruby/scaruby
 - schrepfler/artemis
