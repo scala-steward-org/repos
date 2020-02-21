@@ -56,6 +56,7 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
+- artsy/causality
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala 
 - atnos-org/eff
