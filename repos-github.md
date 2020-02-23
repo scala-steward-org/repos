@@ -312,6 +312,7 @@
 - finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
+- justinhj/fp-starter-pack.g8.git
 - fp-tower/foundation
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
