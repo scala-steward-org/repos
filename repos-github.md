@@ -964,3 +964,4 @@
 - zio/zio-telemetry
 - ziyasal/reducio
 - zouzias/spark-lucenerdd
+- liuhongchao/bitcoin4s
