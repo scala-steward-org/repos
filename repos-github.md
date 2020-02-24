@@ -534,6 +534,7 @@
 - nafg/css-dsl
 - nafg/jewish-date
 - nafg/reactive
+- nafg/scala-phonenumber
 - nafg/scalajs-facades
 - nafg/scalajs-react-util
 - nafg/scheduler
