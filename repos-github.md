@@ -959,6 +959,7 @@
 - zio/zio-akka-cluster
 - zio/zio-config
 - zio/zio-ftp
+- zio/zio-gcp
 - zio/zio-kafka
 - zio/zio-keeper
 - zio/zio-lambda
