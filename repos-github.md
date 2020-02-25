@@ -236,6 +236,7 @@
 - djspiewak/shims
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
+- dusan0098/Scalafix_FP_workshop
 - dwijnand/sbt-compat
 - dwijnand/sbt-dynver
 - dwijnand/sbt-project-graph
