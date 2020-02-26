@@ -204,6 +204,9 @@
 - coursier/sbt-coursier
 - coursier/sbt-cs-publish
 - coursier/sbt-launcher
+- cquiroz/kuyfi
+- cquiroz/sbt-locales
+- cquiroz/sbt-tzdb
 - cquiroz/scalajs-react-clipboard
 - cquiroz/scalajs-react-common
 - cquiroz/scalajs-react-draggable
