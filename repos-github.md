@@ -43,6 +43,7 @@
 - albuch/sbt-dependency-check
 - alejandrohdezma/sbt-fix
 - alejandrohdezma/sbt-github
+- alejandrohdezma/sbt-mdoc-toc
 - alejandrohdezma/sensitive-strings
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
