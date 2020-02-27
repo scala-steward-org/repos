@@ -400,6 +400,8 @@
 - iheartradio/thomas
 - ilya-murzinov/finch-todo-backend
 - imazsak/imazsak
+- implmnt/mercator-cats
+- implmnt/scalacheck-magnolia
 - INCATools/boomer
 - INCATools/dosdp-tools
 - IndiscriminateCoding/api4s
