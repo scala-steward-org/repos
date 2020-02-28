@@ -246,6 +246,7 @@
 - dwijnand/sbt-project-graph
 - dwijnand/sbt-reloadquick
 - dwijnand/sbt-travisci
+- ebiznext/comet-data-pipeline
 - ecyshor/akka-consul-lease
 - eikek/bitpeace
 - eikek/docspell
