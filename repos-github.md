@@ -841,6 +841,7 @@
 - tbrown1979/totp4s
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
+- tenable/Kastle
 - thesamet/sbt-protoc
 - ThoughtWorksInc/bindable.scala
 - ThoughtWorksInc/Binding.scala
