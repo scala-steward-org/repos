@@ -238,6 +238,8 @@
 - djspiewak/coop
 - djspiewak/gll-combinators
 - djspiewak/shims
+- dmarticus/scala-games
+- dmarticus/advent-of-code
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
 - dusan0098/Scalafix_FP_workshop
