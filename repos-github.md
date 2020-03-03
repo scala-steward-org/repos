@@ -930,6 +930,9 @@
 - vigoo/clipp
 - vigoo/prox
 - vigoo/simpp
+- vital-software/sbt-update-lines
+- vital-software/sbt-yourkit-external
+- vital-software/scala-redox
 - VladKopanev/cats-saga
 - VladKopanev/zio-saga
 - vlovgr/ciris
