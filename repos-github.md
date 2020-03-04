@@ -641,6 +641,7 @@
 - plokhotnyuk/fast-string-interpolator
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
+- pluralsight/hydra
 - ppurang/asynch
 - pravin-raha/maantrack
 - profunktor/console4cats
