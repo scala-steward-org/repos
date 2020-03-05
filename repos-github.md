@@ -104,6 +104,7 @@
 - buildo/retro
 - butcherless/incubator
 - butcherless/scala
+- cats4scala/cats-process
 - cb372/cats-retry
 - cb372/scalacache
 - ccadllc/cedi-circuitbreakers
