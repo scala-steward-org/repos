@@ -239,8 +239,8 @@
 - djspiewak/coop
 - djspiewak/gll-combinators
 - djspiewak/shims
-- dmarticus/scala-games
 - dmarticus/advent-of-code
+- dmarticus/scala-games
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
 - dusan0098/Scalafix_FP_workshop
@@ -322,7 +322,6 @@
 - finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
-- justinhj/fp-starter-pack.g8
 - fp-tower/foundation
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
@@ -436,6 +435,7 @@
 - jsuereth/scala-arm
 - julienrf/endpoints
 - julien-truffaut/Monocle
+- justinhj/fp-starter-pack.g8
 - kailuowang/henkan
 - kailuowang/mau
 - katlasik/functionmeta
@@ -486,6 +486,7 @@
 - lightbend/scala-sculpt
 - lightbend/ssl-config
 - lihaoyi/scala.rx
+- liuhongchao/bitcoin4s
 - lomigmegard/akka-http-cors
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
@@ -547,9 +548,9 @@
 - nafg/css-dsl
 - nafg/jewish-date
 - nafg/reactive
-- nafg/scala-phonenumber
 - nafg/scalajs-facades
 - nafg/scalajs-react-util
+- nafg/scala-phonenumber
 - nafg/scheduler
 - nafg/simpleivr
 - nafg/slick-additions
@@ -715,6 +716,7 @@
 - scalapb/scalapb-template.g8
 - scalapb/sparksql-scalapb
 - scalapb/zio-grpc
+- scala-cash/scash
 - scala-exercises/evaluator
 - scala-exercises/exercises-cats
 - scala-exercises/exercises-circe
@@ -745,7 +747,6 @@
 - scala/scala-parser-combinators
 - scala/scala-seed.g8
 - scala/scala-xml
-- scala-cash/scash
 - scanamo/scanamo
 - scaruby/scaruby
 - schrepfler/artemis
@@ -985,4 +986,3 @@
 - zio/zio-telemetry
 - ziyasal/reducio
 - zouzias/spark-lucenerdd
-- liuhongchao/bitcoin4s
