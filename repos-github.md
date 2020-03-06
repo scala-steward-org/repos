@@ -410,6 +410,7 @@
 - IndiscriminateCoding/api4s
 - IndiscriminateCoding/jetty4s
 - ing-bank/baker
+- innFactory/akka-persistence-gcp-datastore
 - intracer/scalawiki
 - iRevive/fmq
 - IronCoreLabs/argonaut-jwt-scala
