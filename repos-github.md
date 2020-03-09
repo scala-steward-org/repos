@@ -252,6 +252,7 @@
 - ebiznext/comet-data-pipeline
 - ecyshor/akka-consul-lease
 - eikek/bitpeace
+- eikek/calev
 - eikek/docspell
 - eikek/emil
 - eikek/mpc4s
