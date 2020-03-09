@@ -777,6 +777,7 @@
 - sksamuel/pulsar4s
 - sksamuel/sbt-scapegoat
 - sksamuel/scapegoat
+- slack-scala-client/slack-scala-client
 - Slakah/fastparse-parsers
 - Slakah/slakah.github.io
 - Slakah/uritemplate4s
