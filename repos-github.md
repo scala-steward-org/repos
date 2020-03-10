@@ -378,7 +378,6 @@
 - gvolpe/pfps-examples
 - gvolpe/pfps-shopping-cart
 - hayasshi/akka-http-router
-- henricook/SAMLer
 - higherkindness/compendium
 - higherkindness/compendium-example
 - higherkindness/droste
