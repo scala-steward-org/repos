@@ -838,6 +838,8 @@
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/scala-hello-world-app
+- SumoLogic/shellbase
+- SumoLogic/sumobot
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
 - swagger-akka-http/swagger-akka-http
