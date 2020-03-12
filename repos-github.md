@@ -923,6 +923,7 @@
 - typelevel/sbt-catalysts
 - typelevel/scalacheck
 - typelevel/simulacrum
+- typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
 - ua-parser/uap-scala
