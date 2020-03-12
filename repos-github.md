@@ -177,6 +177,7 @@
 - circe/circe-bson
 - circe/circe-config
 - circe/circe-derivation
+- circe/circe-droste
 - circe/circe-fs2
 - circe/circe-generic-extras
 - circe/circe-golden
@@ -923,6 +924,7 @@
 - typelevel/sbt-catalysts
 - typelevel/scalacheck
 - typelevel/simulacrum
+- typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
 - ua-parser/uap-scala
