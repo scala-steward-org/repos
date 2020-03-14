@@ -331,6 +331,7 @@
 - freechipsproject/firrtl
 - freechipsproject/firrtl-interpreter
 - freechipsproject/treadle
+- fs2-blobstore/fs2-blobstore
 - fthomas/base.g8
 - fthomas/crjdt
 - fthomas/datapackage
