@@ -331,6 +331,7 @@
 - freechipsproject/firrtl
 - freechipsproject/firrtl-interpreter
 - freechipsproject/treadle
+- francescofrontera/MLFlow-scala-client
 - fs2-blobstore/fs2-blobstore
 - fthomas/base.g8
 - fthomas/crjdt
