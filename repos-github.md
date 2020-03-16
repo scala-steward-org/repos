@@ -14,9 +14,9 @@
 - 7mind/idealingua-v1
 - 7mind/izumi
 - 7mind/sbtgen
-- 47degrees/memeid
 - 47degrees/fetch
 - 47degrees/github4s
+- 47degrees/memeid
 - 47degrees/metrifier
 - 47degrees/mu-smart-home
 - 47degrees/pbdirect
@@ -326,13 +326,13 @@
 - finagle/finch
 - finch/finch-oauth2
 - fp-tower/foundation
+- francescofrontera/MLFlow-scala-client
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
 - freechipsproject/diagrammer
 - freechipsproject/firrtl
 - freechipsproject/firrtl-interpreter
 - freechipsproject/treadle
-- francescofrontera/MLFlow-scala-client
 - fs2-blobstore/fs2-blobstore
 - fthomas/base.g8
 - fthomas/crjdt
