@@ -107,6 +107,7 @@
 - butcherless/scala
 - cats4scala/cats-process
 - cb372/cats-retry
+- cb372/sbt-explicit-dependencies
 - cb372/scalacache
 - ccadllc/cedi-circuitbreakers
 - ccadllc/cedi-config
