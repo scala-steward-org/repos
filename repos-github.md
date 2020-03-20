@@ -472,7 +472,6 @@
 - laserdisc-io/fs2-aws
 - laserdisc-io/laserdisc
 - laserdisc-io/log-effect
-- laserdisc-io/stream-it
 - laserdisc-io/tamer
 - leanovate/play-mockws
 - leigh-perry/conduction
