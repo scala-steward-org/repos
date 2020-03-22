@@ -739,6 +739,7 @@
 - scalabin-no/http4s-directives
 - scalacenter/sbt-scalafix
 - scalacenter/scalafix
+- scalapb/common-protos
 - scalapb/protobuf-scala-runtime
 - scalapb/protoc-bridge
 - scalapb/ScalaPB
