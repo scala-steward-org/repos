@@ -3,6 +3,7 @@
 - 2m/authors
 - 2m/ciris-hocon
 - 2m/citywasp-api
+- 2m/history-of-fishing
 - 2m/kabrioletas
 - 2m/polyfact
 - 2m/sonatype-stats
