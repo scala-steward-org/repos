@@ -425,6 +425,7 @@
 - j5ik2o/akka-persistence-dynamodb
 - j5ik2o/akka-persistence-kafka
 - j5ik2o/akka-persistence-s3
+- j5ik2o/aws-gatling-tools
 - j5ik2o/reactive-aws-clients
 - j5ik2o/sbt-wrapper-gen
 - j5ik2o/sw4jj
