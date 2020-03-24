@@ -579,6 +579,7 @@
 - nevillelyh/parquet-extra
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
+- niklasf/lila-openingexplorer
 - niqdev/kafka-scala-examples
 - niqdev/scala-fp
 - NomadBlacky/digdag-plugin-datadog
