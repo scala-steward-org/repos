@@ -860,6 +860,7 @@
 - synesso/scala-stellar-sdk
 - SystemFw/upperbound
 - taig/lokal
+- takayahilton/sql-formatter
 - tanishiking/scalaunfmt
 - tbrown1979/totp4s
 - TeamWanari/sbt-paradox-diagrams
