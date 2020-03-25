@@ -833,6 +833,7 @@
 - spf3000/functional-kniffle
 - sphereio/sphere-scala-libs
 - spotify/big-data-rosetta-code
+- spotify/elitzur
 - spotify/featran
 - spotify/magnolify
 - spotify/noether
