@@ -706,6 +706,7 @@
 - redis4s/redis4s
 - regadas/sbt-socco
 - regadas/scala-seed
+- regadas/scio-cats
 - regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
 - rpiaggio/crystal
