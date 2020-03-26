@@ -619,9 +619,11 @@
 - phdoerfler/beegment
 - phdoerfler/enni
 - phdoerfler/latex-scanner
+- phenoscape/phenoscape-kb-services
 - phenoscape/owlery
 - phenoscape/owlet
 - phenoscape/scowl
+- phenoscape/sparql-interpolator
 - Philippus/baggage-jwt
 - Philippus/base64
 - Philippus/between
