@@ -969,7 +969,6 @@
 - Wei-1/Scala-Machine-Learning-from-Scratch
 - WellFactored/clovis
 - WellFactored/property-info
-- WellFactored/resourcepool
 - weso/document
 - weso/rdfshape
 - weso/shaclex
