@@ -745,6 +745,13 @@
 - scalabin-no/http4s-directives
 - scalacenter/sbt-scalafix
 - scalacenter/scalafix
+- scalameta/mdoc
+- scalameta/metabrowse
+- scalameta/metals
+- scalameta/munit
+- scalameta/sbt-scalafmt
+- scalameta/scalafmt
+- scalameta/scalameta
 - scalapb/common-protos
 - scalapb/protobuf-scala-runtime
 - scalapb/protoc-bridge
