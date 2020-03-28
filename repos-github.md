@@ -749,6 +749,7 @@
 - scalapb/protobuf-scala-runtime
 - scalapb/protoc-bridge
 - scalapb/ScalaPB
+- scalapb/scalapb-grpcweb
 - scalapb/scalapb-json4s
 - scalapb/scalapb-template.g8
 - scalapb/sparksql-scalapb
