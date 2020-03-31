@@ -244,6 +244,7 @@
 - djspiewak/gll-combinators
 - djspiewak/shims
 - dmarticus/advent-of-code
+- dmarticus/functional-todo-app
 - dmarticus/scala-games
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
