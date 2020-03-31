@@ -392,6 +392,7 @@
 - higherkindness/mu-scala
 - higherkindness/mu-server.g8
 - higherkindness/sbt-compendium
+- higherkindness/sbt-mu-srcgen
 - higherkindness/skeuomorph
 - hipjim/scala-retry
 - hntd187/spotify
