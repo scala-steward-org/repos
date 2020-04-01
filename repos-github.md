@@ -915,6 +915,7 @@
 - tmtsoftware/esw-prototype
 - tmtsoftware/sequencer-scripts
 - tomwadeson/scala-barebones
+- topl/bifrost
 - to-ithaca/libra
 - tpolecat/atto
 - tpolecat/doobie
