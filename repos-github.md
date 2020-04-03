@@ -877,6 +877,8 @@
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
 - tenable/Kastle
+- theiterators/kebs
+- theiterators/sealed-monad
 - thesamet/sbt-protoc
 - ThoughtWorksInc/bindable.scala
 - ThoughtWorksInc/Binding.scala
