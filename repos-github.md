@@ -1,5 +1,4 @@
 #- BenFradet/dashing # temporarily ignored
-- 0um/thehand
 - 2m/authors
 - 2m/ciris-hocon
 - 2m/citywasp-api
@@ -61,6 +60,7 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
+- amorvincitomnia/thehand
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala 
 - atnos-org/eff
