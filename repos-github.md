@@ -987,6 +987,7 @@
 - weso/shex-s
 - weso/srdf
 - weso/utils
+- weso/shex-lite
 - wvlet/airframe
 - X9Developers/block-explorer
 - xerial/sbt-pack
