@@ -1015,6 +1015,7 @@
 - zio/zio-logging
 - zio/zio-macros
 - zio/zio-nio
+- zio/zio-redis
 - zio/zio-sqs
 - zio/zio-telemetry
 - ziyasal/reducio
