@@ -104,6 +104,7 @@
 - bkirwi/decline
 - blemale/scaffeine
 - buildo/retro
+- Bunyod/PracticalFPinScala
 - butcherless/incubator
 - butcherless/scala
 - cats4scala/cats-process
