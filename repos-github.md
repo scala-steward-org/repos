@@ -815,6 +815,7 @@
 - shankarshastri/scala-proj-template
 - sirocchj/sbt-api-builder
 - sirthias/borer
+- sisioh/akka-cluster-custom-downing
 - sisioh/baseunits-scala
 - sksamuel/avro4s
 - sksamuel/elastic4s
