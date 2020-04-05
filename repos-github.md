@@ -594,6 +594,7 @@
 - nrinaudo/kantan.regex
 - nrinaudo/kantan.sbt
 - nrinaudo/kantan.xpath
+- NthPortal/reservoir
 - NthPortal/v
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
