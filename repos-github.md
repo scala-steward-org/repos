@@ -813,6 +813,8 @@
 - septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
+- shadaj/slinky
+- shadaj/scalapy
 - shankarshastri/ScalaFPCode
 - shankarshastri/scala-proj-template
 - sirocchj/sbt-api-builder
