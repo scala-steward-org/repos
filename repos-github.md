@@ -123,6 +123,7 @@
 - ceedubs/irrec
 - census-ecosystem/opencensus-scala
 - channingwalton/http4sWS
+- chatwork/scala-jwk
 - chenharryhua/nanjin
 - ChocPanda/argonaut-magnolia
 - ChocPanda/scalacheck-magnolia
