@@ -712,6 +712,7 @@
 - regadas/sbt-socco
 - regadas/scala-seed
 - regadas/scio-cats
+- regadas/scio-contextual
 - regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
 - rpiaggio/crystal
