@@ -769,6 +769,7 @@
 - scalapb/sparksql-scalapb
 - scalapb/zio-grpc
 - scala-cash/scash
+- scala-cash/warhorse
 - scala-exercises/evaluator
 - scala-exercises/exercises-cats
 - scala-exercises/exercises-circe
