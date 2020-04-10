@@ -76,6 +76,7 @@
 - Atry/XmlExtractor.scala
 - augustjune/canoe
 - avast/datadog4s
+- avast/grpc-json-bridge
 - avast/scala-server-toolkit
 - avast/slog4s
 - avdv/play-json-refined
