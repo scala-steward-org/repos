@@ -331,6 +331,7 @@
 - finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
+- fp-in-bo/jms4s
 - fp-tower/foundation
 - francescofrontera/MLFlow-scala-client
 - freechipsproject/chisel3
