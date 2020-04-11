@@ -467,6 +467,7 @@
 - kontainers/micrometer-akka
 - kovszilard/smenu
 - kovszilard/twitter-server-prometheus
+- krzemin/octopus
 - Ksisu/tell-me-a-secret
 - kubukoz/catharsis
 - kubukoz/datas
