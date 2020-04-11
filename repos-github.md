@@ -435,6 +435,7 @@
 - j5ik2o/reactive-aws-clients
 - j5ik2o/sbt-wrapper-gen
 - j5ik2o/sw4jj
+- j5ik2o/aws-gatling-tools
 - JannikArndt/scala-start
 - japgolly/clear-config
 - japgolly/microlibs-scala
