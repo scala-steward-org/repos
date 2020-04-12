@@ -448,6 +448,7 @@
 - japgolly/test-state
 - japgolly/univeq
 - jatcwang/hotpotato
+- jcranky/godmode
 - jmcardon/tsec
 - JohnReedLOL/pos
 - jsuereth/scala-arm
