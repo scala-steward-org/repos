@@ -62,6 +62,17 @@
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
 - amorvincitomnia/thehand
+- andyglow/caseclass-evolution
+- andyglow/gradle-scalatest-framework
+- andyglow/scala-ulid
+- andyglow/scala-range
+- andyglow/scala-jsonschema
+- andyglow/scalacheck-spark
+- andyglow/scalacheck-gen-configured
+- andyglow/scalatest-spark
+- andyglow/spark-option-setter
+- andyglow/typesafe-config-scala
+- andyglow/websocket-scala-client
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala 
 - atnos-org/eff
