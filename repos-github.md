@@ -209,6 +209,7 @@
 - circe/circe-yaml
 - CleverCloud/akka-warp10-scala-client
 - clovellytech/http4s-modules
+- codacy/codacy-analysis-cli
 - comcast/ip4s
 - concrete-cp/concrete
 - concrete-cp/cspom
