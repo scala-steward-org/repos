@@ -765,6 +765,8 @@
 - sbt/sbt-avro
 - sbt/sbt-bintray
 - sbt/sbt-duplicates-finder
+- sbt/sbt-fresh
+- sbt/sbt-header
 - sbt/sbt-java-formatter
 - sbt/sbt-unidoc
 - scalabin-no/http4s-directives
