@@ -42,10 +42,13 @@
 - akka/akka-sample-cluster-kubernetes-dns-java
 - akka/akka-sample-cluster-kubernetes-scala
 - albuch/sbt-dependency-check
-- alejandrohdezma/sbt-remove-test-from-pom
+- alejandrohdezma/sbt-codecov
 - alejandrohdezma/sbt-fix
 - alejandrohdezma/sbt-github
 - alejandrohdezma/sbt-mdoc-toc
+- alejandrohdezma/sbt-remove-test-from-pom
+- alejandrohdezma/sbt-scalafix-defaults
+- alejandrohdezma/sbt-scalafmt-defaults
 - alejandrohdezma/sensitive-strings
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
