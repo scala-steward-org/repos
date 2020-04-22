@@ -838,6 +838,8 @@
 - scodec/scodec-stream
 - scredis/scredis
 - scullxbones/akka-persistence-mongo
+- Sebruck/akka-http-graphql
+- Sebruck/scalatest-embedded-redis
 - septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
