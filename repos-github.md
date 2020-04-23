@@ -512,6 +512,7 @@
 - lemastero/scala_typeclassopedia
 - lemonlabsuk/scala-uri
 - lewisjkl/kafkakit
+- liancheng/scalafix-organize-imports
 - lightbend/genjavadoc
 - lightbend/lightbend-emoji
 - lightbend/mima
