@@ -14,6 +14,7 @@
 - 7mind/idealingua-v1
 - 7mind/izumi
 - 7mind/sbtgen
+- 47degrees/docker-testkit-munit
 - 47degrees/fetch
 - 47degrees/github4s
 - 47degrees/memeid
