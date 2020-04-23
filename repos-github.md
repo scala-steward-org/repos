@@ -375,6 +375,7 @@
 - gearpump/gearpump
 - geirolz/advxml
 - gemini-hlsw/gemini-locales
+- gemini-hlsw/gpp-ui
 - gemini-hlsw/gsp-core
 - gemini-hlsw/gsp-math
 - gemini-hlsw/ocs3
