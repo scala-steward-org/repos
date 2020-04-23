@@ -913,6 +913,7 @@
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
 - tenable/Kastle
+- theiterators/akka-http-microservice
 - theiterators/kebs
 - theiterators/sealed-monad
 - thesamet/sbt-protoc
