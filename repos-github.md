@@ -681,7 +681,6 @@
 - playframework/play-ws
 - playframework/scalatestplus-play
 - playframework/twirl
-- PlayQ/d4s
 - plokhotnyuk/expression-evaluator
 - plokhotnyuk/fast-string-interpolator
 - plokhotnyuk/jsoniter-scala
