@@ -962,6 +962,7 @@
 - tpolecat/skunk
 - transcendent-ai-labs/DynaML
 - travisbrown/catbird
+- travisbrown/dhallj
 - travisbrown/iteratee
 - travisbrown/iteratee-twitter
 - treaz/scalatraseed
