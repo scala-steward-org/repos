@@ -1013,6 +1013,7 @@
 - vital-software/scala-redox
 - VladKopanev/cats-saga
 - VladKopanev/zio-saga
+- VladPodilnyk/d4s-example
 - vlovgr/ciris
 - wegtam/amws-scala
 - wehkamp/cakemix
