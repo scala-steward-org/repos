@@ -849,6 +849,7 @@
 - shadaj/scalapy
 - shankarshastri/ScalaFPCode
 - shankarshastri/scala-proj-template
+- sideeffffect/console-scala-simple
 - sirocchj/sbt-api-builder
 - sirthias/borer
 - sisioh/akka-cluster-custom-downing
