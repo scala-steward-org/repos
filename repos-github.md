@@ -850,6 +850,7 @@
 - shankarshastri/ScalaFPCode
 - shankarshastri/scala-proj-template
 - sideeffffect/console-scala-simple
+- sideeffffect/sbt-decent-scala
 - sirocchj/sbt-api-builder
 - sirthias/borer
 - sisioh/akka-cluster-custom-downing
