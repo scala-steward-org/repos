@@ -776,6 +776,8 @@
 - sbt/sbt-header
 - sbt/sbt-java-formatter
 - sbt/sbt-unidoc
+- scala2ts/scala2ts-core
+- scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
 - scalacenter/sbt-scalafix
 - scalacenter/scalafix
