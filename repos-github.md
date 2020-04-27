@@ -565,6 +565,7 @@
 - monadless/monadless
 - monix/monix
 - monix/monix-kafka
+- monksy/serialization-checker
 - mschuwalow/zio-todo-backend
 - mslinn/awslib_scala
 - mslinn/dottyTemplate
