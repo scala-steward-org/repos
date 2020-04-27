@@ -806,12 +806,15 @@
 - scala-exercises/exercises-fetch
 - scala-exercises/exercises-fpinscala
 - scala-exercises/exercises-monocle
+- scala-exercises/exercises-pureconfig
 - scala-exercises/exercises-scalacheck
 - scala-exercises/exercises-scalatutorial
 - scala-exercises/exercises-shapeless
 - scala-exercises/exercises-stdlib
 - scala-exercises/exercises-template
+- scala-exercises/sbt-exercise
 - scala-exercises/scala-exercises
+- scala-exercises/scala-exercises-runtime
 - scala-ts/scala-ts
 - scala/hello-world.g8
 - scala/make-release-notes
