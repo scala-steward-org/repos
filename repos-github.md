@@ -224,6 +224,7 @@
 - cornerman/scala-cuid
 - cornerman/sloth
 - coursier/coursier
+- coursier/coursier-channel.g8
 - coursier/echo
 - coursier/http-server
 - coursier/interface
