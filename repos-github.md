@@ -54,11 +54,14 @@
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
 - alexandru/typelevel-library.g8
+- alexarchambault/ammonite-runner
 - alexarchambault/ammonite-spark
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
+- alexarchambault/data-class
 - alexarchambault/plotly-scala
 - alexarchambault/scalacheck-shapeless
+- alexarchambault/windows-ansi
 - almond-sh/almond
 - alonsodomin/cron4s
 - alonsodomin/kamon-cloudwatch
