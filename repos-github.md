@@ -634,6 +634,7 @@
 - ornicar/lila-search
 - ornicar/lila-ws
 - OutWatch/outwatch
+- ovotech/ciris-aws-ssm
 - ovotech/http4s-micrometer-metrics
 - ovotech/kafka-serialization
 - pathikrit/better-files
