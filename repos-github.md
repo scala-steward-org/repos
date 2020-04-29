@@ -226,6 +226,7 @@
 - cornerman/mycelium
 - cornerman/scala-cuid
 - cornerman/sloth
+- coursier/apps
 - coursier/coursier
 - coursier/coursier-channel.g8
 - coursier/echo
