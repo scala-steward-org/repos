@@ -827,12 +827,12 @@
 - scala/nanotest-strawman
 - scala/sbt-scala-module
 - scala/scalatest-example.g8
-- scala/scala-collection-compat
 - scala/scala-collection-contrib
 - scala/scala-collection-laws
 - scala/scala-continuations
 - scala/scala-dist-smoketest
 - scala/scala-java8-compat
+- scala/scala-library-compat
 - scala/scala-module-dependency-sample
 - scala/scala-parallel-collections
 - scala/scala-parser-combinators
