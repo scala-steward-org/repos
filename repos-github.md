@@ -541,6 +541,7 @@
 - L-space/L-space-NS
 - L-space/Types
 - macro-peg/macro_peg
+- magott/scravatar
 - makiftutuncu/e
 - manatki/derevo
 - matsluni/aws-spi-akka-http
