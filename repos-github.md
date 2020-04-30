@@ -289,6 +289,7 @@
 - eikek/sbt-openapi-schema
 - eikek/sharry
 - eikek/yamusca
+- ekrich/sconfig
 - eltherion/http4s-timer
 - emartech/pure-scheduler
 - embeddedkafka/embedded-kafka
