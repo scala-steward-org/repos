@@ -537,6 +537,7 @@
 - magott/scravatar
 - makiftutuncu/e
 - manatki/derevo
+- martinpallmann/gchat
 - matsluni/aws-spi-akka-http
 - mauriciojost/main4ino-server
 - maximn/coding-interview-questions-scala
