@@ -1024,6 +1024,10 @@
 - VladKopanev/zio-saga
 - VladPodilnyk/d4s-example
 - vlovgr/ciris
+- vmunier/akka-http-scalajs.g8
+- vmunier/play-scalajs.g8
+- vmunier/sbt-web-scalajs
+- vmunier/scalajs-scripts
 - wegtam/amws-scala
 - wehkamp/cakemix
 - Wei-1/Scala-Machine-Learning-from-Scratch
