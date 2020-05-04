@@ -54,6 +54,7 @@
 - alexarchambault/plotly-scala
 - alexarchambault/scalacheck-shapeless
 - alexarchambault/windows-ansi
+- alexbalonperin/zio_experiments
 - almond-sh/almond
 - alonsodomin/cron4s
 - alonsodomin/kamon-cloudwatch
