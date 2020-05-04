@@ -719,9 +719,6 @@
 - profunktor/http4s-tracer
 - profunktor/redis4cats
 - proteinevolution/Toolkit
-- protenus/dipendi
-- protenus/dipendi-jsr330
-- protenus/dipendi-play
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
@@ -833,6 +830,9 @@
 - scala/scala-parser-combinators
 - scala/scala-seed.g8
 - scala/scala-xml
+- scaldi/scaldi
+- scaldi/scaldi-jsr330
+- scaldi/scaldi-play
 - scanamo/scanamo
 - scaruby/scaruby
 - schrepfler/artemis
