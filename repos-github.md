@@ -1015,6 +1015,7 @@
 - underscoreio/slickless
 - unfiltered/unfiltered
 - unsecurityio/unsecurity
+- vadimbakaev/scala-fast-start
 - valskalla/odin
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
