@@ -348,6 +348,8 @@
 - finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
+- firstbirdtech/backbone
+- firstbirdtech/akka-persistence-query-view
 - fp-in-bo/jms4s
 - fp-tower/foundation
 - francescofrontera/MLFlow-scala-client
