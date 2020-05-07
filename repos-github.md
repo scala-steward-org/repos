@@ -745,6 +745,7 @@
 - regadas/scio-contextual
 - regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
+- rossabaker/case-insensitive
 - rpiaggio/crystal
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
