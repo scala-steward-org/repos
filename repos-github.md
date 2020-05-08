@@ -995,6 +995,7 @@
 - typelevel/cats-testkit-scalatest
 - typelevel/claimant
 - typelevel/discipline
+- typelevel/discipline-munit
 - typelevel/discipline-scalatest
 - typelevel/discipline-specs2
 - typelevel/frameless
