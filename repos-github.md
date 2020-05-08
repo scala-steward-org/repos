@@ -1009,6 +1009,7 @@
 - typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
+- typeness/spray-json-refined
 - ua-parser/uap-scala
 - ucb-bar/chisel-testers2
 - ucb-bar/dsp-tools
