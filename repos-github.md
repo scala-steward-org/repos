@@ -238,6 +238,7 @@
 - djspiewak/coop
 - djspiewak/gll-combinators
 - djspiewak/shims
+- dmarticus/dag4s
 - dmarticus/scala-games
 - dmarticus/advent-of-code
 - dmrolfs/base-sbt-mult-project
