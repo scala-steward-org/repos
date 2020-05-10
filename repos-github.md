@@ -263,6 +263,7 @@
 - djspiewak/gll-combinators
 - djspiewak/shims
 - dmarticus/advent-of-code
+- dmarticus/dag4s
 - dmarticus/functional-todo-app
 - dmarticus/scala-games
 - dmrolfs/base-sbt-mult-project
