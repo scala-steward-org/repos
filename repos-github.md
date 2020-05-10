@@ -933,6 +933,7 @@
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
 - tenable/Kastle
+- tersesystems/blindsight
 - theiterators/akka-http-microservice
 - theiterators/kebs
 - theiterators/sealed-monad
