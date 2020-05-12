@@ -750,7 +750,9 @@
 - regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
 - rossabaker/case-insensitive
+- rpiaggio/clue
 - rpiaggio/crystal
+- rpiaggio/scalajs-react-beautiful-dnd
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
 - runtologist/BuildingAnEffectRuntime
