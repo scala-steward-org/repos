@@ -749,7 +749,6 @@
 - regadas/scio-contextual
 - regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
-- rossabaker/case-insensitive
 - rpiaggio/clue
 - rpiaggio/crystal
 - rpiaggio/scalajs-react-beautiful-dnd
@@ -994,6 +993,7 @@
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
+- typelevel/case-insensitive
 - typelevel/cats
 - typelevel/cats-collections
 - typelevel/cats-effect
