@@ -1086,6 +1086,7 @@
 - zio/zio-logging
 - zio/zio-macros
 - zio/zio-nio
+- zio/zio-query
 - zio/zio-redis
 - zio/zio-sqs
 - zio/zio-telemetry
