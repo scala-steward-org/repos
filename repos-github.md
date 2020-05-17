@@ -121,6 +121,7 @@
 - Bunyod/PracticalFPinScala
 - butcherless/incubator
 - butcherless/scala
+- butcherless/tapir-learn
 - cats4scala/cats-process
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
