@@ -483,6 +483,9 @@
 - kailuowang/mau
 - katlasik/functionmeta
 - KelkooGroup/theGardener
+- kelnos/mima-maven-plugin
+- kelnos/scala-cross-maven-plugin
+- kelnos/tut-maven-plugin
 - kemitix/eip-zio
 - kemitix/thorp
 - kiambogo/fs2-jms
