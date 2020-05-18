@@ -755,6 +755,7 @@
 - rememberthemilk/akka-amqp
 - rpiaggio/clue
 - rpiaggio/crystal
+- rpiaggio/log4cats-loglevel
 - rpiaggio/scalajs-react-beautiful-dnd
 - rtimush/sbt-updates
 - ruippeixotog/scala-scraper
