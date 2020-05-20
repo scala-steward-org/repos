@@ -1094,6 +1094,7 @@
 - zio/zio-query
 - zio/zio-redis
 - zio/zio-sqs
+- zio/zio-s3
 - zio/zio-telemetry
 - ziyasal/reducio
 - zouzias/spark-lucenerdd
