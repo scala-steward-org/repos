@@ -385,6 +385,7 @@
 - gemini-hlsw/gsp-math
 - gemini-hlsw/ocs3
 - gemini-hlsw/sbt-gsp
+- geneontology/gaferencer
 - getquill/quill
 - gfc-collective/gfc-aws-cloudwatch
 - gfc-collective/gfc-aws-kinesis
