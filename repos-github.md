@@ -478,7 +478,6 @@
 - JohnReedLOL/pos
 - jsuereth/scala-arm
 - julienrf/endpoints
-- julien-truffaut/Monocle
 - justinhj/fp-starter-pack.g8
 - kailuowang/henkan
 - kailuowang/mau
@@ -640,6 +639,7 @@
 - NthPortal/v
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
+- optics-dev/Monocle
 - orbeon/orbeon-forms
 - ornicar/lila
 - ornicar/lila-fishnet
