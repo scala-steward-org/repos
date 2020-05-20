@@ -258,6 +258,7 @@
 - dapperware/zio-slack
 - davegurnell/bridges
 - devilune/dotty-graalvm.g8
+- diamantidis/scala-screenshots
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
 - djspiewak/coop
