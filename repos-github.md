@@ -335,6 +335,7 @@
 - exoego/scalajs-util-types
 - exoego/scala-js-nodejs
 - exoego/scala-js-ts-importer
+- exoego/scala-js-jquery
 - Fabszn/scaffolding-plugin-lagom
 - Facsimiler/facsimile
 - fd4s/fs2-kafka
