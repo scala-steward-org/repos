@@ -475,6 +475,8 @@
 - japgolly/univeq
 - jatcwang/hotpotato
 - jcranky/godmode
+- jkobejs/endpoints-uzhttp
+- jkobejs/zio-google-cloud-oauth2
 - jmcardon/tsec
 - JohnReedLOL/pos
 - jsuereth/scala-arm
