@@ -256,6 +256,7 @@
 - DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
 - dapperware/zio-slack
+- data-hunters/metadata-digger-server
 - davegurnell/bridges
 - devilune/dotty-graalvm.g8
 - diamantidis/scala-screenshots
