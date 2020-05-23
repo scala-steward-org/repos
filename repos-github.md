@@ -1038,6 +1038,7 @@
 - unsecurityio/unsecurity
 - vadimbakaev/scala-fast-start
 - valskalla/odin
+- vasilmkd/docker-stats-monitor
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
 - vertical-blank/scala-sql-formatter
