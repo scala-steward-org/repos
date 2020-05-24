@@ -437,6 +437,7 @@
 - http4s/jawn-fs2
 - http4s/rho
 - http4s/sbt-http4s-org
+- huiwang/codingame-scala-kit
 - iheartradio/ficus
 - iheartradio/lihua
 - iheartradio/play-swagger
