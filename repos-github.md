@@ -582,6 +582,7 @@
 - molikto/mlang
 - monadless/monadless
 - monix/monix
+- monix/monix-bio
 - monix/monix-kafka
 - monksy/serialization-checker
 - mschuwalow/zio-todo-backend
