@@ -116,6 +116,7 @@
 - bitrockteam/kafka-dvs-aviation-edge-producer
 - bitrockteam/kafka-dvs-avro-schemas
 - bitrockteam/kafka-dvs-streams
+- bjaglin/sbt-memoize
 - bkirwi/decline
 - blemale/scaffeine
 - buildo/retro
