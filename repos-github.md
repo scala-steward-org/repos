@@ -623,6 +623,7 @@
 - navicore/naviblob
 - navicore/navilake
 - navicore/NaviPath
+- NCATS-Tangerine/cam-kp-api
 - neotypes/neotypes
 - NeQuissimus/circe-kafka
 - NeQuissimus/nequi-kafka
