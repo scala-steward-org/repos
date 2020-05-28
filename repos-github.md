@@ -584,6 +584,7 @@
 - molikto/mlang
 - monadless/monadless
 - monix/monix
+- monix/monix-connect
 - monix/monix-bio
 - monix/monix-kafka
 - monksy/serialization-checker
