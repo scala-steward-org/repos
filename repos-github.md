@@ -436,6 +436,7 @@
 - http4s/http4s.g8
 - http4s/http4s-finagle
 - http4s/http4s-jdk-http-client
+- http4s/http4s-netty
 - http4s/jawn-fs2
 - http4s/rho
 - http4s/sbt-http4s-org
