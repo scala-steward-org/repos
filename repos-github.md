@@ -121,6 +121,7 @@
 - blemale/scaffeine
 - buildo/retro
 - Bunyod/PracticalFPinScala
+- BusyByte/flutterby
 - butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
