@@ -51,7 +51,10 @@
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
 - alexarchambault/data-class
+- alexarchambault/missing-link-cli
 - alexarchambault/plotly-scala
+- alexarchambault/sbt-compatibility
+- alexarchambault/sbt-coursier-export
 - alexarchambault/scalacheck-shapeless
 - alexarchambault/windows-ansi
 - alexbalonperin/zio_experiments
@@ -233,6 +236,7 @@
 - coursier/sbt-coursier
 - coursier/sbt-cs-publish
 - coursier/sbt-launcher
+- coursier/sbt-runner
 - cquiroz/kuyfi
 - cquiroz/sbt-locales
 - cquiroz/sbt-tzdb
