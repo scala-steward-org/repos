@@ -1114,10 +1114,12 @@
 - zio/zio-logging
 - zio/zio-macros
 - zio/zio-nio
+- zio/zio-process
 - zio/zio-query
 - zio/zio-redis
 - zio/zio-sqs
 - zio/zio-s3
 - zio/zio-telemetry
+- zio/zio-zmx
 - ziyasal/reducio
 - zouzias/spark-lucenerdd
