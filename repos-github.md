@@ -342,9 +342,9 @@
 - exoego/aws-sdk-scalajs-facade-generator
 - exoego/scalajs-test-helper
 - exoego/scalajs-types-util
+- exoego/scala-js-jquery
 - exoego/scala-js-nodejs
 - exoego/scala-js-ts-importer
-- exoego/scala-js-jquery
 - Fabszn/scaffolding-plugin-lagom
 - Facsimiler/facsimile
 - fd4s/fs2-kafka
@@ -361,8 +361,8 @@
 - finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
-- firstbirdtech/backbone
 - firstbirdtech/akka-persistence-query-view
+- firstbirdtech/backbone
 - fp-in-bo/jms4s
 - fp-tower/foundation
 - francescofrontera/MLFlow-scala-client
@@ -590,8 +590,8 @@
 - molikto/mlang
 - monadless/monadless
 - monix/monix
-- monix/monix-connect
 - monix/monix-bio
+- monix/monix-connect
 - monix/monix-kafka
 - monksy/serialization-checker
 - mschuwalow/zio-todo-backend
@@ -1116,8 +1116,8 @@
 - zio/zio-process
 - zio/zio-query
 - zio/zio-redis
-- zio/zio-sqs
 - zio/zio-s3
+- zio/zio-sqs
 - zio/zio-telemetry
 - zio/zio-zmx
 - ziyasal/reducio
