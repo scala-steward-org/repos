@@ -687,7 +687,7 @@
 - phenoscape/owlet
 - phenoscape/phenoscape-kb-services
 - phenoscape/scowl
-- phenoscape/sparql-interpolator
+- phenoscape/sparql-utils
 - Philippus/baggage-jwt
 - Philippus/base64
 - Philippus/between
