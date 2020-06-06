@@ -950,6 +950,7 @@
 - swagger-akka-http/swagger-scala-module
 - SwissBorg/lithium
 - synesso/scala-stellar
+- synesso/scala-stellar-horizon-exemplar
 - synesso/scala-stellar-sdk
 - SystemFw/upperbound
 - taig/lokal
