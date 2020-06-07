@@ -304,6 +304,7 @@
 - enzief/recursionz
 - erikerlandson/coulomb
 - erikvanoosten/metrics-scala
+- esamson/better-xdg
 - esamson/remder
 - esamson/sbt-groovy
 - etorreborre/specs2
