@@ -831,6 +831,7 @@
 - scalapb/scalapb-template.g8
 - scalapb/sparksql-scalapb
 - scalapb/zio-grpc
+- scala-bones/bones
 - scala-cash/scash
 - scala-cash/warhorse
 - scala-exercises/evaluator
