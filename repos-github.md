@@ -144,6 +144,7 @@
 - ceedubs/irrec
 - census-ecosystem/opencensus-scala
 - channingwalton/http4sWS
+- chatwork/akka-guard
 - chatwork/scala-jwk
 - chenharryhua/nanjin
 - ChocPanda/argonaut-magnolia
