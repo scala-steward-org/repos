@@ -945,6 +945,8 @@
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/scala-hello-world-app
+- suzaku-io/boopickle
+- suzaku-io/diode
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
 - swagger-akka-http/swagger-akka-http
