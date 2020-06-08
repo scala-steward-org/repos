@@ -144,6 +144,7 @@
 - ceedubs/irrec
 - census-ecosystem/opencensus-scala
 - channingwalton/http4sWS
+- chatwork/akka-guard
 - chatwork/scala-jwk
 - chenharryhua/nanjin
 - ChocPanda/argonaut-magnolia
@@ -831,6 +832,7 @@
 - scalapb/scalapb-template.g8
 - scalapb/sparksql-scalapb
 - scalapb/zio-grpc
+- scala-bones/bones
 - scala-cash/scash
 - scala-cash/warhorse
 - scala-exercises/evaluator
@@ -947,6 +949,7 @@
 - sullis/scala-hello-world-app
 - suzaku-io/boopickle
 - suzaku-io/diode
+- super-flat/lagom-pb
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
 - swagger-akka-http/swagger-akka-http
