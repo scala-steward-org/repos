@@ -768,6 +768,7 @@
 - ReactivePlatform/Pragmatic-Scala
 - ReactivePlatform/Reactive-Design-Patterns
 - redis4s/redis4s
+- regadas/coursier-apps
 - regadas/sbt-socco
 - regadas/scala-seed
 - regadas/scio-cats
