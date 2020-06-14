@@ -963,6 +963,7 @@
 - taig/lokal
 - takayahilton/sql-formatter
 - tanishiking/scalaunfmt
+- tbje/full-stack
 - tbrown1979/totp4s
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
