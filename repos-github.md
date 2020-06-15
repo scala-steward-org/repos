@@ -927,6 +927,7 @@
 - softwaremill/tapir
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
+- sominds/dt-lab-scala-alligator
 - soundcloud/twinagle
 - spf3000/functional-kniffle
 - sphereio/sphere-scala-libs
