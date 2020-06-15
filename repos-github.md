@@ -567,6 +567,7 @@
 - martinpallmann/gchat
 - matsluni/aws-spi-akka-http
 - mauriciojost/main4ino-server
+- mauriciojost/olympus-photosync
 - maximn/coding-interview-questions-scala
 - maximn/scala-workshop
 - maximn/TaxCalculator
