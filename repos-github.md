@@ -78,6 +78,7 @@
 - ant8e/sbt-i18n
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
+- asachdeva/zio_launch
 - atnos-org/eff
 - atnos-org/origami
 - Atry/Curried.scala
