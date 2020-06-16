@@ -24,7 +24,6 @@
 - 47degrees/petstore4s
 - 47degrees/sbt-hood
 - 47degrees/sbt-microsites
-- 47degrees/sbt-org-policies
 - 47degrees/scalacheck-toolbox
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
@@ -428,10 +427,7 @@
 - higherkindness/compendium
 - higherkindness/compendium-example
 - higherkindness/droste
-- higherkindness/mu-client.g8
 - higherkindness/mu-scala
-- higherkindness/mu-server.g8
-- higherkindness/sbt-compendium
 - higherkindness/sbt-mu-srcgen
 - higherkindness/skeuomorph
 - hipjim/scala-retry
