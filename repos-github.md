@@ -1119,7 +1119,6 @@
 - zio/zio-keeper
 - zio/zio-lambda
 - zio/zio-logging
-- zio/zio-macros
 - zio/zio-nio
 - zio/zio-process
 - zio/zio-query
