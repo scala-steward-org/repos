@@ -461,6 +461,7 @@
 - IndiscriminateCoding/jetty4s
 - ing-bank/baker
 - innFactory/akka-persistence-gcp-datastore
+- innFactory/bootstrap-play2
 - intracer/scalawiki
 - iRevive/fmq
 - IronCoreLabs/argonaut-jwt-scala
