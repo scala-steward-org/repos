@@ -528,6 +528,7 @@
 - laserdisc-io/fs2-aws
 - laserdisc-io/laserdisc
 - laserdisc-io/log-effect
+- laserdisk-io/mysql-binlog-stream
 - laserdisc-io/tamer
 - leanovate/play-mockws
 - leigh-perry/conduction
