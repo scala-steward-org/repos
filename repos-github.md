@@ -270,6 +270,7 @@
 - davegurnell/bridges
 - devilune/dotty-graalvm.g8
 - diamantidis/scala-screenshots
+- disneystreaming/weaver-test
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
 - djspiewak/coop
