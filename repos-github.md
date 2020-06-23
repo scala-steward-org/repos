@@ -532,6 +532,7 @@
 - laserdisk-io/mysql-binlog-stream
 - laserdisc-io/tamer
 - leanovate/play-mockws
+- lefou/mill-osgi
 - leigh-perry/conduction
 - leigh-perry/log4zio
 - leigh-perry/metamorphosis
