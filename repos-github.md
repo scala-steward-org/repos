@@ -465,6 +465,7 @@
 - innFactory/bootstrap-play2
 - intracer/scalawiki
 - iRevive/fmq
+- iRevive/sbt-integration-env
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
