@@ -1019,6 +1019,7 @@
 - tmtsoftware/sequencer-scripts
 - tomwadeson/scala-barebones
 - topl/bifrost
+- ToToTec/CmdOption
 - to-ithaca/libra
 - tpolecat/atto
 - tpolecat/doobie
