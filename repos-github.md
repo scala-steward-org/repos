@@ -658,6 +658,7 @@
 - notxcain/aecor
 - novakov-alexey/freya
 - novakov-alexey/http4s-spnego
+- novakov-alexey/krb-operator
 - nrinaudo/kantan.codecs
 - nrinaudo/kantan.csv
 - nrinaudo/kantan.regex
