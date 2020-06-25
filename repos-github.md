@@ -761,6 +761,7 @@
 - profunktor/http4s-tracer
 - profunktor/redis4cats
 - proteinevolution/Toolkit
+- pstutz/scala-fullstack
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
