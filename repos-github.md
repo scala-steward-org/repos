@@ -298,6 +298,7 @@
 - embeddedkafka/embedded-kafka
 - embeddedkafka/embedded-kafka-schema-registry
 - emergentorder/onnx-scala
+- endpoints4s/endpoints4s
 - enzief/recursionz
 - erikerlandson/coulomb
 - erikvanoosten/metrics-scala
@@ -488,7 +489,6 @@
 - jmcardon/tsec
 - JohnReedLOL/pos
 - jsuereth/scala-arm
-- julienrf/endpoints
 - justinhj/fp-starter-pack.g8
 - kailuowang/henkan
 - kailuowang/mau
