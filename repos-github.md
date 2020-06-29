@@ -262,6 +262,7 @@
 - dapperware/zio-slack
 - data-hunters/metadata-digger-server
 - davegurnell/bridges
+- DavidGregory084/mill-tpolecat
 - devilune/dotty-graalvm.g8
 - diamantidis/scala-screenshots
 - disneystreaming/weaver-test
@@ -487,6 +488,10 @@
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
 - jmcardon/tsec
+- joan38/mill-git
+- joan38/mill-scalafix
+- joan38/kafka-streams-circe
+- joan38/kubernetes-client
 - JohnReedLOL/pos
 - jsuereth/scala-arm
 - justinhj/fp-starter-pack.g8
