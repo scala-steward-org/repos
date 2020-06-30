@@ -65,7 +65,6 @@
 - alonsodomin/scala-colog
 - amorvincitomnia/thehand
 - andyglow/caseclass-evolution
-- andyglow/gradle-scalatest-framework
 - andyglow/scalacheck-gen-configured
 - andyglow/scalacheck-spark
 - andyglow/scalatest-spark
@@ -263,7 +262,6 @@
 - data-hunters/metadata-digger-server
 - davegurnell/bridges
 - DavidGregory084/mill-tpolecat
-- devilune/dotty-graalvm.g8
 - diamantidis/scala-screenshots
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
@@ -364,7 +362,7 @@
 - firstbirdtech/akka-persistence-query-view
 - firstbirdtech/backbone
 - fp-in-bo/jms4s
-- fp-tower/foundation
+- fp-tower/foundations
 - francescofrontera/MLFlow-scala-client
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
@@ -527,7 +525,7 @@
 - laserdisc-io/fs2-aws
 - laserdisc-io/laserdisc
 - laserdisc-io/log-effect
-- laserdisk-io/mysql-binlog-stream
+- laserdisc-io/mysql-binlog-stream
 - laserdisc-io/tamer
 - leanovate/play-mockws
 - lefou/mill-aspectj
