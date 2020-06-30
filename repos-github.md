@@ -676,7 +676,6 @@
 - ovotech/ciris-kubernetes
 - ovotech/http4s-micrometer-metrics
 - ovotech/kafka-serialization
-- pacdaemon/SimplePayroll
 - pathikrit/better-files
 - pathikrit/dijon
 - paulbutcher/ScalaMock
