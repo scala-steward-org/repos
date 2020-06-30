@@ -502,7 +502,6 @@
 - kelnos/mima-maven-plugin
 - kelnos/scala-cross-maven-plugin
 - kelnos/tut-maven-plugin
-- kemitix/eip-zio
 - kemitix/thorp
 - kiambogo/fs2-jms
 - klassic/klassic
@@ -870,7 +869,6 @@
 - scala/scalatest-example.g8
 - scala/scala-collection-contrib
 - scala/scala-collection-laws
-- scala/scala-continuations
 - scala/scala-dist-smoketest
 - scala/scala-java8-compat
 - scala/scala-library-compat
