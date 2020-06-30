@@ -681,7 +681,6 @@
 - payalabs/scalajs-react-bridge
 - pbernet/akka_streams_tutorial
 - pdalpra/computer-database
-- pdalpra/gh4s
 - pdalpra/scalalint
 - pepegar/base.g8
 - pepegar/hammock
