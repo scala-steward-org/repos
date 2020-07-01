@@ -870,6 +870,7 @@
 - scala/scala-module-dependency-sample
 - scala/scala-parallel-collections
 - scala/scala-parser-combinators
+- scala/scala-rewrites
 - scala/scala-seed.g8
 - scala/scala-xml
 - scaldi/scaldi
