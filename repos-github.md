@@ -1072,6 +1072,7 @@
 - vaslabs/talos
 - vertical-blank/scala-sql-formatter
 - vigoo/clipp
+- vigoo/desert
 - vigoo/prox
 - vigoo/simpp
 - vital-software/sbt-update-lines
