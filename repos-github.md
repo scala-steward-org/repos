@@ -541,6 +541,9 @@
 - leigh-perry/template-cats-zio-app
 - lemastero/scala_typeclassopedia
 - lemonlabsuk/scala-uri
+- leobenkel/Laeta
+- leobenkel/Soteria
+- leobenkel/Zparkio
 - lewisjkl/kafkakit
 - liancheng/scalafix-organize-imports
 - lightbend/genjavadoc
