@@ -1092,7 +1092,7 @@
 - vmunier/scalajs-scripts
 - wegtam/amws-scala
 - wehkamp/cakemix
-- Wei-1/Scala-Machine-Learning-from-Scratch
+- Wei-1/Scala-Machine-Learning
 - WellFactored/clovis
 - WellFactored/property-info
 - weso/document
