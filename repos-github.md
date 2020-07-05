@@ -1063,6 +1063,7 @@
 - typelevel/spire
 - typelevel/squants
 - typeness/spray-json-refined
+- tyrantkhan/vault4s
 - ua-parser/uap-scala
 - ucb-bar/chisel-testers2
 - ucb-bar/dsp-tools
