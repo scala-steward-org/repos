@@ -305,6 +305,7 @@
 - esamson/remder
 - esamson/sbt-groovy
 - etorreborre/specs2
+- etspaceman/scalacheck-faker
 - evolution-gaming/akka-effect
 - evolution-gaming/akka-http-documenteddsl
 - evolution-gaming/akka-http-play-json
