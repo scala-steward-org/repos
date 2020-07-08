@@ -214,6 +214,8 @@
 - clovellytech/http4s-modules
 - codacy/codacy-analysis-cli
 - comcast/ip4s
+- compstak/circe-debezium
+- compstak/KafkaStreams4s
 - concrete-cp/concrete
 - concrete-cp/cspom
 - cornerman/chameleon
