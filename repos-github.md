@@ -752,6 +752,7 @@
 - precog/quasar-destination-thoughtspot
 - precog/sbt-precog
 - precog/sbt-quasar-plugin
+- precog/slamdata-predef
 - precog/suprem
 - precog/tectonic
 - profunktor/console4cats
@@ -920,7 +921,6 @@
 - Slakah/fastparse-parsers
 - Slakah/slakah.github.io
 - Slakah/uritemplate4s
-- slamdata/slamdata-predef
 - sloshy/fs2-es
 - snowplow-incubator/cla-bot
 - snowplow-incubator/snowplow-indicative-relay
