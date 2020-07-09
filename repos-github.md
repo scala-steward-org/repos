@@ -33,6 +33,7 @@
 - akka/akka-grpc
 - akka/akka-grpc-sample-kubernetes-scala
 - akka/akka-http
+- akka/akka-management
 - akka/akka-minion
 - akka/akka-paradox
 - akka/akka-persistence-jdbc
@@ -41,6 +42,7 @@
 - akka/akka-sample-cluster-docker-compose-scala
 - akka/akka-sample-cluster-kubernetes-dns-java
 - akka/akka-sample-cluster-kubernetes-scala
+- akka/alpakka-kafka
 - albuch/sbt-dependency-check
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
