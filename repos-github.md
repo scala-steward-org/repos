@@ -986,6 +986,7 @@
 - TeamWanari/tutelar
 - tenable/Kastle
 - tersesystems/blindsight
+- The-Silverwood-Institute/Recibase
 - theiterators/akka-http-microservice
 - theiterators/kebs
 - theiterators/sealed-monad
