@@ -1098,7 +1098,6 @@
 - vmunier/play-scalajs.g8
 - vmunier/sbt-web-scalajs
 - vmunier/scalajs-scripts
-- wegtam/amws-scala
 - wehkamp/cakemix
 - Wei-1/Scala-Machine-Learning
 - WellFactored/clovis
