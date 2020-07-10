@@ -794,6 +794,7 @@
 - rpiaggio/log4cats-loglevel
 - rpiaggio/scalajs-react-beautiful-dnd
 - rtimush/sbt-updates
+- rtimush/scalatags-rx
 - ruippeixotog/scala-scraper
 - runtologist/BuildingAnEffectRuntime
 - sake92/hepek
