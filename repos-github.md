@@ -373,7 +373,6 @@
 - fthomas/properly
 - fthomas/refined
 - fthomas/scalafix-test
-- fthomas/scala-steward
 - fthomas/singleton-ops
 - fthomas/status-page
 - fullfacing/akkaMonixSttpBackend
@@ -474,10 +473,10 @@
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
 - jmcardon/tsec
-- joan38/mill-git
-- joan38/mill-scalafix
 - joan38/kafka-streams-circe
 - joan38/kubernetes-client
+- joan38/mill-git
+- joan38/mill-scalafix
 - JohnReedLOL/pos
 - jsuereth/scala-arm
 - justinhj/fp-starter-pack.g8
@@ -834,6 +833,7 @@
 - scala-bones/bones
 - scala-cash/scash
 - scala-cash/warhorse
+- scala-steward-org/scala-steward
 - scala-ts/scala-ts
 - scala/hello-world.g8
 - scala/make-release-notes
@@ -954,11 +954,11 @@
 - TeamWanari/tutelar
 - tenable/Kastle
 - tersesystems/blindsight
-- The-Silverwood-Institute/Recibase
 - theiterators/akka-http-microservice
 - theiterators/kebs
 - theiterators/sealed-monad
 - thesamet/sbt-protoc
+- The-Silverwood-Institute/Recibase
 - ThoughtWorksInc/bindable.scala
 - ThoughtWorksInc/Binding.scala
 - ThoughtWorksInc/Compute.scala
