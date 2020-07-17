@@ -469,6 +469,7 @@
 - japgolly/scala-graal
 - japgolly/test-state
 - japgolly/univeq
+- jatcwang/doobieroll
 - jcranky/godmode
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
