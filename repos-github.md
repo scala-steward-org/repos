@@ -770,6 +770,7 @@
 - regadas/scala-seed
 - regadas/scio-cats
 - regadas/scio-contextual
+- regadas/socco-ng
 - regis-leray/fs2-ftp
 - rememberthemilk/akka-amqp
 - rpiaggio/clue
