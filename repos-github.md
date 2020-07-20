@@ -285,6 +285,7 @@
 - eikek/sharry
 - eikek/yamusca
 - ekrich/sconfig
+- eli-jordan/alfred-jenkins
 - eltherion/http4s-timer
 - emartech/pure-scheduler
 - embeddedkafka/embedded-kafka
