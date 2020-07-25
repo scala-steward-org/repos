@@ -694,6 +694,7 @@
 - Philippus/julius
 - Philippus/scala-for-all
 - picnicml/doddle-model
+- pitgull/pitgull
 - pityka/saddle
 - pjan/akka-d3
 - playalot/ReactiveMongo-Extensions
