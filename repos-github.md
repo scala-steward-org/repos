@@ -1095,6 +1095,7 @@
 - YannMoisan/graphite4s
 - yanns/scala-json-parsers-performance
 - yoshiyoshifujii/sbt-jig
+- zainab-ali/sbt-sammy
 - zengularity/benji
 - zengularity/query-monad
 - zio/interop-cats
