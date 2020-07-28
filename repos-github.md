@@ -821,6 +821,7 @@
 - scalacenter/sbt-scalafix
 - scalacenter/scalafix
 - ScalaConsultants/zio-akka-quickstart.g8
+- ScalaConsultants/zio-dotty-quickstart.g8
 - scalameta/mdoc
 - scalameta/metabrowse
 - scalameta/metals
