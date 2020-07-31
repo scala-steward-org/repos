@@ -783,6 +783,7 @@
 - rpiaggio/scalajs-react-highcharts
 - rpiaggio/scalajs-react-hotkeys
 - rtimush/sbt-updates
+- rtimush/sbt-rewarn
 - rtimush/scalatags-rx
 - ruippeixotog/scala-scraper
 - runtologist/BuildingAnEffectRuntime
