@@ -113,6 +113,7 @@
 - bjaglin/sbt-memoize
 - bkirwi/decline
 - blemale/scaffeine
+- broadinstitute/cromwell
 - buildo/retro
 - Bunyod/PracticalFPinScala
 - BusyByte/flutterby
