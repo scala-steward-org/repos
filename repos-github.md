@@ -697,6 +697,7 @@
 - picnicml/doddle-model
 - pitgull/pitgull
 - pityka/saddle
+- pityka/lamp
 - pjan/akka-d3
 - playalot/ReactiveMongo-Extensions
 - playframework/anorm
