@@ -776,6 +776,7 @@
 - regadas/scio-contextual
 - regadas/socco-ng
 - regis-leray/fs2-ftp
+- reibitto/command-center
 - rememberthemilk/akka-amqp
 - rpiaggio/clue
 - rpiaggio/crystal
