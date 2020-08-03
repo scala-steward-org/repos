@@ -784,6 +784,7 @@
 - rpiaggio/log4cats-loglevel
 - rpiaggio/meal
 - rpiaggio/scalajs-react-beautiful-dnd
+- rpiaggio/scalajs-react-datepicker
 - rpiaggio/scalajs-react-highcharts
 - rpiaggio/scalajs-react-hotkeys
 - rtimush/sbt-updates
