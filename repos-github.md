@@ -548,6 +548,7 @@
 - lihaoyi/scala.rx
 - liuhongchao/bitcoin4s
 - lomigmegard/akka-http-cors
+- LPTK/simple-sub
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
 - LREN-CHUV/woken-validation
