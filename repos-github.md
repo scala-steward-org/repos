@@ -414,6 +414,7 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - guizmaii/safe-libphonenumber
+- guizmaii/scala-nimbus-jose-jwt
 - gvolpe/pfps-examples
 - gvolpe/pfps-shopping-cart
 - hayasshi/akka-http-router
