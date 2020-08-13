@@ -413,6 +413,7 @@
 - gnieh/diffson
 - goodcover/scala-relay
 - gospeak-io/gospeak
+- guizmaii/scala-nimbus-jose-jwt
 - gvolpe/pfps-examples
 - gvolpe/pfps-shopping-cart
 - hayasshi/akka-http-router
