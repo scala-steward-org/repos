@@ -14,6 +14,7 @@
 - 7mind/idealingua-v1
 - 7mind/izumi
 - 7mind/sbtgen
+- abdolence/slack-morphism
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
 - agourlay/json-2-csv
