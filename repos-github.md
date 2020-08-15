@@ -257,6 +257,7 @@
 - data-hunters/metadata-digger-server
 - davegurnell/bridges
 - DavidGregory084/mill-tpolecat
+- debasishg/effRedis
 - diamantidis/scala-screenshots
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
