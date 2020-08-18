@@ -410,6 +410,7 @@
 - gfc-collective/sbt-dependency-graph-sugar
 - gfc-collective/sbt-newrelic
 - ghostdogpr/caliban
+- gig-foundation/dmf-kit-scala
 - GlasslabGames/html.scala
 - GlasslabGames/nameBasedXml.scala
 - gnieh/diffson
