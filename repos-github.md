@@ -1080,6 +1080,7 @@
 - vigoo/desert
 - vigoo/prox
 - vigoo/simpp
+- vigoo/zio-aws
 - vital-software/sbt-update-lines
 - vital-software/sbt-yourkit-external
 - vital-software/scala-redox
