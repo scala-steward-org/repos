@@ -926,6 +926,8 @@
 - softwaremill/neme-plugin
 - softwaremill/sbt-softwaremill
 - softwaremill/sttp
+- softwaremill/sttp-model
+- softwaremill/sttp-shared
 - softwaremill/tapir
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
