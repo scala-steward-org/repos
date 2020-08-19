@@ -295,6 +295,7 @@
 - embeddedkafka/embedded-kafka-schema-registry
 - emergentorder/onnx-scala
 - endpoints4s/endpoints4s
+- enlivensystems/invoicing-hungarian
 - enzief/recursionz
 - erikerlandson/coulomb
 - erikvanoosten/metrics-scala
