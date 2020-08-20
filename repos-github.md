@@ -553,6 +553,9 @@
 - lightbend/ssl-config
 - lihaoyi/scala.rx
 - liuhongchao/bitcoin4s
+- LolHens/sbt-scalajs-webjar
+- LolHens/scala-commandline
+- LolHens/scala-edifact
 - lomigmegard/akka-http-cors
 - LPTK/simple-sub
 - LREN-CHUV/woken
