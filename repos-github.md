@@ -107,6 +107,8 @@
 - Billzabob/dissonance
 - Billzabob/ForDeckmacia
 - bitcoin-s/bitcoin-s
+- bitmarck-service/base32check-java
+- bitmarck-service/base32check-scala
 - bitrockteam/kafka-dvs-api
 - bitrockteam/kafka-dvs-aviation-edge-producer
 - bitrockteam/kafka-dvs-avro-schemas
