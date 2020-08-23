@@ -651,6 +651,7 @@
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
 - niklasf/lila-openingexplorer
+- niqdev/caliban-extras
 - niqdev/kafka-scala-examples
 - niqdev/scala-fp
 - NomadBlacky/digdag-plugin-datadog
