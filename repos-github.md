@@ -388,6 +388,7 @@
 - functional-streams-for-scala/fs2
 - gearpump/gearpump
 - geirolz/advxml
+- gemini-hlsw/clue
 - gemini-hlsw/gemini-locales
 - gemini-hlsw/gpp-ui
 - gemini-hlsw/gsp-core
@@ -793,7 +794,6 @@
 - regis-leray/fs2-ftp
 - reibitto/command-center
 - rememberthemilk/akka-amqp
-- rpiaggio/clue
 - rpiaggio/crystal
 - rpiaggio/log4cats-loglevel
 - rpiaggio/meal
