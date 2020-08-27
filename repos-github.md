@@ -673,6 +673,7 @@
 - NthPortal/v
 - olafurpg/sbt-ci-release
 - olivierschultz/typelevel-template.g8
+- openzipkin/zipkin-finagle
 - optics-dev/Monocle
 - orbeon/orbeon-forms
 - ornicar/lila
