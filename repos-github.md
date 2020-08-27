@@ -491,6 +491,7 @@
 - joan38/mill-git
 - joan38/mill-scalafix
 - JohnReedLOL/pos
+- johnynek/bosatsu
 - jsuereth/scala-arm
 - justinhj/fp-starter-pack.g8
 - kailuowang/henkan
