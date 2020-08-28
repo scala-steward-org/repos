@@ -841,6 +841,7 @@
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
 - scalacenter/sbt-scalafix
+- scalacenter/scala-3-migration-guide
 - scalacenter/scalafix
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
