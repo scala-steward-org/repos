@@ -67,6 +67,7 @@
 - andyglow/spark-option-setter
 - andyglow/typesafe-config-scala
 - andyglow/websocket-scala-client
+- AndyKirsch/ScalaStewardIssueRepro
 - ant8e/sbt-i18n
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
