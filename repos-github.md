@@ -592,6 +592,7 @@
 - mbuzdalov/orthant-search
 - medeia/medeia
 - mefellows/sbt-dotenv
+- meta-rank/metarank
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
 - mfirry/scala-http-clients
