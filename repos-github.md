@@ -1065,9 +1065,11 @@
 - typelevel/kind-projector
 - typelevel/kittens
 - typelevel/mouse
+- typelevel/munit-cats-effect
 - typelevel/paiges
 - typelevel/sbt-catalysts
 - typelevel/scalacheck
+- typelevel/scalacheck-effect
 - typelevel/simulacrum
 - typelevel/simulacrum-scalafix
 - typelevel/spire
