@@ -93,6 +93,7 @@
 - azavea/stac4s
 - azhur/kafka-serde-scala
 - balhoff/arachne
+- balhoff/owl-diff
 - balhoff/owl-to-rules
 - balhoff/whelk
 - barambani/docker-effect
