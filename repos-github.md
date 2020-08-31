@@ -15,6 +15,7 @@
 - 7mind/idealingua-v1
 - 7mind/izumi
 - 7mind/sbtgen
+- 9rb/rchain
 - abdolence/slack-morphism
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
@@ -779,7 +780,6 @@
 - qbicsoftware/scark-cli
 - raboof/sbt-reproducible-builds
 - raster-foundry/granary
-- rchain/rchain
 - rcmartins/blinky
 - ReactiveMongo/Play-ReactiveMongo
 - ReactiveMongo/ReactiveMongo
