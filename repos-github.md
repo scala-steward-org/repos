@@ -973,6 +973,8 @@
 - super-flat/lagom-pb
 - suzaku-io/boopickle
 - suzaku-io/diode
+- svroonland/play-json-optics
+- svroonland/rezilience
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
 - swagger-akka-http/swagger-akka-http
