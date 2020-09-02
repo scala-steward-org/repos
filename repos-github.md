@@ -869,6 +869,7 @@
 - scala-cash/warhorse
 - scala-steward-org/scala-steward
 - scala-ts/scala-ts
+- scala-tsi/scala-tsi
 - scala/hello-world.g8
 - scala/make-release-notes
 - scala/nanotest-strawman
