@@ -10,7 +10,6 @@
 - 2m/untappd-history
 - 2m/vilnius-pub
 - 7mind/distage-example
-- 7mind/distage-livecode
 - 7mind/idealingua-example
 - 7mind/idealingua-v1
 - 7mind/izumi
