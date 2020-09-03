@@ -240,6 +240,7 @@
 - cquiroz/scalajs-react-common
 - cquiroz/scalajs-react-draggable
 - cquiroz/scalajs-react-grid-layout
+- cquiroz/scalajs-react-resizable
 - cquiroz/scalajs-react-semantic-ui
 - cquiroz/scalajs-react-sizeme
 - cquiroz/scalajs-react-virtualized
@@ -394,10 +395,11 @@
 - gemini-hlsw/clue
 - gemini-hlsw/gemini-locales
 - gemini-hlsw/gpp-ui
-- gemini-hlsw/gsp-core
-- gemini-hlsw/gsp-math
-- gemini-hlsw/ocs3
+- gemini-hlsw/lucuma-core
+- gemini-hlsw/lucuma-sso
+- gemini-hlsw/react-aladin
 - gemini-hlsw/sbt-gsp
+- gemini-hlsw/seqexec
 - geneontology/gaferencer
 - getquill/quill
 - gfc-collective/gfc-aws-cloudwatch
