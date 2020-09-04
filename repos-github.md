@@ -265,6 +265,7 @@
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
 - diamantidis/scala-screenshots
+- dimitarg/weaver-test-extra
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
