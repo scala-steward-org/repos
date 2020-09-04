@@ -674,6 +674,7 @@
 - nrinaudo/kantan.regex
 - nrinaudo/kantan.sbt
 - nrinaudo/kantan.xpath
+- NthPortal/extra-predef
 - NthPortal/reservoir
 - NthPortal/v
 - olafurpg/sbt-ci-release
