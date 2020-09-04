@@ -388,7 +388,6 @@
 - fthomas/status-page
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
-- functional-streams-for-scala/fs2
 - gearpump/gearpump
 - geirolz/advxml
 - gemini-hlsw/clue
@@ -1067,6 +1066,7 @@
 - typelevel/discipline-scalatest
 - typelevel/discipline-specs2
 - typelevel/frameless
+- typelevel/fs2
 - typelevel/jawn
 - typelevel/jawn-fs2
 - typelevel/kind-projector
