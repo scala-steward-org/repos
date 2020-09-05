@@ -815,6 +815,7 @@
 - rtimush/scalatags-rx
 - ruippeixotog/scala-scraper
 - runtologist/BuildingAnEffectRuntime
+- sagifogel/Proptics
 - sake92/hepek
 - saksdirect/sundial
 - salesforce/transmogrifai-helloworld-sbt
