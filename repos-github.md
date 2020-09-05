@@ -416,6 +416,7 @@
 - gfc-collective/gfc-time
 - gfc-collective/gfc-timeuuid
 - gfc-collective/gfc-util
+- gfc-collective/gfc-vavr
 - gfc-collective/sbt-aws-lambda
 - gfc-collective/sbt-dependency-graph-sugar
 - gfc-collective/sbt-newrelic
