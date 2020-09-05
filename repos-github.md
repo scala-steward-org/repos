@@ -517,6 +517,7 @@
 - krzemin/octopus
 - Ksisu/tell-me-a-secret
 - kubukoz/catharsis
+- kubukoz/caliban-gitlab
 - kubukoz/datas
 - kubukoz/flawless
 - kubukoz/library-template.g8
