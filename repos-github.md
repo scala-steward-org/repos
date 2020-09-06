@@ -459,8 +459,6 @@
 - IndiscriminateCoding/api4s
 - IndiscriminateCoding/jetty4s
 - ing-bank/baker
-- innFactory/akka-persistence-gcp-datastore
-- innFactory/bootstrap-play2
 - intracer/scalawiki
 - iRevive/fmq
 - iRevive/sbt-integration-env
