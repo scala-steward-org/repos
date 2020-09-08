@@ -28,6 +28,7 @@
 - akka/akka-minion
 - akka/akka-paradox
 - akka/akka-persistence-jdbc
+- akka/akka-projection
 - akka/akka-samples
 - akka/akka-sample-cluster-docker-compose-java
 - akka/akka-sample-cluster-docker-compose-scala
