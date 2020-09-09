@@ -956,7 +956,10 @@
 - softwaremill/tapir
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
-- sominds/dt-lab-scala-alligator
+- somind/dtlab-scala-alligator
+- somind/dtlab-ingest-scala-alligator
+- somind/auth-verify-proxy 
+- somind/dtlab-ingest-mqtt 
 - soundcloud/twinagle
 - spf3000/functional-kniffle
 - sphereio/sphere-scala-libs
