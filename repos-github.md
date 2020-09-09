@@ -1164,6 +1164,7 @@
 - zio/zio-lambda
 - zio/zio-logging
 - zio/zio-nio
+- zio/zio-prelude
 - zio/zio-process
 - zio/zio-query
 - zio/zio-redis
