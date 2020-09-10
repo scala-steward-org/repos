@@ -1174,6 +1174,7 @@
 - zio/zio-s3
 - zio/zio-sqs
 - zio/zio-telemetry
+- zio/zio-web
 - zio/zio-zmx
 - ziyasal/reducio
 - zouzias/spark-lucenerdd
