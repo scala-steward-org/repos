@@ -383,7 +383,6 @@
 - fthomas/crjdt
 - fthomas/datapackage
 - fthomas/fs2-cron
-- fthomas/kartograffel
 - fthomas/properly
 - fthomas/refined
 - fthomas/scalafix-test
