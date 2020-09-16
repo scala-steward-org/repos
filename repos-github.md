@@ -158,7 +158,6 @@
 - ChristopherDavenport/circuit-http4s
 - ChristopherDavenport/cormorant
 - ChristopherDavenport/Data.Maybe
-- ChristopherDavenport/default
 - ChristopherDavenport/doobie-pool
 - ChristopherDavenport/dynamapath
 - ChristopherDavenport/epimetheus
