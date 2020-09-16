@@ -397,7 +397,7 @@
 - gemini-hlsw/lucuma-sso
 - gemini-hlsw/lucuma-ui
 - gemini-hlsw/react-aladin
-- gemini-hlsw/sbt-gsp
+- gemini-hlsw/sbt-lucuma
 - gemini-hlsw/seqexec
 - geneontology/gaferencer
 - getquill/quill
@@ -956,7 +956,7 @@
 - solidninja/schema-registry-sttp-client
 - somind/dtlab-scala-alligator
 - somind/dtlab-ingest-scala-alligator
-- somind/auth-verify-proxy 
+- SoMind/authz-verify-proxy
 - somind/dtlab-ingest-mqtt 
 - soundcloud/twinagle
 - spf3000/functional-kniffle
