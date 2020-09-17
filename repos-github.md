@@ -396,7 +396,6 @@
 - gemini-hlsw/lucuma-core
 - gemini-hlsw/lucuma-sso
 - gemini-hlsw/lucuma-ui
-- gemini-hlsw/react-aladin
 - gemini-hlsw/sbt-lucuma
 - gemini-hlsw/seqexec
 - geneontology/gaferencer
