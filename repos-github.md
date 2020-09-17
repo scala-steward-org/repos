@@ -1172,6 +1172,7 @@
 - zio/zio-query
 - zio/zio-redis
 - zio/zio-s3
+- zio/zio-sql
 - zio/zio-sqs
 - zio/zio-telemetry
 - zio/zio-web
