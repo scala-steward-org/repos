@@ -547,6 +547,7 @@
 - leigh-perry/template-cats-io-app
 - leigh-perry/template-cats-zio-app
 - lemastero/scala_typeclassopedia
+- lemastero/Triglav
 - lemonlabsuk/scala-uri
 - leobenkel/Laeta
 - leobenkel/Soteria
