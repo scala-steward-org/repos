@@ -1168,6 +1168,7 @@
 - zio/zio-nio
 - zio/zio-prelude
 - zio/zio-process
+- zio/zio-project-seed.g8
 - zio/zio-query
 - zio/zio-redis
 - zio/zio-s3
