@@ -1161,6 +1161,7 @@
 - zio/zio-config
 - zio/zio-ftp
 - zio/zio-gcp
+- zio/zio-json
 - zio/zio-kafka
 - zio/zio-keeper
 - zio/zio-lambda
