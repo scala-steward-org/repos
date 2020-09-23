@@ -212,6 +212,7 @@
 - CleverCloud/akka-warp10-scala-client
 - clovellytech/http4s-modules
 - codacy/codacy-analysis-cli
+- codefeedr/kafkaquery
 - comcast/ip4s
 - compstak/circe-debezium
 - compstak/KafkaStreams4s
