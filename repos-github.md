@@ -843,6 +843,7 @@
 - sangria-graphql/sangria-slowlog
 - sangria-graphql/sangria-spray-json
 - sangria-graphql/sangria-streaming-api
+- satabin/fs2-data
 - sbt/sbt-autoversion
 - sbt/sbt-avro
 - sbt/sbt-bintray
