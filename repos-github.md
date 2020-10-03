@@ -70,6 +70,7 @@
 - andyglow/websocket-scala-client
 - AndyKirsch/ScalaStewardIssueRepro
 - ant8e/sbt-i18n
+- apimorphism/telegramium
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
@@ -1181,6 +1182,5 @@
 - zio/zio-web
 - zio/zio-zmx
 - ziyasal/reducio
-- zouzias/spark-lucenerdd
 - ZookLabs/zooklabs
-- apimorphism/telegramium
+- zouzias/spark-lucenerdd
