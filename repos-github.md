@@ -395,8 +395,12 @@
 - geirolz/advxml
 - gemini-hlsw/clue
 - gemini-hlsw/gemini-locales
+- gemini-hlsw/lucuma-catalog
 - gemini-hlsw/lucuma-core
+- gemini-hlsw/lucuma-jts
 - gemini-hlsw/lucuma-sso
+- gemini-hlsw/lucuma-svgdotjs
+- gemini-hlsw/lucuma-tmp-api
 - gemini-hlsw/lucuma-ui
 - gemini-hlsw/sbt-lucuma
 - gemini-hlsw/seqexec
