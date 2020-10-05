@@ -1,4 +1,3 @@
-#- BenFradet/dashing # temporarily ignored
 - 2m/authors
 - 2m/auto-gate
 - 2m/ciris-hocon
@@ -104,6 +103,7 @@
 - bartholomews/fsclient
 - beautiful-scala/sbt-scalastyle
 - beautiful-scala/scalastyle
+- BenFradet/dashing
 - BenFradet/gsheets4s
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
@@ -860,12 +860,12 @@
 - scala2ts/scala2ts-core
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
-- scalacenter/sbt-scalafix
-- scalacenter/scalafix
-- scalacenter/scala-3-migration-guide
 - scalacenter/sbt-eviction-rules
+- scalacenter/sbt-scalafix
 - scalacenter/sbt-version-policy
+- scalacenter/scalafix
 - scalacenter/scalajs-bundler
+- scalacenter/scala-3-migration-guide
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
 - scalameta/mdoc
