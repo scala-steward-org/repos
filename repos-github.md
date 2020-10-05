@@ -863,6 +863,9 @@
 - scalacenter/sbt-scalafix
 - scalacenter/scalafix
 - scalacenter/scala-3-migration-guide
+- scalacenter/sbt-eviction-rules
+- scalacenter/sbt-version-policy
+- scalacenter/scalajs-bundler
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
 - scalameta/mdoc
