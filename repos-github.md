@@ -103,7 +103,6 @@
 - bartholomews/fsclient
 - beautiful-scala/sbt-scalastyle
 - beautiful-scala/scalastyle
-- BenFradet/dashing
 - BenFradet/gsheets4s
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
