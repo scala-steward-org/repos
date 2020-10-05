@@ -1107,7 +1107,6 @@
 - tyrantkhan/vault4s
 - ua-parser/uap-scala
 - ucb-bar/chisel-testers2
-- ucb-bar/dsp-tools
 - UdashFramework/udash-core
 - underscoreio/slickless
 - unfiltered/unfiltered
