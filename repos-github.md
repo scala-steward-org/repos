@@ -157,7 +157,6 @@
 - ChristopherDavenport/circuit
 - ChristopherDavenport/circuit-http4s
 - ChristopherDavenport/cormorant
-- ChristopherDavenport/Data.Maybe
 - ChristopherDavenport/doobie-pool
 - ChristopherDavenport/dynamapath
 - ChristopherDavenport/epimetheus
@@ -1051,7 +1050,6 @@
 - tjheslin1/DMsPredictor
 - tmtsoftware/csw
 - tmtsoftware/csw.g8
-- tmtsoftware/csw-js
 - tmtsoftware/embedded-keycloak
 - tmtsoftware/esw
 - tmtsoftware/sequencer-scripts
