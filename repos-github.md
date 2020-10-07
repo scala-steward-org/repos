@@ -1048,6 +1048,9 @@
 - TinkoffCreditSystems/typed-schema
 - tixxit/delimited
 - tjheslin1/DMsPredictor
+- tkrs/fluflu
+- tkrs/mess
+- tkrs/orcus
 - tmtsoftware/csw
 - tmtsoftware/csw.g8
 - tmtsoftware/embedded-keycloak
