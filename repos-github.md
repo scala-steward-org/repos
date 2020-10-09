@@ -1186,6 +1186,7 @@
 - zio/zio-telemetry
 - zio/zio-web
 - zio/zio-zmx
+- zio/zio-test-intellij
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-lucenerdd
