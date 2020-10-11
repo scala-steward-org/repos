@@ -810,6 +810,7 @@
 - regadas/socco-ng
 - regis-leray/fs2-ftp
 - reibitto/command-center
+- reibitto/podpodge
 - rememberthemilk/akka-amqp
 - rpiaggio/crystal
 - rpiaggio/log4cats-loglevel
