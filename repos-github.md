@@ -601,7 +601,7 @@
 - mefellows/sbt-dotenv
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
-- meta-rank/metarank
+- metarank/metarank
 - mfirry/scala-http-clients
 - mfirry/web-frameworks-templates
 - michaelahlers/b2-scala
