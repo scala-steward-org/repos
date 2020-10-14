@@ -822,6 +822,7 @@
 - rtimush/sbt-rewarn
 - rtimush/sbt-updates
 - rtimush/scalatags-rx
+- ruippeixotog/akka-testkit-specs2
 - ruippeixotog/scala-scraper
 - runtologist/BuildingAnEffectRuntime
 - sagifogel/Proptics
