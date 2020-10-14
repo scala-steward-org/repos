@@ -999,6 +999,8 @@
 - svroonland/rezilience
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
+- svroonland/scala-ads-client
+- svroonland/scodec-ais
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
 - SwissBorg/lithium
