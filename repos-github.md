@@ -1004,6 +1004,7 @@
 - svroonland/scodec-ais
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
+- SwissBorg/akka-persistence-postgres
 - SwissBorg/lithium
 - synesso/scala-stellar
 - synesso/scala-stellar-horizon-exemplar
