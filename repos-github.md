@@ -606,6 +606,8 @@
 - mfirry/web-frameworks-templates
 - michaelahlers/b2-scala
 - michaelahlers/faker-scala
+- michaelmior/eson-mining
+- michaelmior/eson-scala
 - milessabin/shapeless
 - mitochon/polyjuice
 - mockito/mockito-scala
