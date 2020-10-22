@@ -70,6 +70,8 @@
 - AndyKirsch/ScalaStewardIssueRepro
 - ant8e/sbt-i18n
 - apimorphism/telegramium
+- AlexITC/scala-js-chrome
+- AlexITC/chrome-scalajs-template
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
@@ -1147,6 +1149,9 @@
 - weso/shex-s
 - weso/srdf
 - weso/utils
+- wiringbits/cazadescuentos
+- wiringbits/my-photo-timeline
+- wiringbits/safer.chat
 - wvlet/airframe
 - X9Developers/block-explorer
 - xerial/sbt-pack
