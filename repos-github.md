@@ -1060,6 +1060,7 @@
 - tkrs/fluflu
 - tkrs/mess
 - tkrs/orcus
+- TobiasRoland/scala-xml-encoder
 - tomwadeson/scala-barebones
 - topl/bifrost
 - ToToTec/CmdOption
