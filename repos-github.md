@@ -1155,6 +1155,7 @@
 - wiringbits/safer.chat
 - wvlet/airframe
 - X9Developers/block-explorer
+- xencura/kagera
 - xerial/sbt-pack
 - xerial/sbt-sonatype
 - yannick-cw/elastic-indexer4s
