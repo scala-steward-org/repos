@@ -636,6 +636,8 @@
 - mthmulders/hyperion
 - mvillafuertem/mdoc-modifier
 - mvillafuertem/scala
+- mvillafuertem/scalajs-react-hooks
+- mvillafuertem/scalajs-react-world
 - mvillafuertem/scalcite
 - mwz/sbt-sonar
 - mwz/sonar-scala
