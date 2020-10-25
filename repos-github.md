@@ -637,6 +637,7 @@
 - mthmulders/hyperion
 - mvillafuertem/mdoc-modifier
 - mvillafuertem/scala
+- mvillafuertem/scala-seed
 - mvillafuertem/scalajs-react-hooks
 - mvillafuertem/scalajs-react-world
 - mvillafuertem/scalcite
