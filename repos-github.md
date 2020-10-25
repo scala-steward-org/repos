@@ -50,6 +50,8 @@
 - alexarchambault/scalacheck-shapeless
 - alexarchambault/windows-ansi
 - alexbalonperin/zio_experiments
+- AlexITC/chrome-scalajs-template
+- AlexITC/scala-js-chrome
 - almond-sh/almond
 - alonsodomin/cron4s
 - alonsodomin/kamon-cloudwatch
@@ -70,8 +72,6 @@
 - AndyKirsch/ScalaStewardIssueRepro
 - ant8e/sbt-i18n
 - apimorphism/telegramium
-- AlexITC/scala-js-chrome
-- AlexITC/chrome-scalajs-template
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
@@ -86,6 +86,7 @@
 - Atry/scalajs-all-in-one-template
 - Atry/XmlExtractor.scala
 - augustjune/canoe
+- av8data/add_transformers
 - avast/datadog4s
 - avast/grpc-json-bridge
 - avast/scala-server-toolkit
@@ -1006,10 +1007,10 @@
 - suzaku-io/diode
 - svroonland/play-json-optics
 - svroonland/rezilience
-- svroonland/zio-amqp
-- svroonland/zio-kinesis
 - svroonland/scala-ads-client
 - svroonland/scodec-ais
+- svroonland/zio-amqp
+- svroonland/zio-kinesis
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
 - SwissBorg/akka-persistence-postgres
@@ -1197,9 +1198,9 @@
 - zio/zio-sql
 - zio/zio-sqs
 - zio/zio-telemetry
+- zio/zio-test-intellij
 - zio/zio-web
 - zio/zio-zmx
-- zio/zio-test-intellij
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-lucenerdd
