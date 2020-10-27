@@ -305,6 +305,7 @@
 - embeddedkafka/embedded-kafka-schema-registry
 - emergentorder/onnx-scala
 - endpoints4s/endpoints4s
+- enlivensystems/couchbase-spark-connector
 - enlivensystems/invoicing-hungarian
 - enzief/recursionz
 - erikerlandson/coulomb
