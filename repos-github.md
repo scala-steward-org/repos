@@ -637,9 +637,9 @@
 - mthmulders/hyperion
 - mvillafuertem/mdoc-modifier
 - mvillafuertem/scala
-- mvillafuertem/scala-seed
 - mvillafuertem/scalajs-react-hooks
 - mvillafuertem/scalajs-react-world
+- mvillafuertem/scala-seed
 - mvillafuertem/scalcite
 - mwz/sbt-sonar
 - mwz/sonar-scala
@@ -1120,8 +1120,8 @@
 - UdashFramework/udash-core
 - underscoreio/slickless
 - unfiltered/unfiltered
-- upb-uc4/hlf-api
 - unsecurityio/unsecurity
+- upb-uc4/hlf-api
 - vadimbakaev/scala-fast-start
 - valskalla/odin
 - vasilmkd/docker-stats-monitor
