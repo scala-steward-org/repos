@@ -1120,6 +1120,7 @@
 - UdashFramework/udash-core
 - underscoreio/slickless
 - unfiltered/unfiltered
+- upb-uc4/hlf-api
 - unsecurityio/unsecurity
 - vadimbakaev/scala-fast-start
 - valskalla/odin
