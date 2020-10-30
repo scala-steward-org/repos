@@ -493,6 +493,7 @@
 - japgolly/univeq
 - jatcwang/doobieroll
 - jcranky/godmode
+- jcranky/lojinha
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
 - jmcardon/tsec
