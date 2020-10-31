@@ -363,6 +363,7 @@
 - fdietze/scala-js-d3v4
 - fdietze/scala-js-fontawesome
 - fdietze/vectory
+- felipebonezi/convert-unit-service
 - fiadliel/fs2-grpc
 - finagle/finagle-mysql-shapes
 - finagle/finagle-oauth2
