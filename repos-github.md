@@ -503,6 +503,7 @@
 - joan38/mill-scalafix
 - johnynek/bosatsu
 - jsuereth/scala-arm
+- justapagamentos/jst-register-entity-service
 - justinhj/fp-starter-pack.g8
 - kailuowang/henkan
 - kailuowang/mau
