@@ -614,6 +614,7 @@
 - michaelmior/eson-mining
 - michaelmior/eson-scala
 - milessabin/shapeless
+- minutemen/silhouette
 - mitochon/polyjuice
 - mockito/mockito-scala
 - moia-dev/streamee
