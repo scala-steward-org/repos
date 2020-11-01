@@ -893,6 +893,7 @@
 - scalapb/scalapb-grpcweb
 - scalapb/scalapb-json4s
 - scalapb/scalapb-template.g8
+- scalapb/scalapb-validate
 - scalapb/sparksql-scalapb
 - scalapb/zio-grpc
 - scala-bones/bones
