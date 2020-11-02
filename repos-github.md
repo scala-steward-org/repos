@@ -1116,7 +1116,6 @@
 - typelevel/sbt-catalysts
 - typelevel/scalacheck
 - typelevel/scalacheck-effect
-- typelevel/simulacrum
 - typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
