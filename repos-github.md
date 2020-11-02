@@ -1033,6 +1033,7 @@
 - tbrown1979/totp4s
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
+- TeamWanari/web-push 
 - tenable/Kastle
 - tersesystems/blindsight
 - theiterators/akka-http-microservice
