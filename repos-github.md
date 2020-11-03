@@ -899,6 +899,7 @@
 - scalapb/sparksql-scalapb
 - scalapb/zio-grpc
 - scala-bones/bones
+- scala-bones/scatonic-ideal
 - scala-cash/scash
 - scala-cash/warhorse
 - scala-steward-org/scala-steward
