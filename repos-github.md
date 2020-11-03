@@ -1098,6 +1098,7 @@
 - typelevel/cats-collections
 - typelevel/cats-effect
 - typelevel/cats-mtl
+- typelevel/cats-parse
 - typelevel/cats-tagless
 - typelevel/cats-testkit-scalatest
 - typelevel/claimant
