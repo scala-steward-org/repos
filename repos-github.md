@@ -843,6 +843,7 @@
 - sake92/hepek
 - saksdirect/sundial
 - salesforce/transmogrifai-helloworld-sbt
+- samueltardieu/ausweisbot
 - sangria-graphql/macro-visit
 - sangria-graphql/sangria
 - sangria-graphql/sangria-akka-streams
