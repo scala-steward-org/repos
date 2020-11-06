@@ -1075,6 +1075,7 @@
 - tkrs/mess
 - tkrs/orcus
 - TobiasRoland/scala-xml-encoder
+- TonioGela/blq
 - tomwadeson/scala-barebones
 - topl/bifrost
 - ToToTec/CmdOption
