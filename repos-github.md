@@ -623,6 +623,7 @@
 - molikto/medit
 - molikto/mlang
 - monadless/monadless
+- monix/minitest
 - monix/monix
 - monix/monix-bio
 - monix/monix-connect
