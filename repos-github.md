@@ -1132,6 +1132,7 @@
 - unfiltered/unfiltered
 - unsecurityio/unsecurity
 - upb-uc4/hlf-api
+- usommerl/graalnative4s
 - vadimbakaev/scala-fast-start
 - valskalla/odin
 - vasilmkd/docker-stats-monitor
