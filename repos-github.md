@@ -1218,3 +1218,10 @@
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-lucenerdd
+- dataswift/HAT2.0
+- dataswift/DataPlugs
+- dataswift/hat-she-functions
+- dataswift/hat-client-scala-play
+- dataswift/dex-client-scala-play
+- dataswift/SHE-functions-starter
+- dataswift/slick-postgres-generator-driver
