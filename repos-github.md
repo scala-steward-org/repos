@@ -262,6 +262,7 @@
 - DanielaSfregola/twitter4s
 - DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
+- danieletorelli/loan-cashflows-api
 - dapperware/zio-slack
 - data-hunters/metadata-digger-server
 - davegurnell/bridges
