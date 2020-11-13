@@ -722,6 +722,7 @@
 - pepegar/base.g8
 - pepegar/hammock
 - permutive/fs2-google-pubsub
+- pfcoperez/thebutlerdidit
 - phdoerfler/beegment
 - phdoerfler/enni
 - phdoerfler/latex-scanner
