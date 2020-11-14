@@ -145,7 +145,6 @@
 - cchantep/foorgol
 - cchantep/sbt-hl-compiler
 - ceedubs/irrec
-- census-ecosystem/opencensus-scala
 - channingwalton/http4sWS
 - chatwork/akka-guard
 - chatwork/scala-jwk
@@ -947,8 +946,6 @@
 - scodec/scodec-stream
 - scredis/scredis
 - scullxbones/akka-persistence-mongo
-- Sebruck/akka-http-graphql
-- Sebruck/scalatest-embedded-redis
 - septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
