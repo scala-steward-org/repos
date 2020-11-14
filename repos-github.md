@@ -879,6 +879,7 @@
 - scala2ts/scala2ts-core
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
+- ScalablyTyped/Converter
 - scalacenter/sbt-eviction-rules
 - scalacenter/sbt-scalafix
 - scalacenter/sbt-version-policy
