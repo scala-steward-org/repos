@@ -494,6 +494,9 @@
 - japgolly/test-state
 - japgolly/univeq
 - jatcwang/doobieroll
+- jcouyang/dhall-generic
+- jcouyang/jujiu
+- jcouyang/zhuyu
 - jcranky/godmode
 - jcranky/lojinha
 - jkobejs/endpoints-uzhttp
