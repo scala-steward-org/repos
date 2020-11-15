@@ -1046,6 +1046,7 @@
 - theiterators/kebs
 - theiterators/sealed-monad
 - thesamet/sbt-protoc
+- thesamet/sbt-protoc-gen-project
 - The-Silverwood-Institute/Recibase
 - ThoughtWorksInc/bindable.scala
 - ThoughtWorksInc/Binding.scala
