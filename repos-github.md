@@ -518,6 +518,7 @@
 - kelnos/tut-maven-plugin
 - kemitix/thorp
 - kiambogo/fs2-jms
+- kinoplan/scalajs-react-material-ui
 - klassic/klassic
 - kmizu/jsonda
 - kmizu/matlike
