@@ -263,6 +263,13 @@
 - DanielaSfregola/twitter4s-demo
 - danieletorelli/loan-cashflows-api
 - dapperware/zio-slack
+- dataswift/DataPlugs
+- dataswift/dex-client-scala-play
+- dataswift/HAT2.0
+- dataswift/hat-client-scala-play
+- dataswift/hat-she-functions
+- dataswift/SHE-functions-starter
+- dataswift/slick-postgres-generator-driver
 - data-hunters/metadata-digger-server
 - davegurnell/bridges
 - DavidGregory084/mill-tpolecat
@@ -888,8 +895,8 @@
 - scalacenter/sbt-version-policy
 - scalacenter/scalafix
 - scalacenter/scalajs-bundler
-- scalacenter/scala-migrat3
 - scalacenter/scala-3-migration-guide
+- scalacenter/scala-migrat3
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
 - scalameta/mdoc
@@ -1084,8 +1091,8 @@
 - tkrs/mess
 - tkrs/orcus
 - TobiasRoland/scala-xml-encoder
-- TonioGela/blq
 - tomwadeson/scala-barebones
+- TonioGela/blq
 - topl/bifrost
 - ToToTec/CmdOption
 - to-ithaca/libra
@@ -1224,10 +1231,3 @@
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-lucenerdd
-- dataswift/HAT2.0
-- dataswift/DataPlugs
-- dataswift/hat-she-functions
-- dataswift/hat-client-scala-play
-- dataswift/dex-client-scala-play
-- dataswift/SHE-functions-starter
-- dataswift/slick-postgres-generator-driver
