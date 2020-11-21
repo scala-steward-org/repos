@@ -287,6 +287,7 @@
 - dwijnand/sbt-project-graph
 - dwijnand/sbt-reloadquick
 - dwijnand/sbt-travisci
+- dylandoamaral/zemail
 - dylandoamaral/zinteract
 - ebiznext/comet-data-pipeline
 - ecyshor/akka-consul-lease
