@@ -1145,6 +1145,7 @@
 - UdashFramework/udash-core
 - underscoreio/slickless
 - unfiltered/unfiltered
+- univalence/zio-spark
 - unsecurityio/unsecurity
 - upb-uc4/hlf-api
 - usommerl/graalnative4s
