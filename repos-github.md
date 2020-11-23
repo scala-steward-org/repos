@@ -627,6 +627,7 @@
 - mfirry/web-frameworks-templates
 - michaelahlers/b2-scala
 - michaelahlers/faker-scala
+- michaelahlers/presence
 - michaelmior/eson-mining
 - michaelmior/eson-scala
 - milessabin/shapeless
