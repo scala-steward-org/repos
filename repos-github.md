@@ -264,6 +264,7 @@
 - DanielaSfregola/twitter4s-demo
 - danieletorelli/loan-cashflows-api
 - dapperware/zio-slack
+- databiosphere/leonardo
 - dataswift/DataPlugs
 - dataswift/dex-client-scala-play
 - dataswift/HAT2.0
