@@ -75,6 +75,7 @@
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
+- asakaev/leftpad
 - atnos-org/eff
 - atnos-org/origami
 - Atry/Curried.scala
