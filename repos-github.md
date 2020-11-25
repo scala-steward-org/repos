@@ -930,6 +930,7 @@
 - scala/nanotest-strawman
 - scala/sbt-scala-module
 - scala/scalatest-example.g8
+- scala/scala-async
 - scala/scala-collection-compat
 - scala/scala-collection-contrib
 - scala/scala-collection-laws
