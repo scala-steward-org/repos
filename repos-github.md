@@ -735,8 +735,6 @@
 - pbernet/akka_streams_tutorial
 - pdalpra/computer-database
 - pdalpra/scalalint
-- pepegar/base.g8
-- pepegar/hammock
 - permutive/fs2-google-pubsub
 - pfcoperez/thebutlerdidit
 - phdoerfler/beegment
