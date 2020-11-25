@@ -516,7 +516,9 @@
 - joan38/kubernetes-client
 - joan38/mill-git
 - joan38/mill-scalafix
+- joesan/plant-simulator
 - johnynek/bosatsu
+- jpbnetley/Mongo-csv-importer
 - jsuereth/scala-arm
 - justinhj/fp-starter-pack.g8
 - kailuowang/henkan
@@ -1235,5 +1237,3 @@
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-lucenerdd
-- jpbnetley/Mongo-csv-importer
-- joesan/plant-simulator
