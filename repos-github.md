@@ -282,7 +282,6 @@
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
-- djspiewak/coop
 - djspiewak/gll-combinators
 - djspiewak/shims
 - dmarticus/advent-of-code
@@ -1123,6 +1122,7 @@
 - typelevel/cats-tagless
 - typelevel/cats-testkit-scalatest
 - typelevel/claimant
+- typelevel/coop
 - typelevel/discipline
 - typelevel/discipline-munit
 - typelevel/discipline-scalatest
