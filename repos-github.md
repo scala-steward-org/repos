@@ -903,6 +903,7 @@
 - scalacenter/scala-migrat3
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
+- scalagdx/scalagdx
 - scalameta/mdoc
 - scalameta/metabrowse
 - scalameta/metals
