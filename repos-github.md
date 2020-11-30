@@ -987,6 +987,7 @@
 - Slakah/slakah.github.io
 - Slakah/uritemplate4s
 - sloshy/fs2-es
+- snowplow/snowplow-rdb-loader
 - snowplow-incubator/cla-bot
 - snowplow-incubator/snowplow-indicative-relay
 - softwaremill/bootzooka
