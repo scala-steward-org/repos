@@ -901,8 +901,11 @@
 - scalacenter/scalajs-bundler
 - scalacenter/scala-3-migration-guide
 - scalacenter/scala-migrat3
+- ScalaConsultants/akka-periscope
+- ScalaConsultants/zio-akka-http-interop
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
+- ScalaConsultants/zio-slick-interop
 - scalagdx/scalagdx
 - scalameta/mdoc
 - scalameta/metabrowse
