@@ -446,6 +446,7 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
+- guardian/support-service-lambdas
 - guizmaii/safe-libphonenumber
 - guizmaii/scala-nimbus-jose-jwt
 - gvolpe/pfps-examples
