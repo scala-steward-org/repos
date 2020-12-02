@@ -277,6 +277,7 @@
 - davegurnell/bridges
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
+- DFiantHDL/DFiant
 - diamantidis/scala-screenshots
 - dimitarg/weaver-test-extra
 - disneystreaming/weaver-test
