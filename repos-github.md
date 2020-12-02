@@ -891,6 +891,7 @@
 - sbt/sbt-header
 - sbt/sbt-java-formatter
 - sbt/sbt-unidoc
+- scala/scala3-example-project
 - scala2ts/scala2ts-core
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
