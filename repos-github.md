@@ -653,7 +653,6 @@
 - mschuwalow/zio-todo-backend
 - mslinn/awslib_scala
 - mslinn/dottyTemplate
-- mslinn/dotty-example-project
 - mslinn/play28-template
 - mslinn/quill-cache
 - mslinn/quill-cache
@@ -892,7 +891,6 @@
 - sbt/sbt-header
 - sbt/sbt-java-formatter
 - sbt/sbt-unidoc
-- scala/scala3-example-project
 - scala2ts/scala2ts-core
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
@@ -938,6 +936,7 @@
 - scala/make-release-notes
 - scala/nanotest-strawman
 - scala/sbt-scala-module
+- scala/scala3-example-project
 - scala/scalatest-example.g8
 - scala/scala-async
 - scala/scala-collection-compat
@@ -994,9 +993,9 @@
 - Slakah/slakah.github.io
 - Slakah/uritemplate4s
 - sloshy/fs2-es
-- snowplow/snowplow-rdb-loader
 - snowplow-incubator/cla-bot
 - snowplow-incubator/snowplow-indicative-relay
+- snowplow/snowplow-rdb-loader
 - softwaremill/bootzooka
 - softwaremill/correlator
 - softwaremill/diffx
