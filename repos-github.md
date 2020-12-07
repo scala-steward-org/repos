@@ -589,6 +589,7 @@
 - lightbend/scala-logging
 - lightbend/scala-sculpt
 - lightbend/ssl-config
+- lihaoyi/mill
 - lihaoyi/scala.rx
 - liuhongchao/bitcoin4s
 - loicknuchel/SafeQL
