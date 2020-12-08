@@ -848,6 +848,7 @@
 - reibitto/command-center
 - reibitto/podpodge
 - rememberthemilk/akka-amqp
+- rewards-network/pure-aws
 - rpiaggio/crystal
 - rpiaggio/log4cats-loglevel
 - rpiaggio/meal
