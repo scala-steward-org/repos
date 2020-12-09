@@ -867,6 +867,9 @@
 - saksdirect/sundial
 - salesforce/transmogrifai-helloworld-sbt
 - samueltardieu/ausweisbot
+- samueltardieu/canape
+- samueltardieu/octopush-akka
+- samueltardieu/rxtelegram
 - sangria-graphql/macro-visit
 - sangria-graphql/sangria
 - sangria-graphql/sangria-akka-streams
