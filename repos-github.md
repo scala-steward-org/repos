@@ -383,7 +383,9 @@
 - finagle/finch
 - finch/finch-oauth2
 - firstbirdtech/akka-persistence-query-view
+- firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
+- firstbirdtech/emergence
 - fp-in-bo/jms4s
 - fp-tower/foundations
 - francescofrontera/MLFlow-scala-client
