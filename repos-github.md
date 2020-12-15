@@ -692,6 +692,7 @@
 - navicore/navilake
 - navicore/NaviPath
 - NCATS-Tangerine/cam-kp-api
+- nemoo/play-slick3-example
 - neotypes/neotypes
 - NeQuissimus/circe-kafka
 - NeQuissimus/nequi-kafka
