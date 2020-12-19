@@ -497,6 +497,7 @@
 - j5ik2o/sbt-wrapper-gen
 - j5ik2o/sw4jj
 - JannikArndt/scala-start
+- jacum/akka-sensors
 - janstenpickle/trace4cats
 - japgolly/clear-config
 - japgolly/microlibs-scala
