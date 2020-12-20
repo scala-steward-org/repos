@@ -386,6 +386,7 @@
 - firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
 - firstbirdtech/emergence
+- foreign-language-reader/api
 - fp-in-bo/jms4s
 - fp-tower/foundations
 - francescofrontera/MLFlow-scala-client
