@@ -687,6 +687,7 @@
 - nafg/slick-additions
 - nafg/slick-migration-api
 - nafg/slick-migration-api-flyway
+- namely/chief-of-state
 - navicore/akka-eventhubs
 - navicore/ehtail
 - navicore/lots-of-names
