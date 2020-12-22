@@ -279,6 +279,7 @@
 - debasishg/effRedis
 - DFiantHDL/DFiant
 - diamantidis/scala-screenshots
+- dimitarg/bb-webhook
 - dimitarg/weaver-test-extra
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
