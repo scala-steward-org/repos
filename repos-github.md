@@ -529,6 +529,7 @@
 - jpbnetley/Mongo-csv-importer
 - jsuereth/scala-arm
 - justinhj/fp-starter-pack.g8
+- JWWeatherman/pay-model
 - kailuowang/henkan
 - kailuowang/mau
 - katlasik/functionmeta
