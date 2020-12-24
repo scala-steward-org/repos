@@ -1134,6 +1134,7 @@
 - travisbrown/iteratee
 - travisbrown/iteratee-twitter
 - treaz/scalatraseed
+- tulz-app/frontroute
 - twilio/guardrail
 - twilio/sbt-guardrail
 - twitter/algebird
