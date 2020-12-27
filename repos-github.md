@@ -257,7 +257,6 @@
 - d10xa/jadd
 - d10xa/scala.g8
 - daandi/nice-url-encode-decode
-- daenyth/scytest
 - DanielaSfregola/random-data-generator
 - DanielaSfregola/random-data-generator-magnolia
 - DanielaSfregola/twitter4s
