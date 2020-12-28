@@ -684,6 +684,7 @@
 - nafg/scalajs-react-util
 - nafg/scala-phonenumber
 - nafg/scheduler
+- nafg/simple-router
 - nafg/simpleivr
 - nafg/slick-additions
 - nafg/slick-migration-api
