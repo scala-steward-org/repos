@@ -1,4 +1,3 @@
-- 100km/stk
 - 2m/authors
 - 2m/auto-gate
 - 2m/ciris-hocon
@@ -15,6 +14,7 @@
 - 7mind/izumi
 - 7mind/sbtgen
 - 9rb/rchain
+- 100km/stk
 - abdolence/slack-morphism
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
@@ -125,6 +125,7 @@
 - bjaglin/sbt-memoize
 - bkirwi/decline
 - blemale/scaffeine
+- brbrown25/macros
 - broadinstitute/cromwell
 - broadinstitute/workbench-libs
 - buildo/retro
@@ -497,8 +498,8 @@
 - j5ik2o/reactive-aws-clients
 - j5ik2o/sbt-wrapper-gen
 - j5ik2o/sw4jj
-- JannikArndt/scala-start
 - jacum/akka-sensors
+- JannikArndt/scala-start
 - janstenpickle/trace4cats
 - japgolly/clear-config
 - japgolly/microlibs-scala
@@ -684,8 +685,8 @@
 - nafg/scalajs-react-util
 - nafg/scala-phonenumber
 - nafg/scheduler
-- nafg/simple-router
 - nafg/simpleivr
+- nafg/simple-router
 - nafg/slick-additions
 - nafg/slick-migration-api
 - nafg/slick-migration-api-flyway
