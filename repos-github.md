@@ -45,7 +45,6 @@
 - alexarchambault/data-class
 - alexarchambault/missing-link-cli
 - alexarchambault/plotly-scala
-- alexarchambault/sbt-compatibility
 - alexarchambault/sbt-coursier-export
 - alexarchambault/scalacheck-shapeless
 - alexarchambault/windows-ansi
