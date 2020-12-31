@@ -61,8 +61,6 @@
 - amorvincitomnia/thehand
 - andyglow/caseclass-evolution
 - andyglow/scalacheck-gen-configured
-- andyglow/scalacheck-spark
-- andyglow/scalatest-spark
 - andyglow/scala-jsonschema
 - andyglow/scala-range
 - andyglow/scala-ulid
