@@ -1047,6 +1047,7 @@
 - stripe/agate
 - stripe/dagon
 - stryker-mutator/stryker4s
+- sullis/alpakka-jms-example
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/kayenta-playground
