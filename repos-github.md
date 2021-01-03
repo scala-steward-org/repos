@@ -794,6 +794,7 @@
 - plokhotnyuk/rtree2d
 - pluralsight/hydra
 - ppurang/asynch
+- ppurang/abctemplates
 - pravin-raha/maantrack
 - precog/async-blobstore
 - precog/fs2-job
