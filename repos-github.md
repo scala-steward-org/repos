@@ -123,6 +123,7 @@
 - bjaglin/sbt-memoize
 - bkirwi/decline
 - blemale/scaffeine
+- blended-zio/blended-zio
 - brbrown25/macros
 - broadinstitute/cromwell
 - broadinstitute/workbench-libs
