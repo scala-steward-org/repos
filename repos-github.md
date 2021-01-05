@@ -400,7 +400,6 @@
 - fs2-blobstore/fs2-blobstore
 - fthomas/base.g8
 - fthomas/crjdt
-- fthomas/datapackage
 - fthomas/fs2-cron
 - fthomas/properly
 - fthomas/refined
