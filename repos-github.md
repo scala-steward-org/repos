@@ -216,6 +216,7 @@
 - codacy/codacy-analysis-cli
 - codefeedr/kafkaquery
 - comcast/ip4s
+- commercetools/sphere-scala-libs
 - compstak/circe-debezium
 - compstak/KafkaStreams4s
 - concrete-cp/concrete
@@ -1032,7 +1033,6 @@
 - somind/dtlab-scala-alligator
 - soundcloud/twinagle
 - spf3000/functional-kniffle
-- sphereio/sphere-scala-libs
 - spotify/big-data-rosetta-code
 - spotify/elitzur
 - spotify/featran
