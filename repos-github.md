@@ -724,6 +724,7 @@
 - nrinaudo/kantan.sbt
 - nrinaudo/kantan.xpath
 - NthPortal/extra-predef
+- NthPortal/life-vest
 - NthPortal/reservoir
 - NthPortal/v
 - ocadotechnology/sttp-oauth2
