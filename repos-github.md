@@ -1262,4 +1262,5 @@
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-lucenerdd
+- zzvara/spark-disqus
 - zzvara/spark-youtube
