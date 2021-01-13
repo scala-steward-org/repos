@@ -556,6 +556,7 @@
 - kubukoz/slick-effect
 - kubukoz/spotify-next
 - kubukoz/sup
+- kubukoz/better-tostring
 - kwark/play-refined
 - kwark/slick-refined
 - lagom/lagom
