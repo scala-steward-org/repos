@@ -548,6 +548,7 @@
 - kovszilard/twitter-server-prometheus
 - krzemin/octopus
 - Ksisu/tell-me-a-secret
+- kubukoz/better-tostring
 - kubukoz/caliban-gitlab
 - kubukoz/catharsis
 - kubukoz/datas
@@ -556,7 +557,6 @@
 - kubukoz/slick-effect
 - kubukoz/spotify-next
 - kubukoz/sup
-- kubukoz/better-tostring
 - kwark/play-refined
 - kwark/slick-refined
 - lagom/lagom
