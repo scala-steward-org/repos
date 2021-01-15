@@ -515,6 +515,7 @@
 - jcouyang/zhuyu
 - jcranky/godmode
 - jcranky/lojinha
+- jirkavrba/vse-verification-bot
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
 - jmcardon/tsec
