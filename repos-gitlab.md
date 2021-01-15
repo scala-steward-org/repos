@@ -1,2 +1,3 @@
 - fthomas/scala-steward-test
 - tyoras/cards
+- morgaorth/gitlab4s
