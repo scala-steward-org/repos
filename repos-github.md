@@ -328,6 +328,8 @@
 - esamson/sbt-groovy
 - etorreborre/specs2
 - etspaceman/scalacheck-faker
+- EventStore/EventStore.Akka.Persistence
+- EventStore/EventStore.JVM
 - evolution-gaming/akka-effect
 - evolution-gaming/akka-http-documenteddsl
 - evolution-gaming/akka-http-play-json
