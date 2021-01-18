@@ -642,6 +642,7 @@
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
 - metarank/metarank
+- mfirry/bettermooch/
 - mfirry/scala-http-clients
 - mfirry/web-frameworks-templates
 - michaelahlers/b2-scala
