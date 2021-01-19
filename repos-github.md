@@ -25,7 +25,6 @@
 - akka/akka-grpc-sample-kubernetes-scala
 - akka/akka-http
 - akka/akka-management
-- akka/akka-minion
 - akka/akka-paradox
 - akka/akka-persistence-jdbc
 - akka/akka-projection
