@@ -935,6 +935,7 @@
 - scalameta/mdoc
 - scalameta/metabrowse
 - scalameta/metals
+- scalameta/metals-gitpod-sample
 - scalameta/munit
 - scalameta/sbt-scalafmt
 - scalameta/scalafmt
