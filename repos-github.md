@@ -518,6 +518,7 @@
 - jcouyang/zhuyu
 - jcranky/godmode
 - jcranky/lojinha
+- jd557/minart
 - jirkavrba/vse-verification-bot
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
