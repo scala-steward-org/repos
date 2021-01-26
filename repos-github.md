@@ -150,9 +150,9 @@
 - chatwork/akka-guard
 - chatwork/scala-jwk
 - chenharryhua/nanjin
+- chmodas/akka-persistence-r2dbc
 - ChocPanda/argonaut-magnolia
 - ChocPanda/scalacheck-magnolia
-- chmodas/akka-persistence-r2dbc
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
 - ChristopherDavenport/cats-effect-time
@@ -802,8 +802,8 @@
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
 - pluralsight/hydra
-- ppurang/asynch
 - ppurang/abctemplates
+- ppurang/asynch
 - pravin-raha/maantrack
 - precog/async-blobstore
 - precog/fs2-job
