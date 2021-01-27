@@ -635,8 +635,10 @@
 - mbuzdalov/data-slicer
 - mbuzdalov/generic-onell
 - mbuzdalov/incremental-orthants
+- mbuzdalov/one-plus-lambda-on-onemax
 - mbuzdalov/non-dominated-sorting
 - mbuzdalov/orthant-search
+- mbuzdalov/unbiased-bbc
 - medeia/medeia
 - mefellows/sbt-dotenv
 - metabookmarks/lagom-silhouette
