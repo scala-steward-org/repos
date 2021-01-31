@@ -1085,6 +1085,7 @@
 - synesso/scala-stellar-horizon-exemplar
 - synesso/scala-stellar-sdk
 - SystemFw/upperbound
+- taig/flog
 - taig/lokal
 - takayahilton/sql-formatter
 - tanishiking/scalaunfmt
