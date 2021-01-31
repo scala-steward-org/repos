@@ -1143,6 +1143,7 @@
 - tpolecat/natchez
 - tpolecat/skunk
 - transcendent-ai-labs/DynaML
+- TranslatorSRI/ontology-kp
 - travisbrown/catbird
 - travisbrown/dhallj
 - travisbrown/iteratee
