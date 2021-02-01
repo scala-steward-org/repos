@@ -311,7 +311,10 @@
 - eikek/sbt-openapi-schema
 - eikek/sharry
 - eikek/yamusca
+- ekrich/sblas
 - ekrich/sconfig
+- ekrich/sjavatime
+- ekrich/stensorflow
 - eli-jordan/alfred-jenkins
 - eltherion/http4s-timer
 - emartech/pure-scheduler
