@@ -67,6 +67,7 @@
 - andyglow/typesafe-config-scala
 - andyglow/websocket-scala-client
 - AndyKirsch/ScalaStewardIssueRepro
+- an-tex/sc8s
 - ant8e/sbt-i18n
 - apimorphism/telegramium
 - asachdeva/cats-sandbox
