@@ -1138,6 +1138,8 @@
 - tkrs/mess
 - tkrs/orcus
 - TobiasRoland/scala-xml-encoder
+- toddburnside/scalajs-react-table
+- toddburnside/scalajs-react-virtuoso
 - tomwadeson/scala-barebones
 - TonioGela/blq
 - topl/bifrost
