@@ -606,6 +606,7 @@
 - lightbend/ssl-config
 - lihaoyi/mill
 - lihaoyi/scala.rx
+- liquibase4s/liquibase4s
 - liuhongchao/bitcoin4s
 - loicknuchel/SafeQL
 - loicknuchel/TypedAPI
