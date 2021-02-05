@@ -1004,6 +1004,7 @@
 - scodec/scodec-stream
 - scredis/scredis
 - scullxbones/akka-persistence-mongo
+- senia-psm/zio-test-akka-http
 - septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
