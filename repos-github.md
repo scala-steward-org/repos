@@ -1104,6 +1104,7 @@
 - TeamWanari/web-push 
 - tenable/Kastle
 - tersesystems/blindsight
+- tethys-json/tethys
 - theiterators/akka-http-microservice
 - theiterators/kebs
 - theiterators/sealed-monad
