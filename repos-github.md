@@ -738,6 +738,7 @@
 - nrinaudo/kantan.regex
 - nrinaudo/kantan.sbt
 - nrinaudo/kantan.xpath
+- nryanov/consul4s
 - NthPortal/extra-predef
 - NthPortal/life-vest
 - NthPortal/reservoir
