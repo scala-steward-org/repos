@@ -394,6 +394,7 @@
 - firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
 - firstbirdtech/emergence
+- flyway/flyway-play
 - foreign-language-reader/api
 - fp-in-bo/jms4s
 - fp-tower/foundations
