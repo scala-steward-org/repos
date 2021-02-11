@@ -1150,6 +1150,7 @@
 - TonioGela/blq
 - topl/bifrost
 - ToToTec/CmdOption
+- tototoshi/slick-joda-mapper
 - to-ithaca/libra
 - tpolecat/atto
 - tpolecat/doobie
