@@ -409,7 +409,6 @@
 - fthomas/base.g8
 - fthomas/crjdt
 - fthomas/fs2-cron
-- fthomas/properly
 - fthomas/refined
 - fthomas/scalafix-test
 - fthomas/singleton-ops
