@@ -783,6 +783,7 @@
 - Philippus/bump
 - Philippus/emoji-clock
 - Philippus/julius
+- Philippus/julius-iii
 - Philippus/scala-for-all
 - picnicml/doddle-model
 - pitgull/pitgull
