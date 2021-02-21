@@ -692,6 +692,7 @@
 - mvillafuertem/scalcite
 - mwz/sbt-sonar
 - mwz/sonar-scala
+- nachinius/starter.g8
 - nafg/cloud-logging-logback-scala
 - nafg/css-dsl
 - nafg/jewish-date
