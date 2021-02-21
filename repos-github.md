@@ -407,7 +407,6 @@
 - freechipsproject/treadle
 - fs2-blobstore/fs2-blobstore
 - fthomas/base.g8
-- fthomas/crjdt
 - fthomas/fs2-cron
 - fthomas/refined
 - fthomas/scalafix-test
