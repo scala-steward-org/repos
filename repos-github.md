@@ -227,6 +227,7 @@
 - cornerman/covenant
 - cornerman/mycelium
 - cornerman/scala-cuid
+- cornerman/simple-scalajs-requests 
 - cornerman/sloth
 - coursier/apps
 - coursier/coursier
