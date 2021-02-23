@@ -457,6 +457,7 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
+- guardian/price-migration-engine
 - guardian/support-service-lambdas
 - guizmaii/safe-libphonenumber
 - guizmaii/scala-nimbus-jose-jwt
