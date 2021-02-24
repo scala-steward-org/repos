@@ -695,6 +695,7 @@
 - mvillafuertem/scalcite
 - mwz/sbt-sonar
 - mwz/sonar-scala
+- nachinius/fp-scala-template
 - nachinius/starter.g8
 - nafg/cloud-logging-logback-scala
 - nafg/css-dsl
