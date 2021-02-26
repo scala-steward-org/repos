@@ -519,6 +519,7 @@
 - japgolly/test-state
 - japgolly/univeq
 - jatcwang/doobieroll
+- jatcwang/scalafix-named-params
 - jcouyang/dhall-generic
 - jcouyang/jujiu
 - jcouyang/zhuyu
