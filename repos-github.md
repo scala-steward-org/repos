@@ -912,6 +912,7 @@
 - sangria-graphql/sangria-akka-streams
 - sangria-graphql/sangria-argonaut
 - sangria-graphql/sangria-circe
+- sangria-graphql/sangria-federated
 - sangria-graphql/sangria-ion
 - sangria-graphql/sangria-json4s-jackson
 - sangria-graphql/sangria-json4s-native
