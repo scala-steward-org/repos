@@ -617,6 +617,7 @@
 - LolHens/scala-commandline
 - LolHens/scala-edifact
 - lomigmegard/akka-http-cors
+- lorandszakacs/sprout
 - LPTK/simple-sub
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
