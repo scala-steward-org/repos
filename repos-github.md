@@ -554,6 +554,7 @@
 - kemitix/thorp
 - kiambogo/fs2-jms
 - kinoplan/scalajs-react-material-ui
+- kinoplan/utils
 - kitlangton/zio-magic
 - klassic/klassic
 - kmizu/jsonda
