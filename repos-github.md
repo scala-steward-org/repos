@@ -459,6 +459,8 @@
 - griggt/scalamyth
 - guardian/price-migration-engine
 - guardian/support-service-lambdas
+- guardrail-dev/guardrail
+- guardrail-dev/sbt-guardrail
 - guizmaii/safe-libphonenumber
 - guizmaii/scala-nimbus-jose-jwt
 - gvolpe/pfps-examples
@@ -1175,8 +1177,6 @@
 - travisbrown/iteratee-twitter
 - treaz/scalatraseed
 - tulz-app/frontroute
-- twilio/guardrail
-- twilio/sbt-guardrail
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
