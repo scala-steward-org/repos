@@ -570,6 +570,7 @@
 - kubukoz/datas
 - kubukoz/flawless
 - kubukoz/library-template.g8
+- kubukoz/slang
 - kubukoz/slick-effect
 - kubukoz/spotify-next
 - kubukoz/sup
