@@ -585,6 +585,7 @@
 - laserdisc-io/log-effect
 - laserdisc-io/mysql-binlog-stream
 - laserdisc-io/tamer
+- laserdisc-io/zio-oci-objectstorage
 - leanovate/play-mockws
 - lefou/mill-aspectj
 - lefou/mill-integrationtest
