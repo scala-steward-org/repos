@@ -695,6 +695,7 @@
 - mslinn/urlettes
 - mslinn/web3j-scala
 - mthmulders/hyperion
+- mvillafuertem/akka-zio
 - mvillafuertem/mdoc-modifier
 - mvillafuertem/scala
 - mvillafuertem/scalajs-react-hooks
