@@ -937,7 +937,6 @@
 - satabin/fs2-data
 - sbt/sbt-autoversion
 - sbt/sbt-avro
-- sbt/sbt-bintray
 - sbt/sbt-duplicates-finder
 - sbt/sbt-fresh
 - sbt/sbt-header
