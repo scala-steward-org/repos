@@ -1208,7 +1208,6 @@
 - typelevel/mouse
 - typelevel/munit-cats-effect
 - typelevel/paiges
-- typelevel/sbt-catalysts
 - typelevel/scalacheck
 - typelevel/scalacheck-effect
 - typelevel/simulacrum-scalafix
