@@ -1083,6 +1083,7 @@
 - srenault/sre-api
 - sritchie/scala-rl
 - stephennancekivell/scalatest-json
+- stevedlawrence/daffodil
 - stripe/agate
 - stripe/dagon
 - stryker-mutator/mutation-testing-elements
