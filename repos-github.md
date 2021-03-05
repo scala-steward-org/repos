@@ -907,6 +907,13 @@
 - ruippeixotog/akka-testkit-specs2
 - ruippeixotog/scala-scraper
 - runtologist/BuildingAnEffectRuntime
+- RustedBones/akka-http-avro
+- RustedBones/akka-http-metrics
+- RustedBones/akka-http-scalapb
+- RustedBones/akka-http-thrift
+- RustedBones/sc4s
+- RustedBones/scout
+- RustedBones/taxonomy
 - sagifogel/Proptics
 - sake92/hepek
 - saksdirect/sundial
