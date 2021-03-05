@@ -743,6 +743,7 @@
 - NomadBlacky/digdag-plugin-datadog
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
+- note/dhallj-magnolia
 - notxcain/aecor
 - novakov-alexey/freya
 - novakov-alexey/http4s-spnego
