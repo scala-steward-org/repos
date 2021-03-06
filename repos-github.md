@@ -289,7 +289,6 @@
 - dispalt/tagless-redux
 - djspiewak/cats-effect-testing
 - djspiewak/gll-combinators
-- djspiewak/shims
 - dmarticus/advent-of-code
 - dmarticus/dag4s
 - dmarticus/functional-todo-app
