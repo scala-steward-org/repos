@@ -1189,6 +1189,8 @@
 - travisbrown/iteratee-twitter
 - treaz/scalatraseed
 - tulz-app/frontroute
+- tulz-app/laminext
+- tulz-app/tuplez
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
@@ -1276,6 +1278,8 @@
 - YannMoisan/graphite4s
 - yanns/scala-json-parsers-performance
 - yoshiyoshifujii/sbt-jig
+- yurique/embedded-files
+- yurique/embedded-files-macro
 - zainab-ali/sbt-sammy
 - zengularity/benji
 - zengularity/query-monad
