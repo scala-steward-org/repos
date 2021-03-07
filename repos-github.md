@@ -124,6 +124,7 @@
 - bkirwi/decline
 - blemale/scaffeine
 - blended-zio/blended-zio
+- BotTech/scala2plantuml
 - brbrown25/macros
 - broadinstitute/cromwell
 - broadinstitute/workbench-libs
