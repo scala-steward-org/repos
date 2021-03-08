@@ -69,6 +69,7 @@
 - AndyKirsch/ScalaStewardIssueRepro
 - an-tex/sc8s
 - ant8e/sbt-i18n
+- apache/daffodil
 - apimorphism/telegramium
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
@@ -1090,7 +1091,6 @@
 - srenault/sre-api
 - sritchie/scala-rl
 - stephennancekivell/scalatest-json
-- stevedlawrence/daffodil
 - stripe/agate
 - stripe/dagon
 - stryker-mutator/mutation-testing-elements
