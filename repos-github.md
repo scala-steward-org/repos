@@ -1162,6 +1162,7 @@
 - ThoughtWorksInc/todo
 - ThoughtWorksInc/tryt.scala
 - TimWSpence/cats-stm
+- TinkoffCreditSystems/phobos
 - TinkoffCreditSystems/tofu
 - TinkoffCreditSystems/typed-schema
 - tixxit/delimited
