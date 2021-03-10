@@ -997,6 +997,7 @@
 - scala/nanotest-strawman
 - scala/sbt-scala-module
 - scala/scala3.g8
+- scala/scala3-cross.g8
 - scala/scala3-example-project
 - scala/scalatest-example.g8
 - scala/scala-async
