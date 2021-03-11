@@ -589,6 +589,7 @@
 - laserdisc-io/tamer
 - laserdisc-io/zio-oci-objectstorage
 - leanovate/play-mockws
+- LeeTibbert/scala-native-trials
 - lefou/mill-aspectj
 - lefou/mill-integrationtest
 - lefou/mill-jbake
