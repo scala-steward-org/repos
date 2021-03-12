@@ -1131,6 +1131,7 @@
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
 - TeamWanari/web-push 
+- techmonad/akka-http-jwt-security
 - tenable/Kastle
 - tersesystems/blindsight
 - tethys-json/tethys
