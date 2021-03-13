@@ -58,6 +58,10 @@
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
 - amorvincitomnia/thehand
+- anand-singh/scala-playground
+- anand-singh/basic-scala
+- anand-singh/learning-algorithms
+- anand-singh/etl-service
 - andyglow/caseclass-evolution
 - andyglow/scalacheck-gen-configured
 - andyglow/scala-jsonschema
@@ -1132,6 +1136,12 @@
 - TeamWanari/tutelar
 - TeamWanari/web-push 
 - techmonad/akka-http-jwt-security
+- techmonad/learning-scala-3
+- techmonad/conference-app
+- techmonad/datastats
+- techmonad/campaign-api
+- techmonad/learning-http4s
+- techmonad/akka-scheduler
 - tenable/Kastle
 - tersesystems/blindsight
 - tethys-json/tethys
