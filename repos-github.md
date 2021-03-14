@@ -223,6 +223,7 @@
 - clovellytech/http4s-modules
 - codacy/codacy-analysis-cli
 - codefeedr/kafkaquery
+- com-lihaoyi/mill
 - comcast/ip4s
 - commercetools/sphere-scala-libs
 - compstak/circe-debezium
@@ -621,7 +622,6 @@
 - lightbend/scala-logging
 - lightbend/scala-sculpt
 - lightbend/ssl-config
-- lihaoyi/mill
 - lihaoyi/scala.rx
 - liquibase4s/liquibase4s
 - liuhongchao/bitcoin4s
