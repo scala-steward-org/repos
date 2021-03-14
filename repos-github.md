@@ -19,6 +19,7 @@
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
 - agourlay/json-2-csv
+- agustafson/cats-quartz
 - ahjohannessen/sec
 - akka/akka
 - akka/akka-grpc
