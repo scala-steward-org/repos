@@ -727,6 +727,7 @@
 - nafg/cloud-logging-logback-scala
 - nafg/css-dsl
 - nafg/jewish-date
+- nafg/mergify-yaml
 - nafg/reactive
 - nafg/scalajs-facades
 - nafg/scalajs-react-util
