@@ -642,6 +642,7 @@
 - LolHens/http4s-monix
 - LolHens/http4s-play
 - LolHens/munit-tagless-final
+- LolHens/prometheus-bash-exporter
 - LolHens/sbt-scalajs-webjar
 - LolHens/scala-commandline
 - LolHens/scala-crypto
