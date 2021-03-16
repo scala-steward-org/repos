@@ -468,6 +468,12 @@
 - guardian/price-migration-engine
 - guardian/support-service-lambdas
 - guardrail-dev/guardrail
+- guardrail-dev/guardrail-maven-plugin
+- guardrail-dev/guardrail-sample-gradle-http4s-zio
+- guardrail-dev/guardrail-sample-gradle-springmvc
+- guardrail-dev/guardrail-sample-maven-dropwizard
+- guardrail-dev/guardrail-sample-sbt-akkahttp
+- guardrail-dev/guardrail-sample-sbt-http4s-zio
 - guardrail-dev/sbt-guardrail
 - guizmaii/safe-libphonenumber
 - guizmaii/scala-nimbus-jose-jwt
