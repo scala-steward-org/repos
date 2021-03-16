@@ -1,3 +1,4 @@
 - fthomas/scala-steward-test
 - morgaroth/gitlab4s
 - tyoras/cards
+- valencik/sillygraph
