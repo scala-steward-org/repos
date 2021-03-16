@@ -265,6 +265,7 @@
 - criteo/cuttle
 - criteo/lolhttp
 - cr-org/neutron
+- d2a4u/meteor
 - d2a4u/sqs4s
 - d10xa/jadd
 - d10xa/scala.g8
