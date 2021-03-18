@@ -686,6 +686,7 @@
 - mefellows/sbt-dotenv
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
+- metarank/cfor
 - metarank/metarank
 - mfirry/bettermooch
 - mfirry/scala-http-clients
