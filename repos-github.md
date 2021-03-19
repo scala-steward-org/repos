@@ -466,6 +466,7 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
+- guardian/manage-help-content-publisher
 - guardian/price-migration-engine
 - guardian/support-service-lambdas
 - guardrail-dev/guardrail
