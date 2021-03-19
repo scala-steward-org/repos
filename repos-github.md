@@ -305,6 +305,7 @@
 - dmarticus/scala-games
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
+- dream11/zio-http
 - dusan0098/Scalafix_FP_workshop
 - dwijnand/sbt-compat
 - dwijnand/sbt-dynver
