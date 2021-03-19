@@ -2,4 +2,5 @@
 - io.github.nafg/slick-migration-api
 - morgaroth/gitlab4s
 - tyoras/cards
+- valencik/sequoia
 - valencik/sillygraph
