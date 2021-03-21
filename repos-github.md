@@ -937,6 +937,7 @@
 - rtimush/sbt-rewarn
 - rtimush/sbt-updates
 - rtimush/scalatags-rx
+- rtimush/zio-magic-comments
 - ruippeixotog/akka-testkit-specs2
 - ruippeixotog/scala-scraper
 - runtologist/BuildingAnEffectRuntime
