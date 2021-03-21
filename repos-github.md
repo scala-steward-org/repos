@@ -635,6 +635,7 @@
 - lihaoyi/scala.rx
 - liquibase4s/liquibase4s
 - liuhongchao/bitcoin4s
+- liuhongchao/debug4s
 - loicknuchel/SafeQL
 - loicknuchel/TypedAPI
 - LolHens/docker-registry-cache
