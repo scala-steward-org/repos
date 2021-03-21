@@ -690,6 +690,7 @@
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
 - metarank/cfor
+- metarank/ltrlib
 - metarank/metarank
 - mfirry/bettermooch
 - mfirry/scala-http-clients
