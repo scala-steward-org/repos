@@ -625,6 +625,7 @@
 - lewisjkl/kafkakit
 - liancheng/scalafix-organize-imports
 - lightbend/genjavadoc
+- lightbend/kafka-lag-exporter
 - lightbend/lightbend-emoji
 - lightbend/mima
 - lightbend/paradox
