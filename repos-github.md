@@ -497,6 +497,7 @@
 - http4s/rho
 - http4s/sbt-http4s-org
 - huiwang/codingame-scala-kit
+- Idealiste-cz/ideal-voting-backend
 - iheartradio/ficus
 - iheartradio/lihua
 - iheartradio/play-swagger
