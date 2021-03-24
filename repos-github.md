@@ -589,6 +589,7 @@
 - kubukoz/catharsis
 - kubukoz/datas
 - kubukoz/flawless
+- kubukoz/http4s-oauth2
 - kubukoz/library-template.g8
 - kubukoz/slang
 - kubukoz/slick-effect
