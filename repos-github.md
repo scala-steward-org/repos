@@ -1320,6 +1320,7 @@
 - yannick-cw/elastic-indexer4s
 - yannick-cw/sjq
 - YannMoisan/graphite4s
+- YannMoisan/sbopt
 - yanns/scala-json-parsers-performance
 - yoshiyoshifujii/sbt-jig
 - yurique/embedded-files
