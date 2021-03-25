@@ -237,7 +237,7 @@
 - cornerman/covenant
 - cornerman/mycelium
 - cornerman/scala-cuid
-- cornerman/simple-scalajs-requests 
+- cornerman/simple-scalajs-requests
 - cornerman/sloth
 - coursier/apps
 - coursier/coursier
@@ -590,7 +590,6 @@
 - kubukoz/catharsis
 - kubukoz/datas
 - kubukoz/flawless
-- kubukoz/http4s-oauth2
 - kubukoz/library-template.g8
 - kubukoz/slang
 - kubukoz/slick-effect
@@ -1111,7 +1110,7 @@
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
 - SoMind/authz-verify-proxy
-- somind/dtlab-ingest-mqtt 
+- somind/dtlab-ingest-mqtt
 - somind/dtlab-ingest-scala-alligator
 - somind/dtlab-scala-alligator
 - soundcloud/twinagle
@@ -1165,7 +1164,7 @@
 - tbrown1979/totp4s
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
-- TeamWanari/web-push 
+- TeamWanari/web-push
 - techmonad/akka-http-jwt-security
 - techmonad/akka-scheduler
 - techmonad/campaign-api
