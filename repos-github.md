@@ -114,6 +114,7 @@
 - BenFradet/gsheets4s
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
+- benhutchison/modesofcomposition
 - betagouv/aplus
 - betagouv/plante-et-moi-backend
 - betagouv/signalement-api
