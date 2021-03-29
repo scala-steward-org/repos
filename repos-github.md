@@ -897,7 +897,6 @@
 - precog/slamdata-predef
 - precog/suprem
 - precog/tectonic
-- profunktor/console4cats
 - profunktor/fs2-rabbit
 - profunktor/http4s-jwt-auth
 - profunktor/http4s-tracer
