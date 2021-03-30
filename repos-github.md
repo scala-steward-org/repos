@@ -1288,8 +1288,6 @@
 - vigoo/desert
 - vigoo/prox
 - vigoo/simpp
-- vital-software/sbt-update-lines
-- vital-software/sbt-yourkit-external
 - VladKopanev/cats-saga
 - VladKopanev/zio-saga
 - VladPodilnyk/d4s-example
