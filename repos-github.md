@@ -1310,6 +1310,7 @@
 - wiringbits/cazadescuentos
 - wiringbits/my-photo-timeline
 - wiringbits/safer.chat
+- wiringbits/sjs-material-ui-facade
 - wvlet/airframe
 - X9Developers/block-explorer
 - xencura/kagera
