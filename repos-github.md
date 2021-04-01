@@ -762,6 +762,7 @@
 - navicore/naviblob
 - navicore/navilake
 - navicore/NaviPath
+- navidjalali/firebaseauth
 - NCATS-Tangerine/cam-kp-api
 - nemoo/play-slick3-example
 - nemoo/play-slick-synchronous-example
