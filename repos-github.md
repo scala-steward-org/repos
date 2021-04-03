@@ -1069,6 +1069,7 @@
 - scredis/scredis
 - scullxbones/akka-persistence-mongo
 - seblm/sbt-jgiven-scalatest-reporter
+- seblm/seblm-meals
 - senia-psm/zio-test-akka-http
 - septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
