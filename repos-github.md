@@ -842,6 +842,7 @@
 - pitgull/pitgull
 - pityka/lamp
 - pityka/saddle
+- pityka/nspl
 - pjan/akka-d3
 - playalot/ReactiveMongo-Extensions
 - playframework/anorm
