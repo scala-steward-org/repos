@@ -1259,6 +1259,7 @@
 - typelevel/fs2
 - typelevel/jawn
 - typelevel/jawn-fs2
+- typelevel/kind-projector
 - typelevel/kittens
 - typelevel/mouse
 - typelevel/munit-cats-effect
