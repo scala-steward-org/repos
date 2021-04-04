@@ -657,6 +657,7 @@
 - LolHens/scala-edifact
 - lomigmegard/akka-http-cors
 - lorandszakacs/sprout
+- lorandszakacs/enclosure
 - LPTK/simple-sub
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
