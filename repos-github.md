@@ -519,10 +519,11 @@
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
+- j5ik2o/akka-elasticsearch
+- j5ik2o/akka-kinesis
 - j5ik2o/akka-persistence-dynamodb
 - j5ik2o/akka-persistence-kafka
 - j5ik2o/akka-persistence-s3
-- j5ik2o/aws-gatling-tools
 - j5ik2o/aws-gatling-tools
 - j5ik2o/base64scala
 - j5ik2o/reactive-aws-clients
