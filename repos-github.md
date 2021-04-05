@@ -657,8 +657,8 @@
 - LolHens/scala-diff-utils
 - LolHens/scala-edifact
 - lomigmegard/akka-http-cors
-- lorandszakacs/sprout
 - lorandszakacs/enclosure
+- lorandszakacs/sprout
 - LPTK/simple-sub
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
@@ -843,8 +843,8 @@
 - picnicml/doddle-model
 - pitgull/pitgull
 - pityka/lamp
-- pityka/saddle
 - pityka/nspl
+- pityka/saddle
 - pjan/akka-d3
 - playalot/ReactiveMongo-Extensions
 - playframework/anorm
