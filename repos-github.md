@@ -970,6 +970,7 @@
 - sangria-graphql/sangria-circe
 - sangria-graphql/sangria-federated
 - sangria-graphql/sangria-ion
+- sangria-graphql/sangria-jackson
 - sangria-graphql/sangria-json4s-jackson
 - sangria-graphql/sangria-json4s-native
 - sangria-graphql/sangria-marshalling-api
