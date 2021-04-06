@@ -346,6 +346,7 @@
 - esamson/sbt-groovy
 - etorreborre/specs2
 - etorres/train-station
+- etspaceman/kinesis-mock
 - etspaceman/scalacheck-faker
 - EventStore/EventStore.Akka.Persistence
 - EventStore/EventStore.JVM
