@@ -607,6 +607,7 @@
 - laserdisc-io/mysql-binlog-stream
 - laserdisc-io/tamer
 - laserdisc-io/zio-oci-objectstorage
+- latis-data/latis3
 - leanovate/play-mockws
 - LeeTibbert/scala-native-trials
 - lefou/mill-aspectj
