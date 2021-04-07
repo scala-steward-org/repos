@@ -125,6 +125,7 @@
 - bkirwi/decline
 - blemale/scaffeine
 - broadinstitute/cromwell
+- broadinstitute/leonardo-cron-jobs
 - broadinstitute/workbench-libs
 - buildo/retro
 - Bunyod/PracticalFPinScala
