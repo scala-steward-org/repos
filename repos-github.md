@@ -135,6 +135,7 @@
 - BotTech/scala2plantuml
 - brbrown25/macros
 - broadinstitute/cromwell
+- broadinstitute/leonardo-cron-jobs
 - broadinstitute/workbench-libs
 - buildo/retro
 - Bunyod/PracticalFPinScala
