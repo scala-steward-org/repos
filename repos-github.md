@@ -703,7 +703,6 @@
 - metarank/metarank
 - mfirry/bettermooch
 - mfirry/scala-http-clients
-- mfirry/tenes
 - mfirry/web-frameworks-templates
 - michaelahlers/b2-scala
 - michaelahlers/faker-scala
