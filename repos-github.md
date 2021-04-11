@@ -842,6 +842,7 @@
 - Philippus/emoji-clock
 - Philippus/julius
 - Philippus/julius-iii
+- Philippus/pureconfig-javanet
 - Philippus/scala-for-all
 - picnicml/doddle-model
 - pitgull/pitgull
