@@ -1308,6 +1308,7 @@
 - vigoo/clipp
 - vigoo/desert
 - vigoo/prox
+- vigoo/scalafxml
 - vigoo/simpp
 - VladKopanev/cats-saga
 - VladKopanev/zio-saga
