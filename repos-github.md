@@ -944,6 +944,7 @@
 - regadas/scio-contextual
 - regadas/socco-ng
 - regis-leray/fs2-ftp
+- reibitto/be-kind-rewind
 - reibitto/command-center
 - reibitto/podpodge
 - rememberthemilk/akka-amqp
