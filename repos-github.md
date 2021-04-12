@@ -134,6 +134,7 @@
 - blemale/scaffeine
 - blended-zio/blended-zio
 - BotTech/scala2plantuml
+- bpholt/java-time-literals
 - brbrown25/macros
 - broadinstitute/cromwell
 - broadinstitute/leonardo-cron-jobs
