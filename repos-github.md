@@ -466,6 +466,7 @@
 - gfc-collective/sbt-aws-lambda
 - gfc-collective/sbt-dependency-graph-sugar
 - gfc-collective/sbt-newrelic
+- ghostbuster91/sttp-openapi-generator
 - ghostdogpr/caliban
 - gig-foundation/dmf-kit-scala
 - GlasslabGames/html.scala
