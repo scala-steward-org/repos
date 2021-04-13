@@ -435,6 +435,7 @@
 - gearpump/gearpump
 - geirolz/advxml
 - gemini-hlsw/clue
+- gemini-hlsw/explore
 - gemini-hlsw/gemini-locales
 - gemini-hlsw/lucuma-catalog
 - gemini-hlsw/lucuma-core
