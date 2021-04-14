@@ -329,6 +329,7 @@
 - eikek/sharry
 - eikek/yamusca
 - ekrich/sblas
+- ekrich/sblas.g8
 - ekrich/sconfig
 - ekrich/sjavatime
 - ekrich/stensorflow
