@@ -929,7 +929,6 @@
 - pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
 - raboof/sbt-reproducible-builds
-- raster-foundry/granary
 - rcmartins/blinky
 - reactific/sbt-reactific
 - ReactiveMongo/Play-ReactiveMongo
