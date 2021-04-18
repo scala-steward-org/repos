@@ -483,6 +483,7 @@
 - guardrail-dev/guardrail-maven-plugin
 - guardrail-dev/guardrail-sample-gradle-http4s-zio
 - guardrail-dev/guardrail-sample-gradle-springmvc
+- guardrail-dev/guardrail-sample-http4s
 - guardrail-dev/guardrail-sample-maven-dropwizard
 - guardrail-dev/guardrail-sample-sbt-akkahttp
 - guardrail-dev/guardrail-sample-sbt-http4s-zio
