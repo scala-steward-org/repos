@@ -531,7 +531,6 @@
 - j5ik2o/akka-kinesis
 - j5ik2o/aws-gatling-tools
 - j5ik2o/base64scala
-- j5ik2o/docker-controller-scala
 - j5ik2o/reactive-aws-clients
 - j5ik2o/sbt-wrapper-gen
 - j5ik2o/sw4jj
