@@ -1317,8 +1317,6 @@
 - vmunier/scalajs-scripts
 - wehkamp/cakemix
 - Wei-1/Scala-Machine-Learning
-- WellFactored/clovis
-- WellFactored/property-info
 - weso/document
 - weso/rdfshape
 - weso/shaclex
