@@ -527,9 +527,6 @@
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
-- j5ik2o/aws-gatling-tools
-- j5ik2o/reactive-aws-clients
-- j5ik2o/sbt-wrapper-gen
 - jacum/akka-sensors
 - janstenpickle/trace4cats
 - japgolly/clear-config
@@ -1097,8 +1094,6 @@
 - sideeffffect/sbt-decent-scala
 - sirocchj/sbt-api-builder
 - sirthias/borer
-- sisioh/akka-cluster-custom-downing
-- sisioh/baseunits-scala
 - sksamuel/avro4s
 - sksamuel/elastic4s
 - sksamuel/pulsar4s
