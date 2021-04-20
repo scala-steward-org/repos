@@ -1375,3 +1375,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- fsanaulla/spark-http-rdd 
