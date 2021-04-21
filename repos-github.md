@@ -160,8 +160,6 @@
 - cchantep/sbt-hl-compiler
 - ceedubs/irrec
 - channingwalton/http4sWS
-- chatwork/akka-guard
-- chatwork/scala-jwk
 - chenharryhua/nanjin
 - chmodas/akka-persistence-r2dbc
 - ChocPanda/argonaut-magnolia
