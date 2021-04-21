@@ -105,6 +105,7 @@
 - balhoff/arachne
 - balhoff/owl-diff
 - balhoff/owl-to-rules
+- balhoff/relation-graph
 - balhoff/whelk
 - barambani/docker-effect
 - barambani/http4s-poc-api
