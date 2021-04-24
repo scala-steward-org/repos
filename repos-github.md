@@ -1091,6 +1091,7 @@
 - shopstic/chopsticks
 - sideeffffect/console-scala-simple
 - sideeffffect/sbt-decent-scala
+- sirgraystar/mandyville-modelling
 - sirocchj/sbt-api-builder
 - sirthias/borer
 - sksamuel/avro4s
