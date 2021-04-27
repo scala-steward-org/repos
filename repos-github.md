@@ -1140,6 +1140,7 @@
 - srenault/sre-api
 - sritchie/scala-rl
 - stephennancekivell/scalatest-json
+- streetcontxt/kcl-akka-stream
 - stripe/agate
 - stripe/dagon
 - stryker-mutator/mutation-testing-elements
