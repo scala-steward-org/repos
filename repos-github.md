@@ -1089,6 +1089,7 @@
 - sirgraystar/mandyville-modelling
 - sirocchj/sbt-api-builder
 - sirthias/borer
+- sirthias/spliff
 - sksamuel/avro4s
 - sksamuel/elastic4s
 - sksamuel/pulsar4s
