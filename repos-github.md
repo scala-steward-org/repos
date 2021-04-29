@@ -74,6 +74,7 @@
 - apache/daffodil
 - apimorphism/telegramium
 - armanbilge/akka-logback
+- armanbilge/schrodinger
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
