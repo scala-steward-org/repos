@@ -160,7 +160,6 @@
 - chenharryhua/nanjin
 - chmodas/akka-persistence-r2dbc
 - ChocPanda/argonaut-magnolia
-- ChocPanda/scalacheck-magnolia
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
 - ChristopherDavenport/cats-effect-time
