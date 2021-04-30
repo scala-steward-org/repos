@@ -487,6 +487,7 @@
 - guizmaii/scala-nimbus-jose-jwt
 - gvolpe/pfps-examples
 - gvolpe/pfps-shopping-cart
+- hablapps/doric
 - hayasshi/akka-http-router
 - hipjim/scala-retry
 - hntd187/spotify
