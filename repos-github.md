@@ -471,9 +471,13 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
+- guardian/fulfilment-lookup
+- guardian/invoicing-api
 - guardian/manage-help-content-publisher
+- guardian/members-data-api
 - guardian/price-migration-engine
 - guardian/support-service-lambdas
+- guardian/zuora-6for6-modifier
 - guardrail-dev/guardrail
 - guardrail-dev/guardrail-maven-plugin
 - guardrail-dev/guardrail-sample-gradle-http4s-zio
