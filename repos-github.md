@@ -1076,6 +1076,8 @@
 - scodec/scodec-build
 - scodec/scodec-protocols
 - scodec/scodec-stream
+- scoverage/sbt-scoverage
+- scoverage/scalac-scoverage-plugin
 - scredis/scredis
 - scullxbones/akka-persistence-mongo
 - seblm/sbt-jgiven-scalatest-reporter
