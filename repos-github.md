@@ -256,7 +256,6 @@
 - cquiroz/scalajs-react-grid-layout
 - cquiroz/scalajs-react-resizable
 - cquiroz/scalajs-react-semantic-ui
-- cquiroz/scalajs-react-sizeme
 - cquiroz/scalajs-react-virtualized
 - cquiroz/scala-java-locales
 - cquiroz/scala-java-time
@@ -433,6 +432,7 @@
 - geirolz/advxml
 - gemini-hlsw/clue
 - gemini-hlsw/gemini-locales
+- gemini-hlsw/lucuma-broadcast-channel
 - gemini-hlsw/lucuma-catalog
 - gemini-hlsw/lucuma-core
 - gemini-hlsw/lucuma-jts
@@ -440,6 +440,7 @@
 - gemini-hlsw/lucuma-svgdotjs
 - gemini-hlsw/lucuma-tmp-api
 - gemini-hlsw/lucuma-ui
+- gemini-hlsw/observe
 - gemini-hlsw/sbt-lucuma
 - gemini-hlsw/seqexec
 - geneontology/gaferencer
