@@ -1373,3 +1373,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- hagay3/skuber
