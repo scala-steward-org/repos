@@ -1077,6 +1077,7 @@
 - scodec/scodec-build
 - scodec/scodec-protocols
 - scodec/scodec-stream
+- scoverage/sbt-coveralls
 - scoverage/sbt-scoverage
 - scoverage/scalac-scoverage-plugin
 - scredis/scredis
