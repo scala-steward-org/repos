@@ -310,6 +310,7 @@
 - dwijnand/sbt-project-graph
 - dwijnand/sbt-reloadquick
 - dwijnand/sbt-travisci
+- Dwolla/scheduled-maintenance
 - dylandoamaral/zemail
 - dylandoamaral/zinteract
 - ebiznext/comet-data-pipeline
