@@ -1094,6 +1094,7 @@
 - shopstic/chopsticks
 - sideeffffect/console-scala-simple
 - sideeffffect/sbt-decent-scala
+- sideeffffect/zio-testcontainers
 - sirgraystar/mandyville-modelling
 - sirocchj/sbt-api-builder
 - sirthias/borer
