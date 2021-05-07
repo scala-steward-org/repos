@@ -503,6 +503,7 @@
 - http4s/blaze
 - http4s/http4s
 - http4s/http4s.g8
+- http4s/http4s-armeria
 - http4s/http4s-finagle
 - http4s/http4s-jdk-http-client
 - http4s/http4s-netty
@@ -514,6 +515,7 @@
 - iheartradio/lihua
 - iheartradio/play-swagger
 - iheartradio/thomas
+- ikhoon/scalapb-reactor
 - ilya-murzinov/finch-todo-backend
 - imazsak/imazsak
 - implmnt/mercator-cats
