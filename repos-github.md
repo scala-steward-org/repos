@@ -9,6 +9,7 @@
 - 2m/sonatype-stats
 - 2m/untappd-history
 - 2m/vilnius-pub
+- 2m/yabai-scala
 - 7mind/distage-example
 - 7mind/idealingua-example
 - 7mind/idealingua-v1
