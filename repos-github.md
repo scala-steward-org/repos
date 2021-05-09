@@ -707,6 +707,7 @@
 - mfirry/web-frameworks-templates
 - michaelahlers/b2-scala
 - michaelahlers/faker-scala
+- michaelahlers/lagom-scala-examples
 - michaelahlers/learn-scala-3
 - michaelahlers/presence
 - michaelmior/eson-mining
