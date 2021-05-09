@@ -29,9 +29,10 @@
 - akka/akka-http
 - akka/akka-management
 - akka/akka-paradox
+- akka/akka-persistence-cassandra
 - akka/akka-persistence-jdbc
+- akka/akka-persistence-spanner 
 - akka/akka-projection
-- akka/akka-samples
 - akka/akka-sample-cluster-docker-compose-java
 - akka/akka-sample-cluster-docker-compose-scala
 - akka/akka-sample-cluster-kubernetes-dns-java
@@ -872,7 +873,6 @@
 - playframework/play-json
 - playframework/play-slick
 - playframework/play-soap
-- playframework/play-socket.io
 - playframework/play-ws
 - playframework/scalatestplus-play
 - playframework/twirl
