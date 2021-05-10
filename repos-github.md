@@ -75,6 +75,7 @@
 - apache/daffodil
 - apimorphism/telegramium
 - armanbilge/akka-logback
+- armanbilge/litter
 - armanbilge/schrodinger
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
