@@ -653,12 +653,15 @@
 - LolHens/docker-registry-cache
 - LolHens/filters4s
 - LolHens/fs2-pcap
+- LolHens/http4s-brotli
 - LolHens/http4s-errors
 - LolHens/http4s-jwt-auth
 - LolHens/http4s-monix
 - LolHens/http4s-play
+- LolHens/http4s-proxy
 - LolHens/munit-tagless-final
 - LolHens/prometheus-bash-exporter
+- LolHens/sbt-css-compress
 - LolHens/sbt-scalajs-webjar
 - LolHens/scala-commandline
 - LolHens/scala-crypto
