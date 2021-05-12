@@ -289,6 +289,7 @@
 - data-hunters/metadata-digger-server
 - data-tools/big-data-types
 - davegurnell/bridges
+- davegurnell/unindent
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
 - DFiantHDL/DFiant
