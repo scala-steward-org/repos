@@ -1169,6 +1169,7 @@
 - sullis/sbt-guardrail-scala-codegen-example
 - sullis/scala-hello-world-app
 - super-flat/lagom-pb
+- super-flat/scala-otel-tools
 - suzaku-io/boopickle
 - suzaku-io/diode
 - svroonland/play-json-optics
