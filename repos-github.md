@@ -573,6 +573,7 @@
 - JWWeatherman/pay-model
 - kailuowang/henkan
 - kailuowang/mau
+- kammoh/sbt-jni
 - katlasik/functionmeta
 - KelkooGroup/theGardener
 - kelnos/mima-maven-plugin
