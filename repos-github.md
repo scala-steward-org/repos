@@ -509,6 +509,7 @@
 - jcouyang/zhuyu
 - jcranky/godmode
 - jcranky/lojinha
+- jczuchnowski/zio-pulsar
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
 - jmcardon/tsec
