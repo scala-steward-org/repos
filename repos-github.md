@@ -553,6 +553,7 @@
 - jcouyang/zhuyu
 - jcranky/godmode
 - jcranky/lojinha
+- jczuchnowski/zio-pulsar
 - jd557/minart
 - jirkavrba/vse-verification-bot
 - jkobejs/endpoints-uzhttp
