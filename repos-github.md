@@ -1024,6 +1024,7 @@
 - scalacenter/scala-3-migration-guide
 - scalacenter/scala-migrat3
 - ScalaConsultants/akka-periscope
+- ScalaConsultants/mesmer-akka-agent
 - ScalaConsultants/zio-akka-http-interop
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
