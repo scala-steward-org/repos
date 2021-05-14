@@ -594,7 +594,7 @@
 - kovszilard/twitter-server-prometheus
 - krzemin/octopus
 - Ksisu/tell-me-a-secret
-- kubukoz/better-tostring
+- polyvariant/better-tostring
 - kubukoz/caliban-gitlab
 - kubukoz/catharsis
 - kubukoz/datas
