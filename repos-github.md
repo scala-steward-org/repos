@@ -146,6 +146,7 @@
 - butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
+- catap/scala-blake3
 - cats4scala/cats-process
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
