@@ -1310,6 +1310,7 @@
 - unsecurityio/unsecurity
 - upb-uc4/hlf-api
 - usommerl/graalnative4s
+- usommerl/counteeexporter
 - vadimbakaev/scala-fast-start
 - valskalla/odin
 - vasilmkd/docker-stats-monitor
