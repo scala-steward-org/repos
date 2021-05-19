@@ -499,6 +499,7 @@
 - gvolpe/pfps-examples
 - gvolpe/pfps-shopping-cart
 - hablapps/doric
+- hagay3/skuber
 - hayasshi/akka-http-router
 - hipjim/scala-retry
 - hntd187/spotify
@@ -595,7 +596,6 @@
 - kovszilard/twitter-server-prometheus
 - krzemin/octopus
 - Ksisu/tell-me-a-secret
-- polyvariant/better-tostring
 - kubukoz/caliban-gitlab
 - kubukoz/catharsis
 - kubukoz/datas
@@ -892,6 +892,7 @@
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
 - pluralsight/hydra
+- polyvariant/better-tostring
 - ppurang/abctemplates
 - ppurang/asynch
 - pravin-raha/maantrack
@@ -1189,6 +1190,10 @@
 - svroonland/zio-kinesis
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
+- sweet-delights/delightful-anonymization
+- sweet-delights/delightful-edifact
+- sweet-delights/delightful-parsing
+- sweet-delights/delightful-typeclasses
 - SwissBorg/akka-persistence-postgres
 - synesso/scala-stellar
 - synesso/scala-stellar-horizon-exemplar
@@ -1309,8 +1314,8 @@
 - univalence/zio-spark
 - unsecurityio/unsecurity
 - upb-uc4/hlf-api
-- usommerl/graalnative4s
 - usommerl/counteeexporter
+- usommerl/graalnative4s
 - vadimbakaev/scala-fast-start
 - valskalla/odin
 - vasilmkd/docker-stats-monitor
@@ -1395,4 +1400,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- hagay3/skuber
