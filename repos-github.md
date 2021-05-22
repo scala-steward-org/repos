@@ -308,6 +308,7 @@
 - dmarticus/scala-games
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
+- doubleloop-io/applied-fp-workshop-scala
 - dream11/zio-http
 - dusan0098/Scalafix_FP_workshop
 - dwijnand/sbt-compat
