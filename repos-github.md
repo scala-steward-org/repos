@@ -1303,6 +1303,7 @@
 - typelevel/sbt-catalysts
 - typelevel/scalacheck
 - typelevel/scalacheck-effect
+- typelevel/shapeless-3
 - typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
