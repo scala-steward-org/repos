@@ -539,6 +539,7 @@
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
 - jacum/akka-sensors
+- janstenpickle/hotswap-ref
 - janstenpickle/trace4cats
 - japgolly/clear-config
 - japgolly/microlibs-scala
