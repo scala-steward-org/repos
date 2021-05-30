@@ -1299,6 +1299,7 @@
 - typelevel/jawn
 - typelevel/jawn-fs2
 - typelevel/kittens
+- typelevel/literally
 - typelevel/mouse
 - typelevel/munit-cats-effect
 - typelevel/paiges
