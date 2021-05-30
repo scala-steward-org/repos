@@ -1099,6 +1099,7 @@
 - scodec/scodec-build
 - scodec/scodec-protocols
 - scodec/scodec-stream
+- ScoreUnder/canti-bot
 - scoverage/sbt-coveralls
 - scoverage/sbt-scoverage
 - scoverage/scalac-scoverage-plugin
