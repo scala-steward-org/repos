@@ -552,6 +552,7 @@
 - japgolly/univeq
 - jatcwang/doobieroll
 - jatcwang/scalafix-named-params
+- jbwheatley/pact4s
 - jcouyang/dhall-generic
 - jcouyang/jujiu
 - jcouyang/zhuyu
