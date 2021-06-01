@@ -281,9 +281,7 @@
 - dapperware/zio-slack
 - DataBiosphere/leonardo
 - dataswift/DataPlugs
-- dataswift/dex-client-scala-play
 - dataswift/HAT2.0
-- dataswift/hat-client-scala-play
 - dataswift/hat-she-functions
 - dataswift/SHE-functions-starter
 - dataswift/slick-postgres-generator-driver
