@@ -540,7 +540,6 @@
 - IronCoreLabs/recrypt
 - jacum/akka-sensors
 - janstenpickle/hotswap-ref
-- janstenpickle/trace4cats
 - japgolly/clear-config
 - japgolly/microlibs-scala
 - japgolly/nyaya
@@ -1267,6 +1266,7 @@
 - tpolecat/doobie
 - tpolecat/natchez
 - tpolecat/skunk
+- trace4cats/trace4cats
 - transcendent-ai-labs/DynaML
 - TranslatorSRI/ontology-kp
 - travisbrown/catbird
