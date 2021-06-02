@@ -827,6 +827,7 @@
 - ornicar/lila-search
 - ornicar/lila-ws
 - OutWatch/outwatch
+- ovotech/ciris-aiven-kafka
 - ovotech/ciris-aws-ssm
 - ovotech/ciris-kubernetes
 - ovotech/http4s-micrometer-metrics
