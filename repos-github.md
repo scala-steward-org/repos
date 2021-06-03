@@ -560,6 +560,7 @@
 - jirkavrba/vse-verification-bot
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
+- jlvertol/listgen-app
 - jmcardon/tsec
 - joan38/kafka-streams-circe
 - joan38/kubernetes-client
