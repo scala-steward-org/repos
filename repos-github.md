@@ -1024,6 +1024,7 @@
 - ScalablyTyped/Converter
 - scalacenter/sbt-eviction-rules
 - scalacenter/sbt-scalafix
+- scalacenter/sbt-scalafix-example
 - scalacenter/sbt-version-policy
 - scalacenter/scalafix
 - scalacenter/scalafix.g8
