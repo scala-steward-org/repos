@@ -298,7 +298,6 @@
 - dimitarg/weaver-test-extra
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
-- djspiewak/cats-effect-testing
 - djspiewak/gll-combinators
 - dmarticus/advent-of-code
 - dmarticus/dag4s
@@ -1287,6 +1286,7 @@
 - typelevel/cats
 - typelevel/cats-collections
 - typelevel/cats-effect
+- typelevel/cats-effect-testing
 - typelevel/cats-mtl
 - typelevel/cats-parse
 - typelevel/cats-tagless
@@ -1300,6 +1300,7 @@
 - typelevel/discipline-specs2
 - typelevel/frameless
 - typelevel/fs2
+- typelevel/fs2-netty
 - typelevel/jawn
 - typelevel/jawn-fs2
 - typelevel/kittens
