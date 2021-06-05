@@ -1395,6 +1395,7 @@
 - zio/zio-lambda
 - zio/zio-logging
 - zio/zio-nio
+- zio/zio-optics
 - zio/zio-prelude
 - zio/zio-process
 - zio/zio-project-seed.g8
