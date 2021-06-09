@@ -1412,3 +1412,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- scalacenter/library-example
