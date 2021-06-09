@@ -1292,7 +1292,6 @@
 - typelevel/cats-tagless
 - typelevel/cats-testkit-scalatest
 - typelevel/ce3.g8
-- typelevel/claimant
 - typelevel/coop
 - typelevel/discipline
 - typelevel/discipline-munit
