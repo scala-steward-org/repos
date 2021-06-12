@@ -1146,8 +1146,10 @@
 - softwaremill/diffx
 - softwaremill/elasticmq
 - softwaremill/livestub
+- softwaremill/magnolia
 - softwaremill/neme-plugin
 - softwaremill/sbt-softwaremill
+- softwaremill/scala-common
 - softwaremill/sttp
 - softwaremill/sttp-model
 - softwaremill/sttp-shared
