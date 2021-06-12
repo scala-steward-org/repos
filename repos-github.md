@@ -15,7 +15,7 @@
 - 7mind/idealingua-v1
 - 7mind/izumi
 - 7mind/sbtgen
-- 9rb/rchain
+- 9rb/rchai
 - 100km/stk
 - abdolence/slack-morphism
 - afsalthaj/safe-string-interpolation
@@ -598,7 +598,6 @@
 - kovszilard/twitter-server-prometheus
 - krzemin/octopus
 - Ksisu/tell-me-a-secret
-- kubukoz/caliban-gitlab
 - kubukoz/catharsis
 - kubukoz/datas
 - kubukoz/flawless
@@ -897,6 +896,7 @@
 - plokhotnyuk/rtree2d
 - pluralsight/hydra
 - polyvariant/better-tostring
+- polyvariant/caliban-gitlab
 - ppurang/abctemplates
 - ppurang/asynch
 - pravin-raha/maantrack
