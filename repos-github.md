@@ -207,6 +207,7 @@
 - ChristopherDavenport/vault
 - ChristopherDavenport/whale-tail
 - circe/circe
+- circe/circe-argus
 - circe/circe-benchmarks
 - circe/circe-bson
 - circe/circe-config
@@ -220,6 +221,7 @@
 - circe/circe-json-schema
 - circe/circe-magnolia
 - circe/circe-optics
+- circe/circe-schema
 - circe/circe-spire
 - circe/circe-spray
 - circe/circe-yaml
@@ -1280,6 +1282,8 @@
 - travisbrown/dhallj
 - travisbrown/iteratee
 - travisbrown/iteratee-twitter
+- travisbrown/sbt-jacc
+- travisbrown/sbt-javacc
 - treaz/scalatraseed
 - tulz-app/frontroute
 - tulz-app/laminext
