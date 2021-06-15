@@ -1419,6 +1419,7 @@
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-lucenerdd
+- zouzias/spark-hello-world
 - zzvara/spark-disqus
 - zzvara/spark-youtube
 - scalacenter/library-example
