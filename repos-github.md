@@ -1028,6 +1028,7 @@
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
 - ScalablyTyped/Converter
+- scalacenter/library-example
 - scalacenter/sbt-eviction-rules
 - scalacenter/sbt-scalafix
 - scalacenter/sbt-scalafix-example
@@ -1419,8 +1420,7 @@
 - zio/zio-zmx
 - ziyasal/reducio
 - ZookLabs/zooklabs
-- zouzias/spark-lucenerdd
 - zouzias/spark-hello-world
+- zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- scalacenter/library-example
