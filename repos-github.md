@@ -1,4 +1,3 @@
-- gemini-hlsw/explore
 - 2m/authors
 - 2m/auto-gate
 - 2m/ciris-hocon
@@ -438,6 +437,7 @@
 - gearpump/gearpump
 - geirolz/advxml
 - gemini-hlsw/clue
+- gemini-hlsw/explore
 - gemini-hlsw/gemini-locales
 - gemini-hlsw/lucuma-broadcast-channel
 - gemini-hlsw/lucuma-catalog
