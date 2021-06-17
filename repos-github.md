@@ -541,6 +541,7 @@
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
 - jacum/akka-sensors
+- janstenpickle/graal-kafka-client
 - janstenpickle/hotswap-ref
 - japgolly/clear-config
 - japgolly/microlibs-scala
