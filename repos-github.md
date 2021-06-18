@@ -1355,6 +1355,7 @@
 - univalence/zio-spark
 - unsecurityio/unsecurity
 - upb-uc4/hlf-api
+- user-signal/fs2-mqtt
 - usommerl/counteeexporter
 - usommerl/graalnative4s
 - vadimbakaev/scala-fast-start
