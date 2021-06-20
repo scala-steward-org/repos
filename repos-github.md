@@ -1127,6 +1127,7 @@
 - shopstic/chopsticks
 - sideeffffect/console-scala-simple
 - sideeffffect/sbt-decent-scala
+- sideeffffect/zio-doobie
 - sideeffffect/zio-io
 - sideeffffect/zio-testcontainers
 - sirgraystar/mandyville-modelling
