@@ -723,8 +723,8 @@
 - michaelahlers/b2-scala
 - michaelahlers/faker-scala
 - michaelahlers/lagom-scala-examples
-- michaelahlers/learn-twitter
 - michaelahlers/learn-scala-3
+- michaelahlers/learn-twitter
 - michaelahlers/presence
 - michaelmior/eson-mining
 - michaelmior/eson-scala
