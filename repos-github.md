@@ -98,6 +98,7 @@
 - avast/scala-server-toolkit
 - avast/slog4s
 - avdv/play-json-refined
+- avdv/scalals
 - azavea/franklin
 - azavea/stac4s
 - azhur/kafka-serde-scala
