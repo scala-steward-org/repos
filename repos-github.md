@@ -140,8 +140,8 @@
 - broadinstitute/cromwell
 - broadinstitute/leonardo-cron-jobs
 - broadinstitute/workbench-libs
-- build-server-protocol/build-server-protocol
 - buildo/retro
+- build-server-protocol/build-server-protocol
 - Bunyod/PracticalFPinScala
 - BusyByte/flutterby
 - butcherless/incubator
