@@ -1321,6 +1321,7 @@
 - typelevel/cats
 - typelevel/cats-collections
 - typelevel/cats-effect
+- typelevel/cats-effect-cps
 - typelevel/cats-effect-testing
 - typelevel/cats-mtl
 - typelevel/cats-parse
