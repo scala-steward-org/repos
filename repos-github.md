@@ -697,7 +697,6 @@
 - macro-peg/macro_peg
 - magott/scravatar
 - makiftutuncu/e
-- manatki/derevo
 - martinpallmann/gchat
 - matsluni/aws-spi-akka-http
 - mauriciojost/main4ino-server
@@ -1263,7 +1262,6 @@
 - ThoughtWorksInc/tryt.scala
 - TimWSpence/cats-stm
 - TinkoffCreditSystems/phobos
-- TinkoffCreditSystems/tofu
 - TinkoffCreditSystems/typed-schema
 - tixxit/delimited
 - tjheslin1/DMsPredictor
@@ -1273,6 +1271,8 @@
 - TobiasRoland/scala-xml-encoder
 - toddburnside/scalajs-react-table
 - toddburnside/scalajs-react-virtuoso
+- tofu-tf/derevo
+- tofu-tf/tofu
 - tomwadeson/scala-barebones
 - TonioGela/blq
 - topl/bifrost
