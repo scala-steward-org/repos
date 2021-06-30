@@ -7,3 +7,9 @@ sort_repos() {
 sort_repos repos-bitbucket.md
 sort_repos repos-github.md
 sort_repos repos-gitlab.md
+
+if git diff --quiet repos-*; then
+    git add repos-*
+    git commit -m "Sort repos"
+    git push
+fi

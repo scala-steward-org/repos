@@ -15,9 +15,6 @@ jobs:
 
       - name: Sort and commit repos
         run: |
-          sh sort.sh
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-          git add repos-*
-          git commit -m "Sort repos"
-          git push
+          sh sort.sh
