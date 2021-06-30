@@ -1,4 +1,3 @@
-
 - 2m/authors
 - 2m/auto-gate
 - 2m/ciris-hocon
