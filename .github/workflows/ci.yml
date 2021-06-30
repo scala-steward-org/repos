@@ -16,7 +16,7 @@ jobs:
       - name: Sort and commit repos
         run: |
           sh sort.sh
-          if git diff --quiet repos-*; then
+          if git diff --quiet; then
               git config user.name "GitHub Actions Bot"
               git config user.email "<>"
               git add repos-*
