@@ -428,9 +428,9 @@
 - freechipsproject/treadle
 - fs2-blobstore/fs2-blobstore
 - fsanaulla/spark-http-rdd 
+- fthomas/refined
 - fthomas/base.g8
 - fthomas/fs2-cron
-- fthomas/refined
 - fthomas/scalafix-test
 - fthomas/singleton-ops
 - fthomas/status-page
