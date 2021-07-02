@@ -583,6 +583,7 @@
 - justinhj/fp-starter-pack.g8
 - jwt-scala/jwt-scala
 - JWWeatherman/pay-model
+- jxnu-liguobin/scala-macro-tools
 - kailuowang/henkan
 - kailuowang/mau
 - kammoh/sbt-jni
