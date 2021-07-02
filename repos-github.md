@@ -1393,6 +1393,7 @@
 - weso/shex-s
 - weso/srdf
 - weso/utils
+- wireapp/wire-signals
 - wiringbits/cazadescuentos
 - wiringbits/my-photo-timeline
 - wiringbits/safer.chat
