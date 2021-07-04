@@ -1398,6 +1398,7 @@
 - wiringbits/cazadescuentos
 - wiringbits/my-photo-timeline
 - wiringbits/safer.chat
+- wiringbits/scala-webapp-template
 - wiringbits/sjs-material-ui-facade
 - wvlet/airframe
 - wvlet/sbt-airframe
