@@ -1039,12 +1039,12 @@
 - scalacenter/sbt-scalafix
 - scalacenter/sbt-scalafix-example
 - scalacenter/sbt-version-policy
+- scalacenter/scala3-migrate
 - scalacenter/scalafix
 - scalacenter/scalafix.g8
 - scalacenter/scalajs-bundler
 - scalacenter/scala-3-migration-guide
 - scalacenter/scala-debug-adapter
-- scalacenter/scala3-migrate
 - ScalaConsultants/akka-periscope
 - ScalaConsultants/mesmer-akka-agent
 - ScalaConsultants/zio-akka-http-interop
