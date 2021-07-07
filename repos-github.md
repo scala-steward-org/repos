@@ -1044,7 +1044,7 @@
 - scalacenter/scalajs-bundler
 - scalacenter/scala-3-migration-guide
 - scalacenter/scala-debug-adapter
-- scalacenter/scala-migrat3
+- scalacenter/scala3-migrate
 - ScalaConsultants/akka-periscope
 - ScalaConsultants/mesmer-akka-agent
 - ScalaConsultants/zio-akka-http-interop
