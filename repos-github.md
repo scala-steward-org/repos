@@ -948,6 +948,7 @@
 - pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
 - qwbarch/snowflake4s
+- quafadas/cask-laminar
 - raboof/sbt-reproducible-builds
 - rcmartins/blinky
 - reactific/sbt-reactific
