@@ -947,8 +947,8 @@
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
-- qwbarch/snowflake4s
 - quafadas/cask-laminar
+- qwbarch/snowflake4s
 - raboof/sbt-reproducible-builds
 - rcmartins/blinky
 - reactific/sbt-reactific
