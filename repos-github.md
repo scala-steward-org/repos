@@ -543,6 +543,7 @@
 - IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
+- ITV/quartz4s
 - jacum/akka-sensors
 - janstenpickle/graal-kafka-client
 - janstenpickle/hotswap-ref
