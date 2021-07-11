@@ -148,6 +148,7 @@
 - butcherless/scala
 - butcherless/tapir-learn
 - catap/scala-blake3
+- catap/scala-sha
 - cats4scala/cats-process
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
