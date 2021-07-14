@@ -1365,6 +1365,7 @@
 - univalence/zio-spark
 - unsecurityio/unsecurity
 - upb-uc4/hlf-api
+- uptane/ota-tuf
 - user-signal/fs2-mqtt
 - usommerl/counteeexporter
 - usommerl/graalnative4s
