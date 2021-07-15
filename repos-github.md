@@ -1365,7 +1365,10 @@
 - univalence/zio-spark
 - unsecurityio/unsecurity
 - upb-uc4/hlf-api
+- uptane/director
+- uptane/libats
 - uptane/ota-tuf
+- uptane/treehub
 - user-signal/fs2-mqtt
 - usommerl/counteeexporter
 - usommerl/graalnative4s
