@@ -428,6 +428,7 @@
 - freechipsproject/firrtl-interpreter
 - freechipsproject/treadle
 - fs2-blobstore/fs2-blobstore
+- fsanaulla/chronicler
 - fsanaulla/spark-http-rdd 
 - fthomas/base.g8
 - fthomas/fs2-cron
@@ -1461,4 +1462,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- fsanaulla/chronicler
