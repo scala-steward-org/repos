@@ -1425,6 +1425,7 @@
 - zainab-ali/sbt-sammy
 - zengularity/benji
 - zengularity/query-monad
+- zio/caliban-deriving
 - zio/interop-cats
 - zio/interop-guava
 - zio/interop-reactive-streams
