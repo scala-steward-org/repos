@@ -836,7 +836,8 @@
 - ornicar/lila-fishnet
 - ornicar/lila-search
 - ornicar/lila-ws
-- OutWatch/outwatch
+- outwatch/outwatch
+- outwatch/seed.g8
 - ovotech/ciris-aiven-kafka
 - ovotech/ciris-aws-ssm
 - ovotech/ciris-kubernetes
