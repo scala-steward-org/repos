@@ -1369,6 +1369,7 @@
 - upb-uc4/hlf-api
 - uptane/director
 - uptane/libats
+- uptane/ota-device-registry
 - uptane/ota-tuf
 - uptane/treehub
 - user-signal/fs2-mqtt
