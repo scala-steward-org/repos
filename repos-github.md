@@ -323,6 +323,7 @@
 - dylandoamaral/zinteract
 - ebiznext/comet-data-pipeline
 - ecyshor/akka-consul-lease
+- EffectOrientedProgramming/book
 - eikek/bitpeace
 - eikek/calev
 - eikek/docspell
