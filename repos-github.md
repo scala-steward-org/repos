@@ -248,6 +248,7 @@
 - coursier/apps
 - coursier/coursier
 - coursier/coursier-channel.g8
+- coursier/dependency
 - coursier/echo
 - coursier/http-server
 - coursier/interface
