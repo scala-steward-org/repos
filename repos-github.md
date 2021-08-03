@@ -442,8 +442,8 @@
 - fullfacing/keycloak4s
 - gearpump/gearpump
 - geirolz/advxml
-- geirolz/fp-microservice
 - geirolz/fly4s
+- geirolz/fp-microservice
 - gemini-hlsw/clue
 - gemini-hlsw/explore
 - gemini-hlsw/gemini-locales
