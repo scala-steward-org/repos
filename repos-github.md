@@ -490,6 +490,7 @@
 - guardian/invoicing-api
 - guardian/manage-help-content-publisher
 - guardian/members-data-api
+- guardian/payment-failure-comms
 - guardian/price-migration-engine
 - guardian/support-service-lambdas
 - guardian/zuora-6for6-modifier
