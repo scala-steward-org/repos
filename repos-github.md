@@ -1058,9 +1058,9 @@
 - ScalaConsultants/akka-periscope
 - ScalaConsultants/mesmer-akka-agent
 - ScalaConsultants/zio-akka-http-interop
-- ScalaConsultants/zio-quickstart.g8
 - ScalaConsultants/zio-akka-quickstart.g8
 - ScalaConsultants/zio-dotty-quickstart.g8
+- ScalaConsultants/zio-quickstart.g8
 - ScalaConsultants/zio-slick-interop
 - scalagdx/scalagdx
 - scalameta/mdoc
