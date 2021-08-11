@@ -1428,6 +1428,7 @@
 - YannMoisan/graphite4s
 - YannMoisan/sbopt
 - yanns/scala-json-parsers-performance
+- yoshiyoshifujii/reactive-snowflake
 - yoshiyoshifujii/sbt-jig
 - yurique/embedded-files
 - yurique/embedded-files-macro
