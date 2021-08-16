@@ -1236,7 +1236,9 @@
 - taig/flog
 - taig/lokal
 - takayahilton/sql-formatter
+- tanishiking/scalafix-unused
 - tanishiking/scalaunfmt
+- tanishiking/semanticdb-for-scala3
 - tbje/full-stack
 - tbrown1979/totp4s
 - TeamWanari/sbt-paradox-diagrams
