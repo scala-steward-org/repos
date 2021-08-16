@@ -1146,6 +1146,7 @@
 - sideeffffect/zio-doobie
 - sideeffffect/zio-io
 - sideeffffect/zio-testcontainers
+- simao/anorm-async
 - sirgraystar/mandyville-modelling
 - sirocchj/sbt-api-builder
 - sirthias/borer
