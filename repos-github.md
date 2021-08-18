@@ -410,6 +410,7 @@
 - fdietze/scala-js-fontawesome
 - fdietze/vectory
 - felipebonezi/convert-unit-service
+- fgrutsch/emergence
 - fiadliel/fs2-grpc
 - finagle/finagle-mysql-shapes
 - finagle/finagle-oauth2
