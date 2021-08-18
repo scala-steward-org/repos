@@ -657,6 +657,7 @@
 - leobenkel/Zparkio
 - lewisjkl/kafkakit
 - liancheng/scalafix-organize-imports
+- lightbend/benchdb
 - lightbend/genjavadoc
 - lightbend/kafka-lag-exporter
 - lightbend/lightbend-emoji
