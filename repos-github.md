@@ -303,6 +303,7 @@
 - dimitarg/weaver-test-extra
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
+- djspiewak/base.g8
 - djspiewak/gll-combinators
 - dmarticus/advent-of-code
 - dmarticus/dag4s
