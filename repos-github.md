@@ -30,7 +30,7 @@
 - akka/akka-paradox
 - akka/akka-persistence-cassandra
 - akka/akka-persistence-jdbc
-- akka/akka-persistence-spanner 
+- akka/akka-persistence-spanner
 - akka/akka-projection
 - akka/akka-sample-cluster-docker-compose-java
 - akka/akka-sample-cluster-docker-compose-scala
@@ -435,7 +435,7 @@
 - freechipsproject/treadle
 - fs2-blobstore/fs2-blobstore
 - fsanaulla/chronicler
-- fsanaulla/spark-http-rdd 
+- fsanaulla/spark-http-rdd
 - fthomas/base.g8
 - fthomas/fs2-cron
 - fthomas/refined
@@ -1111,6 +1111,7 @@
 - scala/scala-rewrites
 - scala/scala-seed.g8
 - scala/scala-xml
+- scala-js/scala-js-dom
 - scaldi/scaldi
 - scaldi/scaldi-jsr330
 - scaldi/scaldi-play
