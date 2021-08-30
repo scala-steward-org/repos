@@ -1087,6 +1087,7 @@
 - scala-bones/bones
 - scala-bones/scatonic-ideal
 - scala-cash/warhorse
+- scala-js/scala-js-dom
 - scala-steward-org/scala-steward
 - scala-tsi/scala-tsi
 - scala-ts/scala-ts
@@ -1111,7 +1112,6 @@
 - scala/scala-rewrites
 - scala/scala-seed.g8
 - scala/scala-xml
-- scala-js/scala-js-dom
 - scaldi/scaldi
 - scaldi/scaldi-jsr330
 - scaldi/scaldi-play
