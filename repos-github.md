@@ -880,6 +880,7 @@
 - Philippus/julius-iii
 - Philippus/pureconfig-javanet
 - Philippus/scala-for-all
+- Philippus/scala-isbn
 - picnicml/doddle-model
 - pitgull/pitgull
 - pityka/flatjoin
