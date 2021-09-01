@@ -1339,6 +1339,7 @@
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
+- typelevel/bobcats
 - typelevel/case-insensitive
 - typelevel/cats
 - typelevel/cats-collections
@@ -1355,6 +1356,7 @@
 - typelevel/discipline-munit
 - typelevel/discipline-scalatest
 - typelevel/discipline-specs2
+- typelevel/feral
 - typelevel/frameless
 - typelevel/fs2
 - typelevel/fs2-netty
