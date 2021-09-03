@@ -296,6 +296,7 @@
 - davegurnell/unindent
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
+- debasishg/tradeio
 - DFiantHDL/DFiant
 - diamantidis/scala-screenshots
 - dieproht/matr
