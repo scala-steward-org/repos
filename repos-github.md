@@ -1360,6 +1360,7 @@
 - typelevel/feral
 - typelevel/frameless
 - typelevel/fs2
+- typelevel/fs2-grpc
 - typelevel/fs2-netty
 - typelevel/jawn
 - typelevel/jawn-fs2
