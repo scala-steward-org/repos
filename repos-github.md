@@ -447,9 +447,9 @@
 - fullfacing/keycloak4s
 - gearpump/gearpump
 - geirolz/advxml
+- geirolz/erules
 - geirolz/fly4s
 - geirolz/fp-microservice
-- geirolz/erules
 - gemini-hlsw/clue
 - gemini-hlsw/explore
 - gemini-hlsw/gemini-locales
