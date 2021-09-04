@@ -74,9 +74,10 @@
 - an-tex/sc8s
 - apache/daffodil
 - apimorphism/telegramium
-- armanbilge/akka-logback
-- armanbilge/litter
+- armanbilge/cheshire
+- armanbilge/gcp4s
 - armanbilge/schrodinger
+- armanbilge/van-cats
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
