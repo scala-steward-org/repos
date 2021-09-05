@@ -298,6 +298,7 @@
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
 - debasishg/tradeio
+- debiki/talkyard
 - DFiantHDL/DFiant
 - diamantidis/scala-screenshots
 - dieproht/matr
