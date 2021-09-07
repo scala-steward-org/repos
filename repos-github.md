@@ -309,6 +309,7 @@
 - dispalt/tagless-redux
 - djspiewak/base.g8
 - djspiewak/gll-combinators
+- djspiewak/sbt-spiewak
 - dmarticus/advent-of-code
 - dmarticus/dag4s
 - dmarticus/functional-todo-app
