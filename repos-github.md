@@ -253,6 +253,7 @@
 - coursier/echo
 - coursier/http-server
 - coursier/interface
+- coursier/jni-utils
 - coursier/sbt-coursier
 - coursier/sbt-cs-publish
 - coursier/sbt-launcher
