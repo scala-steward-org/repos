@@ -826,9 +826,8 @@
 - NomadBlacky/scala_examples
 - note/dhallj-magnolia
 - notxcain/aecor
-- novakov-alexey/freya
 - novakov-alexey/http4s-spnego
-- novakov-alexey/krb-operator
+- novakov-alexey/krb-operator2
 - nrinaudo/kantan.codecs
 - nrinaudo/kantan.csv
 - nrinaudo/kantan.regex
