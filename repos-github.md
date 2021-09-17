@@ -163,7 +163,6 @@
 - cchantep/alohura
 - cchantep/foorgol
 - cchantep/sbt-hl-compiler
-- ceedubs/irrec
 - channingwalton/http4sWS
 - chenharryhua/nanjin
 - chmodas/akka-persistence-r2dbc
