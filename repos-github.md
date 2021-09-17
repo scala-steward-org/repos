@@ -50,6 +50,7 @@
 - alexarchambault/plotly-scala
 - alexarchambault/sbt-coursier-export
 - alexarchambault/scalacheck-shapeless
+- alexarchambault/scalafmt-native
 - alexarchambault/windows-ansi
 - alexbalonperin/zio_experiments
 - AlexITC/chrome-scalajs-template
