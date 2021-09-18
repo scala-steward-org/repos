@@ -70,6 +70,7 @@
 - andyglow/spark-option-setter
 - andyglow/typesafe-config-scala
 - andyglow/websocket-scala-client
+- andyglow/scaladoc
 - AndyKirsch/ScalaStewardIssueRepro
 - ant8e/sbt-i18n
 - an-tex/sc8s
