@@ -166,6 +166,7 @@
 - cchantep/sbt-hl-compiler
 - channingwalton/http4sWS
 - chenharryhua/nanjin
+- chief-of-state/chief-of-state
 - chmodas/akka-persistence-r2dbc
 - ChocPanda/argonaut-magnolia
 - ChristopherDavenport/agitation
@@ -1490,4 +1491,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- chief-of-state/chief-of-state
