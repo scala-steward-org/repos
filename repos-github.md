@@ -633,6 +633,7 @@
 - kubukoz/slang
 - kubukoz/slick-effect
 - kubukoz/spotify-next
+- kubukoz/steve
 - kubukoz/sup
 - kwark/play-refined
 - kwark/slick-refined
