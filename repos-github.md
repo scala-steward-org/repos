@@ -409,6 +409,7 @@
 - exoego/scala-js-ts-importer
 - Fabszn/scaffolding-plugin-lagom
 - Facsimiler/facsimile
+- fbaierl/scalajs-i18n-rx
 - fd4s/fs2-kafka
 - fd4s/vulcan
 - fdietze/bench
