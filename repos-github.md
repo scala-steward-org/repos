@@ -209,7 +209,6 @@
 - ChristopherDavenport/synchronized
 - ChristopherDavenport/testcontainers-specs2
 - ChristopherDavenport/unique
-- typelevel/vault
 - ChristopherDavenport/whale-tail
 - circe/circe
 - circe/circe-argus
@@ -1385,6 +1384,7 @@
 - typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
+- typelevel/vault
 - typeness/spray-json-refined
 - tyrantkhan/vault4s
 - ua-parser/uap-scala
