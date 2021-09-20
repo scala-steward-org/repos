@@ -209,7 +209,7 @@
 - ChristopherDavenport/synchronized
 - ChristopherDavenport/testcontainers-specs2
 - ChristopherDavenport/unique
-- ChristopherDavenport/vault
+- typelevel/vault
 - ChristopherDavenport/whale-tail
 - circe/circe
 - circe/circe-argus
