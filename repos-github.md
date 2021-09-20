@@ -534,6 +534,8 @@
 - http4s/http4s
 - http4s/http4s.g8
 - http4s/http4s-armeria
+- http4s/http4s-crypto
+- http4s/http4s-dom
 - http4s/http4s-finagle
 - http4s/http4s-jdk-http-client
 - http4s/http4s-netty
