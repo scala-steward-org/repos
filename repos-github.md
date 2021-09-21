@@ -1461,7 +1461,6 @@
 - zio/caliban-deriving
 - zio/interop-cats
 - zio/interop-guava
-- zio/interop-reactive-streams
 - zio/interop-scalaz
 - zio/interop-twitter
 - zio/izumi-reflect
