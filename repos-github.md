@@ -432,6 +432,7 @@
 - foreign-language-reader/api
 - fp-in-bo/jms4s
 - fp-tower/foundations
+- fp-tower/supercharge-scala-future
 - francescofrontera/MLFlow-scala-client
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
