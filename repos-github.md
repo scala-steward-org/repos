@@ -1010,7 +1010,6 @@
 - rtimush/zio-magic-comments
 - ruippeixotog/akka-testkit-specs2
 - ruippeixotog/scala-scraper
-- runtologist/BuildingAnEffectRuntime
 - RustedBones/akka-http-avro
 - RustedBones/akka-http-metrics
 - RustedBones/akka-http-scalapb
@@ -1461,7 +1460,6 @@
 - zio/caliban-deriving
 - zio/interop-cats
 - zio/interop-guava
-- zio/interop-reactive-streams
 - zio/interop-scalaz
 - zio/interop-twitter
 - zio/izumi-reflect
