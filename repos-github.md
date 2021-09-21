@@ -1442,6 +1442,7 @@
 - wiringbits/sjs-material-ui-facade
 - wvlet/airframe
 - wvlet/sbt-airframe
+- wvlet/wvlet
 - X9Developers/block-explorer
 - xencura/kagera
 - xerial/sbt-pack
