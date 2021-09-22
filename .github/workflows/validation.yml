@@ -1,0 +1,107 @@
+name: Repos Validation
+
+on:
+  pull_request:
+    branches:
+      - main
+  pull_request_target:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - id: calc_diff
+        name: diff
+        run: |
+          git fetch --depth=1 origin ${{ github.event.repository.default_branch }}
+          LINKS=""
+          GITHUB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-github.md)
+          if [[ "$GITHUB_CHANGES" ]]; then
+            GITHUB_CHANGES=$(echo "$GITHUB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
+            while IFS= read -r owner_repo; do
+              if [[ $owner_repo == ${{ github.actor }}/* ]]; then
+                VALIDATION="✅"
+              else
+                owner=$(curl --silent \
+                    -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                    -H "Accept: application/vnd.github.v3+json" \
+                    -H "Referer: https://github.com" \
+                    https://api.github.com/repos/$owner_repo | jq ".owner"
+                )
+                if [[ $(echo $owner | jq --raw-output ".type") == 'Organization' ]]; then
+                  org=$(echo $owner | jq --raw-output ".login")
+                  org_admins=$(curl --silent \
+                      -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                      -H "Accept: application/vnd.github.v3+json" \
+                      -H "Referer: https://github.com" \
+                      https://api.github.com/orgs/$org/members?role=admin | jq --raw-output ".[].login"
+                  )
+                  if echo "$org_admins" | grep '^${{ github.actor}}$'; then
+                    VALIDATION="✅"
+                  else
+                    VALIDATION="❔"
+                  fi
+                else
+                  VALIDATION="❔"
+                fi
+              fi
+              LINKS+=$'\n'"$VALIDATION [$owner_repo](https://github.com/$owner_repo)"
+            done <<< "$GITHUB_CHANGES"
+          fi
+
+          GITLAB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-gitlab.md)
+          if [[ "$GITLAB_CHANGES" ]]; then
+            GITLAB_CHANGES=$(echo "$GITLAB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
+            while IFS= read -r owner_repo; do
+              if [[ $owner_repo == ${{ github.actor }}/* ]]; then
+                VALIDATION="✅"
+              else
+                VALIDATION="❔"
+              fi
+              LINKS+=$'\n'"$VALIDATION [$owner_repo](https://gitlab.com/$owner_repo)"
+            done <<< "$GITLAB_CHANGES"
+          fi
+
+          BITBUCKET_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-bitbucket.md)
+          if [[ "$BITBUCKET_CHANGES" ]]; then
+            BITBUCKET_CHANGES=$(echo "$BITBUCKET_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
+            while IFS= read -r owner_repo; do
+              if [[ $owner_repo == ${{ github.actor }}/* ]]; then
+                VALIDATION="✅"
+              else
+                VALIDATION="❔"
+              fi
+              LINKS+=$'\n'"$VALIDATION [$owner_repo](https://bitbucket.org/$owner_repo)"
+            done <<< "$BITBUCKET_CHANGES"
+          fi
+
+          echo "$LINKS"
+          LINKS="${LINKS//'%'/'%25'}"
+          LINKS="${LINKS//$'\n'/'%0A'}"
+          LINKS="${LINKS//$'\r'/'%0D'}"
+          echo "::set-output name=LINKS::${LINKS}"
+      - name: found diff
+        id: non-empty
+        uses: marocchino/sticky-pull-request-comment@v2
+        if: ${{ steps.calc_diff.outputs.LINKS }}
+        with:
+          github_token: ${{ secrets.github_token }}
+          message: |
+            Changed repositories:
+            ${{ steps.calc_diff.outputs.LINKS }}
+
+            Legends:
+            ✅=Actor is a repo owner or an organization admin.
+            ❔=Unable to validate. Requires manual validation.
+      - name: no updates
+        id: no-updates
+        uses: marocchino/sticky-pull-request-comment@v2
+        if: ${{ steps.calc_diff.outputs.LINKS == '' }}
+        with:
+          github_token: ${{ secrets.github_token }}
+          message: |
+            No changes found on repos.
