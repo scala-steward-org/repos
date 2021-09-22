@@ -334,11 +334,10 @@
 - ebiznext/comet-data-pipeline
 - ecyshor/akka-consul-lease
 - EffectOrientedProgramming/book
-- eikek/bitpeace
+- eikek/binny
 - eikek/calev
 - eikek/docspell
 - eikek/emil
-- eikek/mpc4s
 - eikek/sbt-openapi-schema
 - eikek/sharry
 - eikek/yamusca
