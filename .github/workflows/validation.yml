@@ -1,0 +1,34 @@
+name: Repos Validation
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+  pull_request_target:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - id: calc_diff
+        name: diff
+        run: |
+          git fetch --depth=1 origin ${{ github.event.repository.default_branch }}
+          CHANGED=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-github.md | grep '^#' | sed 's/#- //' | uniq)
+          CHANGED="${CHANGED//'%'/'%25'}"
+          CHANGED="${CHANGED//$'\n'/'%0A'}"
+          CHANGED="${CHANGED//$'\r'/'%0D'}"
+          CHANGED="wip${CHANGED}wip"
+          echo "::set-output name=CHANGED::${CHANGED}"
+      - uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          github_token: ${{ secrets.github_token }}
+          message: |
+            Diff
+            ${{ steps.calc_diff.outputs.CHANGED }}
