@@ -1389,6 +1389,7 @@
 - typelevel/fs2-netty
 - typelevel/jawn
 - typelevel/jawn-fs2
+- typelevel/jdk-index
 - typelevel/kittens
 - typelevel/literally
 - typelevel/mouse
