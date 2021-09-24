@@ -695,6 +695,7 @@
 - lightbend/scala-sculpt
 - lightbend/ssl-config
 - lihaoyi/scala.rx
+- limansky/beanpuree
 - liquibase4s/liquibase4s
 - liuhongchao/bitcoin4s
 - liuhongchao/debug4s
