@@ -16,7 +16,7 @@ jobs:
         run: |
           git fetch --depth=1 origin ${{ github.event.repository.default_branch }}
           LINKS=""
-          GITHUB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-github.md)
+          GITHUB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }}..HEAD --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-github.md)
           if [[ "$GITHUB_CHANGES" ]]; then
             GITHUB_CHANGES=$(echo "$GITHUB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
@@ -50,7 +50,7 @@ jobs:
             done <<< "$GITHUB_CHANGES"
           fi
 
-          GITLAB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-gitlab.md)
+          GITLAB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }}..HEAD --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-gitlab.md)
           if [[ "$GITLAB_CHANGES" ]]; then
             GITLAB_CHANGES=$(echo "$GITLAB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
@@ -63,7 +63,7 @@ jobs:
             done <<< "$GITLAB_CHANGES"
           fi
 
-          BITBUCKET_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-bitbucket.md)
+          BITBUCKET_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }}..HEAD --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-bitbucket.md)
           if [[ "$BITBUCKET_CHANGES" ]]; then
             BITBUCKET_CHANGES=$(echo "$BITBUCKET_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
