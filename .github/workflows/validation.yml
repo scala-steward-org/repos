@@ -15,6 +15,11 @@ jobs:
         name: diff
         run: |
           git fetch --depth=1 origin ${{ github.event.repository.default_branch }}
+          echo "----------------------"
+          git remote -v show
+          echo "----------------------"
+          git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-github.md
+          echo "----------------------"
           LINKS=""
           GITHUB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }} --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-github.md)
           if [[ "$GITHUB_CHANGES" ]]; then

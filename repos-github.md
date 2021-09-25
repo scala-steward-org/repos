@@ -412,7 +412,6 @@
 - evolution-gaming/sstream
 - evolution-gaming/stracer
 - evolution-gaming/throttler
-- exoego/aws-lambda-scalajs-facade
 - exoego/aws-sdk-scalajs-facade
 - exoego/aws-sdk-scalajs-facade-generator
 - exoego/scalajs-test-helper
@@ -1116,7 +1115,6 @@
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
 - scala-steward-org/scala-steward
-- scala-steward-org/test-repo-2
 - scala-tsi/scala-tsi
 - scala-ts/scala-ts
 - scala/hello-world.g8
