@@ -537,6 +537,7 @@
 - gvolpe/pfps-shopping-cart
 - hablapps/doric
 - hagay3/skuber
+- hajlaoui-nader/books 
 - hayasshi/akka-http-router
 - hipjim/scala-retry
 - hntd187/spotify
