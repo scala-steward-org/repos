@@ -614,6 +614,7 @@
 - joesan/plant-simulator
 - johannes-ebbighausen/oker
 - johnynek/bosatsu
+- jordiolivares/scio-sparql
 - jpbnetley/Mongo-csv-importer
 - jsuereth/scala-arm
 - justapagamentos/playframework-core
