@@ -1166,6 +1166,7 @@
 - seblm/sbt-jgiven-scalatest-reporter
 - seblm/seblm-meals
 - senia-psm/zio-test-akka-http
+- sentenza/cats-http4s-crypto
 - septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
