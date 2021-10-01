@@ -655,7 +655,6 @@
 - kubukoz/sup
 - kwark/play-refined
 - kwark/slick-refined
-- lagom/lagom
 - lancewalton/treelog
 - laserdisc-io/eisner
 - laserdisc-io/fs2-aws
