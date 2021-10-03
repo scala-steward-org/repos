@@ -545,6 +545,7 @@
 - hseeberger/akka-http-json
 - hseeberger/akkluster
 - hseeberger/slf4s
+- shaafekhan/huplache
 - http4s/blaze
 - http4s/http4s
 - http4s/http4s.g8
