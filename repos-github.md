@@ -432,7 +432,6 @@
 - fdietze/scala-js-fontawesome
 - fdietze/vectory
 - felipebonezi/convert-unit-service
-- fgrutsch/emergence
 - finagle/finagle-mysql-shapes
 - finagle/finagle-oauth2
 - finagle/finagle-postgres
@@ -441,7 +440,6 @@
 - firstbirdtech/akka-persistence-query-view
 - firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
-- firstbirdtech/emergence
 - flyway/flyway-play
 - foreign-language-reader/api
 - fp-in-bo/jms4s
