@@ -299,6 +299,7 @@
 - davegurnell/unindent
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
+- debasishg/frdomain-extras
 - debasishg/tradeio
 - debiki/talkyard
 - DFiantHDL/DFiant
