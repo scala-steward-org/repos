@@ -476,7 +476,9 @@
 - gemini-hlsw/lucuma-broadcast-channel
 - gemini-hlsw/lucuma-catalog
 - gemini-hlsw/lucuma-core
+- gemini-hlsw/lucuma-itc
 - gemini-hlsw/lucuma-jts
+- gemini-hlsw/lucuma-schemas
 - gemini-hlsw/lucuma-sso
 - gemini-hlsw/lucuma-svgdotjs
 - gemini-hlsw/lucuma-tmp-api
