@@ -371,6 +371,7 @@
 - endpoints4s/endpoints4s
 - enlivensystems/couchbase-spark-connector
 - enlivensystems/invoicing-hungarian
+- enlivensystems/scala-iso
 - enzief/recursionz
 - erikerlandson/coulomb
 - erikvanoosten/metrics-scala
