@@ -706,6 +706,7 @@
 - liuhongchao/debug4s
 - loicknuchel/SafeQL
 - loicknuchel/TypedAPI
+- lolgab/mill-mima
 - LolHens/docker-registry-cache
 - LolHens/filters4s
 - LolHens/fs2-pcap
