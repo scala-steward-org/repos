@@ -10,13 +10,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - run: git fetch --depth=1 origin ${{ github.event.repository.default_branch }}
+      - name: checkout fork
+        uses: actions/checkout@v2
+        with:
+          repo: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+      - name: copy fork repos-*.md
+        run: |
+          mkdir -p /tmp/fork
+          cp repos*.md /tmp/fork
+      - name: checkout origin
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+      - name: copy origin repos-*.md
+        run: |
+          mkdir -p /tmp/origin
+          cp repos*.md /tmp/origin
       - id: calc_diff
         name: diff
         run: |
           LINKS=""
-          GITHUB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }}..HEAD --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-github.md)
+          GITHUB_CHANGES=$(git diff --unified=0 --output-indicator-new=# --output-indicator-old=# /tmp/fork/repos-github.md /tmp/origin/repos-github.md || echo "")
+          if [[ $? -ne 0 ]]; then
+             echo "git error!"
+             exit 1;
+          fi
           if [[ "$GITHUB_CHANGES" ]]; then
             GITHUB_CHANGES=$(echo "$GITHUB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
@@ -50,7 +69,7 @@ jobs:
             done <<< "$GITHUB_CHANGES"
           fi
 
-          GITLAB_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }}..HEAD --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-gitlab.md)
+          GITLAB_CHANGES=$(git diff --unified=0 --output-indicator-new=# --output-indicator-old=# /tmp/fork/repos-gitlab.md /tmp/origin/repos-gitlab.md || echo "")
           if [[ "$GITLAB_CHANGES" ]]; then
             GITLAB_CHANGES=$(echo "$GITLAB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
@@ -63,7 +82,7 @@ jobs:
             done <<< "$GITLAB_CHANGES"
           fi
 
-          BITBUCKET_CHANGES=$(git diff origin/${{ github.event.repository.default_branch }}..HEAD --unified=0 --output-indicator-new=# --output-indicator-old=# -- repos-bitbucket.md)
+          BITBUCKET_CHANGES=$(git diff --unified=0 --output-indicator-new=# --output-indicator-old=# /tmp/fork/repos-bitbucket.md /tmp/origin/repos-bitbucket.md || echo "")
           if [[ "$BITBUCKET_CHANGES" ]]; then
             BITBUCKET_CHANGES=$(echo "$BITBUCKET_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
