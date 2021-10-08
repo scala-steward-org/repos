@@ -865,6 +865,7 @@
 - NthPortal/extra-predef
 - NthPortal/life-vest
 - NthPortal/reservoir
+- NthPortal/spaghetti
 - NthPortal/v
 - ocadotechnology/sttp-oauth2
 - odenzo/scala3-template
