@@ -775,6 +775,7 @@
 - michaelahlers/presence
 - michaelmior/eson-mining
 - michaelmior/eson-scala
+- miciek/grokkingfp-examples
 - milessabin/shapeless
 - minutemen/silhouette
 - mitochon/polyjuice
