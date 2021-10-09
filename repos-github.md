@@ -293,7 +293,6 @@
 - dataswift/hat-she-functions
 - dataswift/SHE-functions-starter
 - dataswift/slick-postgres-generator-driver
-- data-hunters/metadata-digger-server
 - data-tools/big-data-types
 - davegurnell/bridges
 - davegurnell/unindent
