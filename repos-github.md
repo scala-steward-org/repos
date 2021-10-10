@@ -1174,6 +1174,7 @@
 - seblm/seblm-meals
 - senia-psm/zio-test-akka-http
 - sentenza/cats-http4s-crypto
+- sentenza/hacktoberfest-scala-algorithms
 - septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
