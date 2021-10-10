@@ -516,6 +516,7 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
+- grokking-vietnam/grox
 - guardian/fulfilment-lookup
 - guardian/invoicing-api
 - guardian/manage-help-content-publisher
