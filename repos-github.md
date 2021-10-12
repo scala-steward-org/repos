@@ -172,8 +172,6 @@
 - ChocPanda/argonaut-magnolia
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
-- davenverse/cats-effect-time
-- davenverse/cats-scalacheck
 - ChristopherDavenport/cats-time
 - ChristopherDavenport/circuit
 - ChristopherDavenport/circuit-http4s
@@ -190,11 +188,9 @@
 - ChristopherDavenport/fuuid-annotation
 - ChristopherDavenport/github
 - ChristopherDavenport/iork
-- typelevel/keypool
 - ChristopherDavenport/keysemaphore
 - ChristopherDavenport/library.g8
 - ChristopherDavenport/linebacker
-- typelevel/log4cats
 - ChristopherDavenport/monoids
 - ChristopherDavenport/mules
 - ChristopherDavenport/mules-http4s
@@ -208,7 +204,6 @@
 - ChristopherDavenport/semigroups
 - ChristopherDavenport/synchronized
 - ChristopherDavenport/testcontainers-specs2
-- typelevel/unique
 - ChristopherDavenport/whale-tail
 - circe/circe
 - circe/circe-argus
@@ -296,6 +291,8 @@
 - data-tools/big-data-types
 - davegurnell/bridges
 - davegurnell/unindent
+- davenverse/cats-effect-time
+- davenverse/cats-scalacheck
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
 - debasishg/frdomain-extras
@@ -1402,8 +1399,10 @@
 - typelevel/jawn
 - typelevel/jawn-fs2
 - typelevel/jdk-index
+- typelevel/keypool
 - typelevel/kittens
 - typelevel/literally
+- typelevel/log4cats
 - typelevel/mouse
 - typelevel/munit-cats-effect
 - typelevel/paiges
@@ -1414,6 +1413,7 @@
 - typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
+- typelevel/unique
 - typelevel/vault
 - typeness/spray-json-refined
 - tyrantkhan/vault4s
