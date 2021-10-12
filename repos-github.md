@@ -379,6 +379,7 @@
 - esamson/remder
 - esamson/sbt-groovy
 - etorreborre/specs2
+- etorreborre/specs2-cats
 - etorres/train-station
 - etspaceman/kinesis-mock
 - etspaceman/scalacheck-faker
