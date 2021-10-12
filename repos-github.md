@@ -172,8 +172,8 @@
 - ChocPanda/argonaut-magnolia
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
-- ChristopherDavenport/cats-effect-time
-- ChristopherDavenport/cats-scalacheck
+- davenverse/cats-effect-time
+- davenverse/cats-scalacheck
 - ChristopherDavenport/cats-time
 - ChristopherDavenport/circuit
 - ChristopherDavenport/circuit-http4s
@@ -190,11 +190,11 @@
 - ChristopherDavenport/fuuid-annotation
 - ChristopherDavenport/github
 - ChristopherDavenport/iork
-- ChristopherDavenport/keypool
+- typelevel/keypool
 - ChristopherDavenport/keysemaphore
 - ChristopherDavenport/library.g8
 - ChristopherDavenport/linebacker
-- ChristopherDavenport/log4cats
+- typelevel/log4cats
 - ChristopherDavenport/monoids
 - ChristopherDavenport/mules
 - ChristopherDavenport/mules-http4s
@@ -208,7 +208,7 @@
 - ChristopherDavenport/semigroups
 - ChristopherDavenport/synchronized
 - ChristopherDavenport/testcontainers-specs2
-- ChristopherDavenport/unique
+- typelevel/unique
 - ChristopherDavenport/whale-tail
 - circe/circe
 - circe/circe-argus
