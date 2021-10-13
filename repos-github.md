@@ -343,7 +343,6 @@
 - dylandoamaral/zinteract
 - earldouglas/xsbt-web-plugin
 - earldouglas/xsbt-web-plugin.g8
-- ebiznext/comet-data-pipeline
 - ecyshor/akka-consul-lease
 - EffectOrientedProgramming/book
 - eikek/binny
