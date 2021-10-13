@@ -1493,7 +1493,6 @@
 - zio/interop-scalaz
 - zio/interop-twitter
 - zio/izumi-reflect
-- zio/zio
 - zio/zio-actors
 - zio/zio-akka-cluster
 - zio/zio-config
