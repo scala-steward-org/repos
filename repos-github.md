@@ -1072,6 +1072,7 @@
 - sbt/sbt-duplicates-finder
 - sbt/sbt-fresh
 - sbt/sbt-header
+- sbt/sbt-jacoco
 - sbt/sbt-java-formatter
 - sbt/sbt-unidoc
 - scala2ts/scala2ts-core
