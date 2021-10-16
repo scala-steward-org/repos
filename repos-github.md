@@ -150,6 +150,7 @@
 - butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
+- carueda/tscfg
 - catap/scala-blake3
 - catap/scala-sha
 - cats4scala/cats-process
