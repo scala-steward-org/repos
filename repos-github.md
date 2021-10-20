@@ -1450,6 +1450,7 @@
 - vertical-blank/scala-sql-formatter
 - vigoo/clipp
 - vigoo/desert
+- vigoo/metagen
 - vigoo/prox
 - vigoo/scalafxml
 - vigoo/simpp
