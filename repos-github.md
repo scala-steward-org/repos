@@ -1448,6 +1448,7 @@
 - vasilmkd/docker-stats-monitor
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
+- vder/taskforce
 - vertical-blank/scala-sql-formatter
 - vigoo/clipp
 - vigoo/desert
