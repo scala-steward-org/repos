@@ -1430,6 +1430,7 @@
 - ua-parser/uap-scala
 - ucb-bar/chisel-testers2
 - UdashFramework/udash-core
+- ultram4rine/switchmap
 - underscoreio/slickless
 - unfiltered/unfiltered
 - univalence/zio-spark
