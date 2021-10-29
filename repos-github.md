@@ -466,6 +466,7 @@
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
 - fun-stack-org/fun-stack-scala
+- fun-stack-org/fun-stack.g8
 - gearpump/gearpump
 - geirolz/advxml
 - geirolz/erules
