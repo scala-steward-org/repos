@@ -738,8 +738,8 @@
 - lsug/lsug-website
 - ltbs/uniform-scala
 - lucidd/rpm4s
-- lunatech-labs/lunatech-pointingpoker
 - lunatech-labs/lunatech-lunch-planner
+- lunatech-labs/lunatech-pointingpoker
 - L-space/L-space
 - L-space/L-space-NS
 - L-space/Types
