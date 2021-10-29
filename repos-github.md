@@ -106,6 +106,7 @@
 - azavea/stac4s
 - azhur/kafka-serde-scala
 - balhoff/arachne
+- balhoff/materializer
 - balhoff/owl-diff
 - balhoff/owl-to-rules
 - balhoff/relation-graph
