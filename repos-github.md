@@ -739,6 +739,7 @@
 - ltbs/uniform-scala
 - lucidd/rpm4s
 - lunatech-labs/lunatech-pointingpoker
+- lunatech-labs/lunatech-lunch-planner
 - L-space/L-space
 - L-space/L-space-NS
 - L-space/Types
