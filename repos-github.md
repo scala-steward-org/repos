@@ -993,6 +993,7 @@
 - profunktor/fs2-rabbit
 - profunktor/http4s-jwt-auth
 - profunktor/http4s-tracer
+- profunktor/neutron
 - profunktor/redis4cats
 - proteinevolution/Toolkit
 - pstutz/scala-fullstack
