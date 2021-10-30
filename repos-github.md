@@ -271,7 +271,6 @@
 - crealytics/spark-excel
 - criteo/cuttle
 - criteo/lolhttp
-- cr-org/neutron
 - d2a4u/meteor
 - d2a4u/sqs4s
 - d10xa/jadd
