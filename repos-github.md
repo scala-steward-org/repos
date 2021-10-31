@@ -1277,6 +1277,7 @@
 - swagger-akka-http/swagger-akka-http
 - swagger-akka-http/swagger-scala-module
 - sweet-delights/delightful-anonymization
+- sweet-delights/delightful-cron
 - sweet-delights/delightful-edifact
 - sweet-delights/delightful-parsing
 - sweet-delights/delightful-typeclasses
