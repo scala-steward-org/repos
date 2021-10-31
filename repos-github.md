@@ -1412,11 +1412,14 @@
 - typelevel/fs2-netty
 - typelevel/jawn
 - typelevel/jawn-fs2
+- typelevel/jawn-fs2:series/1.x
 - typelevel/jdk-index
 - typelevel/keypool
+- typelevel/keypool:series/0.3
 - typelevel/kittens
 - typelevel/literally
 - typelevel/log4cats
+- typelevel/log4cats:series/1.x
 - typelevel/mouse
 - typelevel/munit-cats-effect
 - typelevel/paiges
@@ -1429,6 +1432,7 @@
 - typelevel/squants
 - typelevel/unique
 - typelevel/vault
+- typelevel/vault:series/2.x
 - typeness/spray-json-refined
 - tyrantkhan/vault4s
 - ua-parser/uap-scala
