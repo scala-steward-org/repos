@@ -54,6 +54,7 @@
 - alexarchambault/windows-ansi
 - alexbalonperin/zio_experiments
 - AlexITC/chrome-scalajs-template
+- AlexITC/playsonify
 - AlexITC/scala-js-chrome
 - almond-sh/almond
 - alonsodomin/cron4s
