@@ -527,6 +527,7 @@
 - guardian/price-migration-engine
 - guardian/support-service-lambdas
 - guardian/zuora-6for6-modifier
+- guardian/zuora-creditor
 - guardrail-dev/guardrail
 - guardrail-dev/guardrail-maven-plugin
 - guardrail-dev/guardrail-sample-gradle-http4s-zio
