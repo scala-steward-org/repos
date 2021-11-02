@@ -417,7 +417,7 @@
 - exoego/aws-sdk-scalajs-facade
 - exoego/aws-sdk-scalajs-facade-generator
 - exoego/scalajs-test-helper
-- exoego/scalajs-types-util
+- exoego/scalajs-types-util:test-branch
 - exoego/scala-js-jquery
 - exoego/scala-js-nodejs
 - exoego/scala-js-ts-importer
