@@ -418,7 +418,6 @@
 - exoego/aws-sdk-scalajs-facade-generator
 - exoego/scalajs-test-helper
 - exoego/scalajs-types-util
-- exoego/scala-js-jquery
 - exoego/scala-js-nodejs
 - exoego/scala-js-ts-importer
 - Fabszn/scaffolding-plugin-lagom
