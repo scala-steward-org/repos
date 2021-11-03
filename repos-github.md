@@ -1305,6 +1305,7 @@
 - theiterators/akka-http-microservice
 - theiterators/kebs
 - theiterators/sealed-monad
+- TheKojuEffect/local-expats
 - thesamet/sbt-protoc
 - thesamet/sbt-protoc-gen-project
 - The-Silverwood-Institute/Recibase
