@@ -1290,6 +1290,7 @@
 - SystemFw/upperbound
 - taig/flog
 - taig/lokal
+- taig/scala-pygments
 - taig/scala-linguist
 - takayahilton/sql-formatter
 - tanishiking/scalafix-unused
