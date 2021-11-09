@@ -473,6 +473,7 @@
 - geirolz/erules
 - geirolz/fly4s
 - geirolz/fp-microservice
+- geirolz/scope
 - gemini-hlsw/clue
 - gemini-hlsw/explore
 - gemini-hlsw/gemini-locales
