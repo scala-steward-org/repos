@@ -1130,7 +1130,6 @@
 - scalapb/zio-grpc
 - scala-bones/bones
 - scala-bones/scatonic-ideal
-- scala-cash/warhorse
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
 - scala-steward-org/scala-steward
