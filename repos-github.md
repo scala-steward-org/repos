@@ -194,7 +194,6 @@
 - ChristopherDavenport/keysemaphore
 - ChristopherDavenport/library.g8
 - ChristopherDavenport/linebacker
-- typelevel/monoids
 - ChristopherDavenport/mules
 - ChristopherDavenport/mules-http4s
 - ChristopherDavenport/mules-http4s-redis
@@ -1425,6 +1424,7 @@
 - typelevel/literally
 - typelevel/log4cats
 - typelevel/log4cats:series/1.x
+- typelevel/monoids
 - typelevel/mouse
 - typelevel/munit-cats-effect
 - typelevel/paiges
