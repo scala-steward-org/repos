@@ -139,6 +139,8 @@
 - bkirwi/decline
 - blemale/scaffeine
 - blended-zio/blended-zio
+- bot4s/zmatrix
+- bot4s/telegram
 - BotTech/scala2plantuml
 - bpholt/java-time-literals
 - brbrown25/macros
