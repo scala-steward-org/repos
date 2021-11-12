@@ -194,7 +194,7 @@
 - ChristopherDavenport/keysemaphore
 - ChristopherDavenport/library.g8
 - ChristopherDavenport/linebacker
-- ChristopherDavenport/monoids
+- typelevel/monoids
 - ChristopherDavenport/mules
 - ChristopherDavenport/mules-http4s
 - ChristopherDavenport/mules-http4s-redis
@@ -204,7 +204,6 @@
 - ChristopherDavenport/read
 - ChristopherDavenport/sbt-mima-version-check
 - ChristopherDavenport/selection
-- ChristopherDavenport/semigroups
 - ChristopherDavenport/synchronized
 - ChristopherDavenport/testcontainers-specs2
 - ChristopherDavenport/whale-tail
