@@ -227,6 +227,7 @@
 - circe/circe-spire
 - circe/circe-spray
 - circe/circe-yaml
+- ckipp01/tooling-talks
 - CleverCloud/akka-warp10-scala-client
 - clovellytech/http4s-modules
 - codacy/codacy-analysis-cli
