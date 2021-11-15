@@ -174,7 +174,6 @@
 - chenharryhua/nanjin
 - chief-of-state/chief-of-state
 - chmodas/akka-persistence-r2dbc
-- ChocPanda/argonaut-magnolia
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
 - ChristopherDavenport/cats-time
@@ -279,7 +278,6 @@
 - d10xa/scala.g8
 - daandi/nice-url-encode-decode
 - DanielaSfregola/random-data-generator
-- DanielaSfregola/random-data-generator-magnolia
 - DanielaSfregola/twitter4s
 - DanielaSfregola/twitter4s.g8
 - DanielaSfregola/twitter4s-demo
@@ -572,7 +570,6 @@
 - huiwang/codingame-scala-kit
 - Idealiste-cz/ideal-voting-backend
 - iheartradio/ficus
-- iheartradio/lihua
 - iheartradio/play-swagger
 - iheartradio/thomas
 - ikhoon/scalapb-reactor
@@ -588,7 +585,6 @@
 - intracer/scalawiki
 - iRevive/fmq
 - iRevive/sbt-integration-env
-- IronCoreLabs/argonaut-jwt-scala
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
 - ITV/quartz4s
@@ -785,7 +781,6 @@
 - michaelmior/eson-scala
 - miciek/grokkingfp-examples
 - milessabin/shapeless
-- minutemen/silhouette
 - mitochon/polyjuice
 - mockito/mockito-scala
 - moia-dev/streamee
@@ -808,7 +803,6 @@
 - mslinn/scalacourses-utils
 - mslinn/urlettes
 - mslinn/web3j-scala
-- mthmulders/hyperion
 - mvillafuertem/akka-zio
 - mvillafuertem/mdoc-modifier
 - mvillafuertem/scala
@@ -1108,7 +1102,6 @@
 - ScalaConsultants/zio-dotty-quickstart.g8
 - ScalaConsultants/zio-quickstart.g8
 - ScalaConsultants/zio-slick-interop
-- scalagdx/scalagdx
 - scalameta/mdoc
 - scalameta/metabrowse
 - scalameta/metals
@@ -1171,7 +1164,6 @@
 - scodec/scodec
 - scodec/scodec-bits
 - scodec/scodec-build
-- scodec/scodec-protocols
 - scodec/scodec-stream
 - ScoreUnder/canti-bot
 - scoverage/sbt-coveralls
@@ -1260,7 +1252,6 @@
 - sullis/alpakka-jms-example
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
-- sullis/kayenta-playground
 - sullis/sbt-guardrail-java-codegen-example
 - sullis/sbt-guardrail-scala-codegen-example
 - sullis/scala-hello-world-app
@@ -1456,7 +1447,6 @@
 - uptane/ota-tuf
 - uptane/treehub
 - user-signal/fs2-mqtt
-- usommerl/counteeexporter
 - usommerl/graalnative4s
 - vadimbakaev/scala-fast-start
 - valskalla/odin
