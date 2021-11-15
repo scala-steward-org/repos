@@ -1461,6 +1461,8 @@
 - vigoo/prox
 - vigoo/scalafxml
 - vigoo/simpp
+- VirtusLab/scala-cli
+- VirtusLab/scala-packager
 - VladKopanev/cats-saga
 - VladKopanev/zio-saga
 - VladPodilnyk/d4s-example
