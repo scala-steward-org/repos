@@ -1102,6 +1102,7 @@
 - ScalaConsultants/zio-dotty-quickstart.g8
 - ScalaConsultants/zio-quickstart.g8
 - ScalaConsultants/zio-slick-interop
+- scala-graph/scala-graph
 - scalameta/mdoc
 - scalameta/metabrowse
 - scalameta/metals
