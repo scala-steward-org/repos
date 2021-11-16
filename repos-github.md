@@ -1102,7 +1102,6 @@
 - ScalaConsultants/zio-dotty-quickstart.g8
 - ScalaConsultants/zio-quickstart.g8
 - ScalaConsultants/zio-slick-interop
-- scala-graph/scala-graph
 - scalameta/mdoc
 - scalameta/metabrowse
 - scalameta/metals
@@ -1123,6 +1122,7 @@
 - scalapb/zio-grpc
 - scala-bones/bones
 - scala-bones/scatonic-ideal
+- scala-graph/scala-graph
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
 - scala-steward-org/scala-steward
