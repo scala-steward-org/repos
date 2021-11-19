@@ -887,6 +887,7 @@
 - ovotech/ciris-kubernetes
 - ovotech/http4s-micrometer-metrics
 - ovotech/kafka-serialization
+- oyvindberg/bleep
 - pathikrit/better-files
 - pathikrit/dijon
 - paulbutcher/ScalaMock
