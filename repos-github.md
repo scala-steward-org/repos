@@ -955,6 +955,7 @@
 - pluralsight/hydra
 - polyvariant/better-tostring
 - polyvariant/caliban-gitlab
+- polyvariant/doobie-quill
 - ppurang/abctemplates
 - ppurang/asynch
 - pravin-raha/maantrack
