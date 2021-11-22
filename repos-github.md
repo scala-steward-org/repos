@@ -154,6 +154,7 @@
 - butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
+- carlosedp/scalautils
 - carueda/tscfg
 - catap/scala-blake3
 - catap/scala-sha
