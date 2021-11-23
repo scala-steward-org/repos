@@ -62,7 +62,6 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
-- amorvincitomnia/thehand
 - andyglow/caseclass-evolution
 - andyglow/scalacheck-gen-configured
 - andyglow/scaladoc
@@ -175,7 +174,6 @@
 - cchantep/sbt-hl-compiler
 - channingwalton/http4sWS
 - chenharryhua/nanjin
-- chief-of-state/chief-of-state
 - chmodas/akka-persistence-r2dbc
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
@@ -312,10 +310,6 @@
 - djspiewak/base.g8
 - djspiewak/gll-combinators
 - djspiewak/sbt-spiewak
-- dmarticus/advent-of-code
-- dmarticus/dag4s
-- dmarticus/functional-todo-app
-- dmarticus/scala-games
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
 - doubleloop-io/applied-fp-workshop-scala
@@ -344,7 +338,6 @@
 - Dwolla/scala-secure-config
 - Dwolla/scala-test-utils
 - Dwolla/scheduled-maintenance
-- dylandoamaral/zemail
 - dylandoamaral/zinteract
 - earldouglas/xsbt-web-plugin
 - earldouglas/xsbt-web-plugin.g8
@@ -727,7 +720,6 @@
 - LolHens/sbt-css-compress
 - LolHens/sbt-scalajs-webjar
 - LolHens/scala-commandline
-- LolHens/scala-crypto
 - LolHens/scala-diff-utils
 - LolHens/scala-edifact
 - lomigmegard/akka-http-cors
@@ -772,7 +764,6 @@
 - metarank/cfor
 - metarank/ltrlib
 - metarank/metarank
-- mfirry/bettermooch
 - mfirry/scala-http-clients
 - mfirry/web-frameworks-templates
 - michaelahlers/b2-scala
@@ -876,7 +867,6 @@
 - ocadotechnology/sttp-oauth2
 - odenzo/scala3-template
 - olafurpg/sbt-ci-release
-- olivierschultz/typelevel-template.g8
 - openzipkin/zipkin-finagle
 - optics-dev/Monocle
 - orbeon/orbeon-forms
@@ -991,7 +981,6 @@
 - precog/sbt-quasar-plugin
 - precog/slamdata-predef
 - precog/suprem
-- precog/tectonic
 - profunktor/fs2-rabbit
 - profunktor/http4s-jwt-auth
 - profunktor/http4s-tracer
@@ -1051,7 +1040,6 @@
 - RustedBones/taxonomy
 - sagifogel/Proptics
 - sake92/hepek
-- saksdirect/sundial
 - salesforce/transmogrifai-helloworld-sbt
 - samueltardieu/ausweisbot
 - samueltardieu/canape
@@ -1259,8 +1247,6 @@
 - sullis/alpakka-jms-example
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
-- sullis/sbt-guardrail-java-codegen-example
-- sullis/sbt-guardrail-scala-codegen-example
 - sullis/scala-hello-world-app
 - super-flat/lagom-pb
 - super-flat/scala-otel-tools
@@ -1280,7 +1266,6 @@
 - sweet-delights/delightful-parsing
 - sweet-delights/delightful-typeclasses
 - SwissBorg/akka-persistence-postgres
-- synesso/scala-stellar
 - synesso/scala-stellar-horizon-exemplar
 - synesso/scala-stellar-sdk
 - SystemFw/upperbound
