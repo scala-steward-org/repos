@@ -341,6 +341,7 @@
 - Dwolla/rabbitmq-topology-backup
 - Dwolla/scala-cloudflare
 - Dwolla/scala-cloudformation-custom-resource
+- Dwolla/scala-secure-config
 - Dwolla/scala-test-utils
 - Dwolla/scheduled-maintenance
 - dylandoamaral/zemail
