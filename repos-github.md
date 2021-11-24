@@ -1180,7 +1180,6 @@
 - shankarshastri/ScalaFPCode
 - shankarshastri/scala-proj-template
 - shopstic/chopsticks
-- sideeffffect/console-scala-simple
 - sideeffffect/sbt-decent-scala
 - sideeffffect/zio-doobie
 - sideeffffect/zio-io
