@@ -173,6 +173,7 @@
 - cchantep/foorgol
 - cchantep/sbt-hl-compiler
 - channingwalton/http4sWS
+- che-samples/scala-sbt
 - chenharryhua/nanjin
 - chmodas/akka-persistence-r2dbc
 - ChristopherDavenport/agitation
