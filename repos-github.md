@@ -173,6 +173,7 @@
 - cchantep/foorgol
 - cchantep/sbt-hl-compiler
 - channingwalton/http4sWS
+- che-samples/scala-sbt
 - chenharryhua/nanjin
 - chmodas/akka-persistence-r2dbc
 - ChristopherDavenport/agitation
@@ -1179,7 +1180,6 @@
 - shankarshastri/ScalaFPCode
 - shankarshastri/scala-proj-template
 - shopstic/chopsticks
-- sideeffffect/console-scala-simple
 - sideeffffect/sbt-decent-scala
 - sideeffffect/zio-doobie
 - sideeffffect/zio-io
