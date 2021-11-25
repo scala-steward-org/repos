@@ -121,6 +121,7 @@
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
 - benhutchison/modesofcomposition
+- benthecarman/ln-vortex
 - benthecarman/PSBT-Toolkit
 - betagouv/aplus
 - betagouv/plante-et-moi-backend
