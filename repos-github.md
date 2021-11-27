@@ -628,7 +628,6 @@
 - jxnu-liguobin/scala-macro-tools
 - kailuowang/henkan
 - kailuowang/mau
-- kammoh/sbt-jni
 - katlasik/functionmeta
 - KelkooGroup/theGardener
 - kelnos/mima-maven-plugin
