@@ -1075,6 +1075,7 @@
 - sbt/sbt-header
 - sbt/sbt-jacoco
 - sbt/sbt-java-formatter
+- sbt/sbt-jni
 - sbt/sbt-unidoc
 - scala2ts/scala2ts-core
 - scala2ts/scala2ts-sbt
