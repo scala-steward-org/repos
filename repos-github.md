@@ -56,6 +56,7 @@
 - AlexITC/chrome-scalajs-template
 - AlexITC/playsonify
 - AlexITC/scala-js-chrome
+- almibe/ligature-scala
 - almond-sh/almond
 - alonsodomin/cron4s
 - alonsodomin/kamon-cloudwatch
