@@ -557,6 +557,7 @@
 - http4s/blaze
 - http4s/http4s
 - http4s/http4s.g8
+- http4s/http4s-io.g8
 - http4s/http4s-armeria
 - http4s/http4s-crypto
 - http4s/http4s-dom
