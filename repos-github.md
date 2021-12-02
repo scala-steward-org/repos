@@ -465,8 +465,9 @@
 - fthomas/status-page
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
-- fun-stack-org/fun-stack.g8
-- fun-stack-org/fun-stack-scala
+- fun-stack/fun-stack.g8
+- fun-stack/fun-stack-scala
+- fun-stack/lambda-server 
 - gearpump/gearpump
 - geirolz/advxml
 - geirolz/erules
