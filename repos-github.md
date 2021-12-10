@@ -1483,6 +1483,7 @@
 - wiringbits/safer.chat
 - wiringbits/scala-webapp-template
 - wiringbits/sjs-material-ui-facade
+- wiringbits/wiringbits-webapp-utils
 - wvlet/airframe
 - wvlet/wvlet
 - X9Developers/block-explorer
