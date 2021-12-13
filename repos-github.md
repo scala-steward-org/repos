@@ -733,7 +733,6 @@
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
 - LREN-CHUV/woken-validation
-- lrytz/travis-test
 - lsug/lsug-website
 - ltbs/uniform-scala
 - lucidd/rpm4s
