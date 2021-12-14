@@ -1274,6 +1274,7 @@
 - SystemFw/upperbound
 - taig/flog
 - taig/lokal
+- taig/sbt-blowout
 - taig/scala-linguist
 - taig/scala-pygments
 - takayahilton/sql-formatter
