@@ -1471,6 +1471,8 @@
 - vmunier/scalajs-scripts
 - wehkamp/cakemix
 - Wei-1/Scala-Machine-Learning
+- waylayio/influxdb-scala
+- waylayio/kairosdb-scala
 - weso/document
 - weso/rdfshape
 - weso/shaclex
