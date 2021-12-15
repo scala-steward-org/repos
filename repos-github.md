@@ -1494,6 +1494,7 @@
 - wvlet/wvlet
 - X9Developers/block-explorer
 - X9Developers/eth-indexer
+- X9Developers/stakenet-orderbook
 - xencura/kagera
 - xerial/sbt-pack
 - xerial/sbt-sonatype
