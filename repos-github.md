@@ -693,6 +693,7 @@
 - leobenkel/Zparkio
 - lewisjkl/kafkakit
 - liancheng/scalafix-organize-imports
+- librecaptcha/lc-core
 - lightbend/benchdb
 - lightbend/genjavadoc
 - lightbend/kafka-lag-exporter
