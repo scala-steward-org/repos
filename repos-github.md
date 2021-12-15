@@ -1134,6 +1134,8 @@
 - scala/make-release-notes
 - scala/nanotest-strawman
 - scala/sbt-scala-module
+- scala/scala
+- scala/scala:2.12.x
 - scala/scala3.g8
 - scala/scala3-cross.g8
 - scala/scala3-example-project
