@@ -686,8 +686,8 @@
 - lemastero/scala_typeclassopedia
 - lemastero/Triglav
 - lemonlabsuk/scala-uri
-- lenguyenthanh/steve
 - lenguyenthanh/catsphores
+- lenguyenthanh/steve
 - leobenkel/Laeta
 - leobenkel/Soteria
 - leobenkel/Zparkio
