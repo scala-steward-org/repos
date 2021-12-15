@@ -1135,7 +1135,6 @@
 - scala/nanotest-strawman
 - scala/sbt-scala-module
 - scala/scala
-- scala/scala:2.12.x
 - scala/scala3.g8
 - scala/scala3-cross.g8
 - scala/scala3-example-project
@@ -1153,6 +1152,7 @@
 - scala/scala-rewrites
 - scala/scala-seed.g8
 - scala/scala-xml
+- scala/scala:2.12.x
 - scaldi/scaldi
 - scaldi/scaldi-jsr330
 - scaldi/scaldi-play
