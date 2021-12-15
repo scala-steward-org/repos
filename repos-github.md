@@ -1469,10 +1469,10 @@
 - vmunier/play-scalajs.g8
 - vmunier/sbt-web-scalajs
 - vmunier/scalajs-scripts
-- wehkamp/cakemix
-- Wei-1/Scala-Machine-Learning
 - waylayio/influxdb-scala
 - waylayio/kairosdb-scala
+- wehkamp/cakemix
+- Wei-1/Scala-Machine-Learning
 - weso/document
 - weso/rdfshape
 - weso/shaclex
