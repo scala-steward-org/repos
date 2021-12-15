@@ -1487,6 +1487,7 @@
 - wvlet/airframe
 - wvlet/wvlet
 - X9Developers/block-explorer
+- X9Developers/eth-indexer
 - xencura/kagera
 - xerial/sbt-pack
 - xerial/sbt-sonatype
