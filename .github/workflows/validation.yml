@@ -39,8 +39,12 @@ jobs:
           if [[ "$GITHUB_CHANGES" ]]; then
             GITHUB_CHANGES=$(echo "$GITHUB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
+              repo="${owner_repo##*/}"
+              repo_count="$(grep '/${repo}$' repos-github.md | wc -l | awk '{print $1}')"
               if [[ $owner_repo == ${{ github.actor }}/* ]]; then
                 VALIDATION="✅"
+              elif [[ "$repo_count" != "0" &&  "$repo_count" != "1" ]]; then
+                VALIDATION="👥"
               else
                 owner=$(curl --silent \
                     -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
@@ -112,6 +116,7 @@ jobs:
 
             Legends:
             ✅=Actor is a repo owner or an organization admin.
+            👥=Another repo has same name. Remove one of the duplicates. 
             ❔=Unable to validate. Requires manual validation.
       - name: no updates
         id: no-updates
