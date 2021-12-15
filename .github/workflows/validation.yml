@@ -39,7 +39,11 @@ jobs:
           if [[ "$GITHUB_CHANGES" ]]; then
             GITHUB_CHANGES=$(echo "$GITHUB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
-              if [[ $owner_repo == ${{ github.actor }}/* ]]; then
+              repo=$( echo "${owner_repo##*/}" | awk '{print $1}' )
+              repo_count=$(grep "/${repo}$" /tmp/fork/repos-github.md | wc -l | awk '{print $1}')
+              if [[ "$repo_count" != "0" &&  "$repo_count" != "1" ]]; then
+                VALIDATION="👥"
+              elif [[ $owner_repo == ${{ github.actor }}/* ]]; then
                 VALIDATION="✅"
               else
                 owner=$(curl --silent \
@@ -73,7 +77,11 @@ jobs:
           if [[ "$GITLAB_CHANGES" ]]; then
             GITLAB_CHANGES=$(echo "$GITLAB_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
-              if [[ $owner_repo == ${{ github.actor }}/* ]]; then
+              repo=$( echo "${owner_repo##*/}" | awk '{print $1}' )
+              repo_count=$(grep "/${repo}$" /tmp/fork/repos-gitlab.md | wc -l | awk '{print $1}')
+              if [[ "$repo_count" != "0" &&  "$repo_count" != "1" ]]; then
+                VALIDATION="👥"
+              elif [[ $owner_repo == ${{ github.actor }}/* ]]; then
                 VALIDATION="✅"
               else
                 VALIDATION="❔"
@@ -86,7 +94,11 @@ jobs:
           if [[ "$BITBUCKET_CHANGES" ]]; then
             BITBUCKET_CHANGES=$(echo "$BITBUCKET_CHANGES" | grep '^#' | sed 's/#- //' | uniq)
             while IFS= read -r owner_repo; do
-              if [[ $owner_repo == ${{ github.actor }}/* ]]; then
+              repo=$( echo "${owner_repo##*/}" | awk '{print $1}' )
+              repo_count=$(grep "/${repo}$" /tmp/fork/repos-bitbucket.md | wc -l | awk '{print $1}')
+              if [[ "$repo_count" != "0" &&  "$repo_count" != "1" ]]; then
+                VALIDATION="👥"
+              elif [[ $owner_repo == ${{ github.actor }}/* ]]; then
                 VALIDATION="✅"
               else
                 VALIDATION="❔"
@@ -112,6 +124,7 @@ jobs:
 
             Legends:
             ✅=Actor is a repo owner or an organization admin.
+            👥=Another repo has same name. Remove one of the duplicates. 
             ❔=Unable to validate. Requires manual validation.
       - name: no updates
         id: no-updates
