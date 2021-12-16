@@ -847,6 +847,7 @@
 - nevillelyh/parquet-extra
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
+- NickBurkard/aws-cdk-scala
 - niklasf/lila-openingexplorer
 - niqdev/caliban-extras
 - niqdev/kafka-scala-examples
