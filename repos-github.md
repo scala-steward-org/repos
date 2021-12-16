@@ -324,6 +324,7 @@
 - dwijnand/sbt-project-graph
 - dwijnand/sbt-reloadquick
 - dwijnand/sbt-travisci
+- Dwolla/async-utils
 - Dwolla/autoscaling-ecs-draining-lambda
 - Dwolla/cloudflare-lambda
 - Dwolla/cloudflare-public-hostname-lambda
