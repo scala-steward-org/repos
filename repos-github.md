@@ -138,9 +138,9 @@
 - bitrockteam/kafka-dvs-aviation-edge-producer
 - bitrockteam/kafka-dvs-avro-schemas
 - bitrockteam/kafka-dvs-streams
-- blackdoor/jose
 - bjaglin/sbt-memoize
 - bkirwi/decline
+- blackdoor/jose
 - blemale/scaffeine
 - blended-zio/blended-zio
 - bot4s/telegram
