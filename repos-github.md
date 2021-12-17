@@ -679,6 +679,7 @@
 - lefou/mill-kotlin
 - lefou/mill-osgi
 - lefou/mill-vcs-version
+- LEGO/woof
 - leigh-perry/conduction
 - leigh-perry/log4zio
 - leigh-perry/metamorphosis
