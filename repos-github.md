@@ -794,7 +794,6 @@
 - monix/monix-connect
 - monix/monix-kafka
 - monksy/serialization-checker
-- mschuwalow/zio-todo-backend
 - msgpack/msgpack-java
 - mslinn/awslib_scala
 - mslinn/dottyTemplate
