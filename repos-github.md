@@ -823,6 +823,7 @@
 - nafg/jewish-date
 - nafg/mergify-yaml
 - nafg/reactive
+- nafg/scalac-options
 - nafg/scalajs-facades
 - nafg/scalajs-react-util
 - nafg/scala-phonenumber
