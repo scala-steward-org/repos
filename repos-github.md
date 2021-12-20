@@ -523,6 +523,7 @@
 - gospeak-io/gospeak
 - griggt/scalamyth
 - grokking-vietnam/grox
+- guardian/content-authorisation-common
 - guardian/fulfilment-lookup
 - guardian/invoicing-api
 - guardian/manage-help-content-publisher
@@ -533,6 +534,7 @@
 - guardian/support-service-lambdas
 - guardian/zuora-6for6-modifier
 - guardian/zuora-creditor
+- guardian/zuora-full-export
 - guardrail-dev/guardrail
 - guardrail-dev/guardrail-maven-plugin
 - guardrail-dev/guardrail-sample-gradle-http4s-zio
