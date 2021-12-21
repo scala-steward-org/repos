@@ -459,6 +459,7 @@
 - freechipsproject/treadle
 - fs2-blobstore/fs2-blobstore
 - fsanaulla/chronicler
+- fsanaulla/chronicler-spark
 - fsanaulla/spark-http-rdd
 - fthomas/base.g8
 - fthomas/fs2-cron
