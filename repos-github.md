@@ -361,6 +361,7 @@
 - ekrich/sconfig
 - ekrich/sjavatime
 - ekrich/stensorflow
+- ekrich/stensorflow.g8
 - eli-jordan/alfred-jenkins
 - eltherion/http4s-timer
 - emartech/pure-scheduler
