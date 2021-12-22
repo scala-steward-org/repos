@@ -1445,6 +1445,7 @@
 - ua-parser/uap-scala
 - ucb-bar/chisel-testers2
 - UdashFramework/udash-core
+- ultimatesoftware/surge
 - ultram4rine/switchmap
 - underscoreio/slickless
 - unfiltered/unfiltered
