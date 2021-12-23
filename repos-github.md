@@ -903,6 +903,8 @@
 - pauljamescleary/scala-pet-store
 - pawelkaczor/akka-persistence-kafka
 - payalabs/scalajs-react-bridge
+- peregin/gps-overlay-on-video
+- peregin/velocorner.com
 - pbernet/akka_streams_tutorial
 - pdalpra/computer-database
 - pdalpra/scalalint
