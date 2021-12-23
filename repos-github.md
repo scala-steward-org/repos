@@ -161,8 +161,6 @@
 - butcherless/tapir-learn
 - carlosedp/scalautils
 - carueda/tscfg
-- catap/scala-blake3
-- catap/scala-sha
 - cats4scala/cats-process
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
@@ -643,6 +641,8 @@
 - kailuowang/henkan
 - kailuowang/mau
 - katlasik/functionmeta
+- kcrypt/scala-blake3
+- kcrypt/scala-sha
 - KelkooGroup/theGardener
 - kelnos/mima-maven-plugin
 - kelnos/scala-cross-maven-plugin
