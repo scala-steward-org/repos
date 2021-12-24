@@ -641,6 +641,7 @@
 - kailuowang/henkan
 - kailuowang/mau
 - katlasik/functionmeta
+- kcrypt/scala-biginteger
 - kcrypt/scala-blake3
 - kcrypt/scala-sha
 - KelkooGroup/theGardener
