@@ -123,6 +123,7 @@
 - BenFradet/struct-type-encoder
 - benhutchison/modesofcomposition
 - benthecarman/ln-vortex
+- benthecarman/OP-RETURN-Bot
 - benthecarman/PSBT-Toolkit
 - betagouv/aplus
 - betagouv/plante-et-moi-backend
