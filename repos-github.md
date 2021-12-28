@@ -1482,6 +1482,7 @@
 - vigoo/simpp
 - VirtusLab/scala-cli
 - VirtusLab/scala-packager
+- VirtusLab/scala-yaml
 - VladKopanev/cats-saga
 - VladKopanev/zio-saga
 - VladPodilnyk/d4s-example
