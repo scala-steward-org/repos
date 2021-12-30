@@ -1432,6 +1432,7 @@
 - typelevel/munit-cats-effect
 - typelevel/paiges
 - typelevel/sbt-catalysts
+- typelevel/sbt-typelevel
 - typelevel/scalacheck
 - typelevel/scalacheck-effect
 - typelevel/shapeless-3
