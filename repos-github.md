@@ -116,6 +116,7 @@
 - barambani/http4s-poc-api
 - barambani/laws
 - bartholomews/fsclient
+- bcarter97/id-generator
 - beautiful-scala/sbt-scalastyle
 - beautiful-scala/scalastyle
 - BenFradet/gsheets4s
