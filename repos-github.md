@@ -534,7 +534,12 @@
 - guardian/invoicing-api
 - guardian/manage-help-content-publisher
 - guardian/members-data-api
+- guardian/ophan-backfill-step-function
+- guardian/ophan-geoip-db-refresher
+- guardian/ophan-housekeeper
 - guardian/payment-failure-comms
+- guardian/play-googleauth
+- guardian/play-secret-rotation
 - guardian/price-migration-engine
 - guardian/salesforce-message-handler
 - guardian/support-service-lambdas
