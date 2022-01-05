@@ -893,6 +893,7 @@
 - ornicar/lila-fishnet
 - ornicar/lila-search
 - ornicar/lila-ws
+- ornicar/scalachess
 - outwatch/outwatch
 - outwatch/seed.g8
 - ovotech/ciris-aiven-kafka
