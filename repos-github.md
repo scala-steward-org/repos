@@ -1468,6 +1468,7 @@
 - user-signal/fs2-mqtt
 - usommerl/graalnative4s
 - vadimbakaev/scala-fast-start
+- valentinHenry/blaireau
 - valskalla/odin
 - vasilmkd/docker-stats-monitor
 - vaslabs/sbt-kubeyml
