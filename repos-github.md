@@ -107,11 +107,14 @@
 - azavea/stac4s
 - azhur/kafka-serde-scala
 - balhoff/arachne
+- balhoff/archimedes
+- balhoff/blazegraph-runner
 - balhoff/materializer
 - balhoff/owl-diff
 - balhoff/owl-to-rules
 - balhoff/relation-graph
 - balhoff/whelk
+- balhoff/whelk-web
 - barambani/docker-effect
 - barambani/http4s-poc-api
 - barambani/laws
