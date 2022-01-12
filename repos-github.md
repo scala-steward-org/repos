@@ -648,7 +648,7 @@
 - jwt-scala/jwt-scala
 - JWWeatherman/pay-model
 - jxnu-liguobin/scala-macro-tools
-- kag0/ninny-json
+- nrktkt/ninny-json
 - kailuowang/henkan
 - kailuowang/mau
 - katlasik/functionmeta
