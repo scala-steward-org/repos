@@ -661,6 +661,7 @@
 - kelnos/tut-maven-plugin
 - kemitix/thorp
 - kiambogo/fs2-jms
+- kiendang/python-native-libs
 - kinoplan/scalajs-react-material-ui
 - kinoplan/utils
 - kitlangton/zio-magic
