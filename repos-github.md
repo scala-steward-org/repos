@@ -1208,6 +1208,8 @@
 - shadaj/slinky
 - shankarshastri/ScalaFPCode
 - shankarshastri/scala-proj-template
+- ShiftLeftSecurity/overflowdb
+- ShiftLeftSecurity/codepropertygraph
 - shopstic/chopsticks
 - sideeffffect/sbt-decent-scala
 - sideeffffect/zio-doobie
