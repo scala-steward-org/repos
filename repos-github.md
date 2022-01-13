@@ -1112,6 +1112,7 @@
 - scalacenter/sbt-scalafix-example
 - scalacenter/sbt-version-policy
 - scalacenter/scala3-migrate
+- scalacenter/scaladex
 - scalacenter/scalafix
 - scalacenter/scalafix.g8
 - scalacenter/scalajs-bundler
