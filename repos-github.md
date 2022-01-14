@@ -1483,6 +1483,7 @@
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
 - vder/taskforce
+- velocidi/apso
 - vertical-blank/scala-sql-formatter
 - vigoo/clipp
 - vigoo/desert
