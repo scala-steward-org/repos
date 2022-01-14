@@ -668,6 +668,7 @@
 - kmizu/jsonda
 - kmizu/matlike
 - kmizu/pegex
+- kontainers/elastic4s-client-aws
 - kontainers/micrometer-akka
 - kontainers/PureCSV
 - kovszilard/smenu
