@@ -567,6 +567,7 @@
 - hajlaoui-nader/books 
 - hayasshi/akka-http-router
 - hipjim/scala-retry
+- hireproof/screening
 - hntd187/spotify
 - holidaycheck/easy-akka-http
 - hrj/abandon
