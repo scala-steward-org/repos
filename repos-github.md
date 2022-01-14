@@ -638,6 +638,7 @@
 - joan38/kubernetes-client
 - joan38/mill-git
 - joan38/mill-scalafix
+- joernio/joern
 - joesan/plant-simulator
 - johannes-ebbighausen/oker
 - johnynek/bosatsu
@@ -1212,7 +1213,10 @@
 - shankarshastri/ScalaFPCode
 - shankarshastri/scala-proj-template
 - ShiftLeftSecurity/codepropertygraph
+- ShiftLeftSecurity/js2cpg
 - ShiftLeftSecurity/overflowdb
+- ShiftLeftSecurity/overflowdb-codegen
+- ShiftLeftSecurity/sbt-ci-release-early
 - shopstic/chopsticks
 - sideeffffect/sbt-decent-scala
 - sideeffffect/zio-doobie
