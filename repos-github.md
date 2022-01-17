@@ -1277,7 +1277,6 @@
 - srenault/sre-api
 - sritchie/scala-rl
 - starlake-ai/starlake
-- stephennancekivell/scalatest-json
 - streetcontxt/kcl-akka-stream
 - stripe/agate
 - stripe/dagon
