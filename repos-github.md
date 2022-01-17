@@ -939,6 +939,7 @@
 - Philippus/julius
 - Philippus/julius-iii
 - Philippus/pureconfig-javanet
+- Philippus/sbt-licencias
 - Philippus/scala-for-all
 - Philippus/scala-isbn
 - picnicml/doddle-model
