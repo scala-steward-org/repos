@@ -1237,6 +1237,7 @@
 - Slakah/slakah.github.io
 - Slakah/uritemplate4s
 - slick/slick
+- slick/slick-codegen-example
 - sloshy/fs2-es
 - snowplow-incubator/cla-bot
 - snowplow-incubator/snowplow-indicative-relay
