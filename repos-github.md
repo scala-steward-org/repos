@@ -311,6 +311,8 @@
 - debasishg/tradeioZ
 - debasishg/tradeioZ2
 - debiki/talkyard
+- delimobil/cabbit
+- delimobil/cabbit-example
 - DFiantHDL/DFiant
 - diamantidis/scala-screenshots
 - dieproht/matr
