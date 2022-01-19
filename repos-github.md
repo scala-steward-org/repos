@@ -1160,6 +1160,7 @@
 - scala-tsi/scala-tsi
 - scala-ts/scala-ts
 - scala/hello-world.g8
+- scala/jardiff
 - scala/make-release-notes
 - scala/nanotest-strawman
 - scala/sbt-scala-module
