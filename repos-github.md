@@ -804,6 +804,7 @@
 - michaelmior/eson-mining
 - michaelmior/eson-scala
 - miciek/grokkingfp-examples
+- miguel-vila/steve
 - milessabin/shapeless
 - mitochon/polyjuice
 - mockito/mockito-scala
