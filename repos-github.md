@@ -935,6 +935,7 @@
 - Philippus/emoji-clock
 - Philippus/julius
 - Philippus/julius-iii
+- Philippus/osita
 - Philippus/pureconfig-javanet
 - Philippus/sbt-licencias
 - Philippus/scala-for-all
