@@ -720,6 +720,8 @@
 - liancheng/scalafix-organize-imports
 - librecaptcha/lc-core
 - lightbend/benchdb
+- lightbend/cloudflow
+- lightbend/cloudflow-contrib
 - lightbend/genjavadoc
 - lightbend/kafka-lag-exporter
 - lightbend/lightbend-emoji
