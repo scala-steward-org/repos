@@ -927,6 +927,7 @@
 - phenoscape/owlery
 - phenoscape/owlet
 - phenoscape/phenoscape-kb-services
+- phenoscape/phenoscape-kb-web-ui
 - phenoscape/scowl
 - phenoscape/sparql-utils
 - Philippus/baggage-jwt
