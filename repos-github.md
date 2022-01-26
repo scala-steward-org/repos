@@ -847,6 +847,7 @@
 - nafg/slick-migration-api
 - nafg/slick-migration-api-flyway
 - namely/chief-of-state
+- naoh87/lettucef
 - navicore/akka-eventhubs
 - navicore/ehtail
 - navicore/lots-of-names
