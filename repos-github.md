@@ -182,7 +182,6 @@
 - chmodas/akka-persistence-r2dbc
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
-- typelevel/cats-time
 - ChristopherDavenport/circuit
 - ChristopherDavenport/circuit-http4s
 - ChristopherDavenport/cormorant
@@ -1430,6 +1429,7 @@
 - typelevel/cats-parse
 - typelevel/cats-tagless
 - typelevel/cats-testkit-scalatest
+- typelevel/cats-time
 - typelevel/ce3.g8
 - typelevel/coop
 - typelevel/discipline
