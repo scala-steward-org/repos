@@ -30,6 +30,7 @@
 - akka/akka-paradox
 - akka/akka-persistence-cassandra
 - akka/akka-persistence-jdbc
+- akka/akka-persistence-r2dbc
 - akka/akka-persistence-spanner
 - akka/akka-projection
 - akka/akka-sample-cluster-docker-compose-java
