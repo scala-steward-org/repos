@@ -182,7 +182,7 @@
 - chmodas/akka-persistence-r2dbc
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
-- ChristopherDavenport/cats-time
+- typelevel/cats-time
 - ChristopherDavenport/circuit
 - ChristopherDavenport/circuit-http4s
 - ChristopherDavenport/cormorant
