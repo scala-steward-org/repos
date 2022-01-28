@@ -1,4 +1,3 @@
-- nivanov/cosplay
 - 2m/authors
 - 2m/auto-gate
 - 2m/ciris-hocon
@@ -872,6 +871,7 @@
 - niqdev/caliban-extras
 - niqdev/kafka-scala-examples
 - niqdev/scala-fp
+- nivanov/cosplay
 - NomadBlacky/digdag-plugin-datadog
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
