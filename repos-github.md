@@ -559,6 +559,7 @@
 - guizmaii/scala-nimbus-jose-jwt
 - gvolpe/pfps-examples
 - gvolpe/pfps-shopping-cart
+- gvolpe/trading
 - hablapps/doric
 - hagay3/skuber
 - hajlaoui-nader/books 
