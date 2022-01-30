@@ -1,4 +1,3 @@
-- apache/incubator-nlpcraft
 - 2m/authors
 - 2m/auto-gate
 - 2m/ciris-hocon
@@ -78,6 +77,7 @@
 - ant8e/sbt-i18n
 - an-tex/sc8s
 - apache/daffodil
+- apache/incubator-nlpcraft
 - apimorphism/telegramium
 - armanbilge/cheshire
 - armanbilge/gcp4s
