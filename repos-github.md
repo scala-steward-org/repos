@@ -99,6 +99,7 @@
 - augustjune/canoe
 - av8data/add_transformers
 - avast/datadog4s
+- avast/datadog4s:series/cats-effect2
 - avast/grpc-json-bridge
 - avast/scala-server-toolkit
 - avast/slog4s
