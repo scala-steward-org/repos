@@ -1104,6 +1104,7 @@
 - sangria-graphql/sangria-spray-json
 - sangria-graphql/sangria-streaming-api
 - satabin/fs2-data
+- sbt-dao-generator/sbt-dao-generator
 - sbt/sbt-autoversion
 - sbt/sbt-avro
 - sbt/sbt-duplicates-finder
@@ -1214,7 +1215,6 @@
 - senia-psm/zio-test-akka-http
 - sentenza/cats-http4s-crypto
 - sentenza/hacktoberfest-scala-algorithms
-- septeni-original/sbt-dao-generator
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
 - shadaj/scalapy
