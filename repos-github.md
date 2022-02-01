@@ -780,6 +780,7 @@
 - matsluni/aws-spi-akka-http
 - mauriciojost/main4ino-server
 - mauriciojost/olympus-photosync
+- maxim092001/stock-exchange-platform
 - maximn/coding-interview-questions-scala
 - maximn/scala-workshop
 - maximn/TaxCalculator
