@@ -343,8 +343,10 @@
 - Dwolla/fs2-aws
 - Dwolla/fs2-pgp
 - Dwolla/iam-user-cleanup
+- Dwolla/mysql-init-custom-resource
 - Dwolla/postgresql-init-custom-resource
 - Dwolla/rabbitmq-topology-backup
+- Dwolla/sbt-docker-containers
 - Dwolla/scala-cloudflare
 - Dwolla/scala-cloudformation-custom-resource
 - Dwolla/scala-secure-config
