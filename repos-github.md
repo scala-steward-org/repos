@@ -695,6 +695,7 @@
 - laserdisc-io/laserdisc
 - laserdisc-io/log-effect
 - laserdisc-io/mysql-binlog-stream
+- laserdisc-io/slack4s
 - laserdisc-io/tamer
 - laserdisc-io/zio-oci-objectstorage
 - lasp/hapi-server
