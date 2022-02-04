@@ -1216,6 +1216,7 @@
 - scullxbones/akka-persistence-mongo
 - seblm/sbt-jgiven-scalatest-reporter
 - seblm/seblm-meals
+- sebver/scala-steward-demo
 - senia-psm/zio-test-akka-http
 - sentenza/cats-http4s-crypto
 - sentenza/hacktoberfest-scala-algorithms
