@@ -819,7 +819,6 @@
 - mockito/mockito-scala
 - moia-dev/streamee
 - molikto/medit
-- molikto/mlang
 - monadless/monadless
 - monix/minitest
 - monix/monix
@@ -1208,7 +1207,6 @@
 - scodec/scodec
 - scodec/scodec-bits
 - scodec/scodec-build
-- scodec/scodec-stream
 - ScoreUnder/canti-bot
 - scoverage/sbt-coveralls
 - scoverage/sbt-scoverage
@@ -1292,7 +1290,6 @@
 - sritchie/scala-rl
 - starlake-ai/starlake
 - streetcontxt/kcl-akka-stream
-- stripe/agate
 - stripe/dagon
 - stryker-mutator/mutation-testing-elements
 - stryker-mutator/stryker4s
