@@ -598,7 +598,6 @@
 - iheartradio/thomas
 - ikhoon/scalapb-reactor
 - ilya-murzinov/finch-todo-backend
-- imazsak/imazsak
 - implmnt/mercator-cats
 - implmnt/scalacheck-magnolia
 - INCATools/boomer
