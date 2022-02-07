@@ -1183,7 +1183,6 @@
 - scala/scala-dist-smoketest
 - scala/scala-java8-compat
 - scala/scala-library-next
-- scala/scala-module-dependency-sample
 - scala/scala-parallel-collections
 - scala/scala-parser-combinators
 - scala/scala-rewrites
