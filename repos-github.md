@@ -919,7 +919,6 @@
 - pathikrit/dijon
 - paulbutcher/ScalaMock
 - pauljamescleary/scala-pet-store
-- pawelkaczor/akka-persistence-kafka
 - payalabs/scalajs-react-bridge
 - pbernet/akka_streams_tutorial
 - pdalpra/computer-database
