@@ -158,6 +158,7 @@
 - brsyuksel/xurl
 - buildo/retro
 - build-server-protocol/build-server-protocol
+- buntec/ff4s
 - Bunyod/PracticalFPinScala
 - BusyByte/flutterby
 - butcherless/incubator
