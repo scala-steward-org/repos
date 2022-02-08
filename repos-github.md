@@ -965,9 +965,9 @@
 - pityka/utils-string
 - pjan/akka-d3
 - playalot/ReactiveMongo-Extensions
+- playframework/.github
 - playframework/anorm
 - playframework/cachecontrol
-- playframework/.github
 - playframework/interplay
 - playframework/js-engine
 - playframework/netty-reactive-streams
@@ -1118,9 +1118,9 @@
 - sangria-graphql/sangria-streaming-api
 - satabin/fs2-data
 - sbt-dao-generator/sbt-dao-generator
-- sbt/sbt-coffeescript
 - sbt/sbt-autoversion
 - sbt/sbt-avro
+- sbt/sbt-coffeescript
 - sbt/sbt-concat
 - sbt/sbt-digest
 - sbt/sbt-duplicates-finder
@@ -1131,8 +1131,8 @@
 - sbt/sbt-jacoco
 - sbt/sbt-java-formatter
 - sbt/sbt-jni
-- sbt/sbt-js-engine
 - sbt/sbt-jshint
+- sbt/sbt-js-engine
 - sbt/sbt-less
 - sbt/sbt-mocha
 - sbt/sbt-rjs
