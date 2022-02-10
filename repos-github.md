@@ -1145,6 +1145,7 @@
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
 - ScalablyTyped/Converter
+- scalacenter/effective-scala-slide-code
 - scalacenter/library-example
 - scalacenter/sbt-eviction-rules
 - scalacenter/sbt-scalafix
@@ -1153,7 +1154,6 @@
 - scalacenter/scala3-migrate
 - scalacenter/scaladex
 - scalacenter/scalafix
-- scalacenter/effective-scala-slide-code
 - scalacenter/scalafix.g8
 - scalacenter/scalajs-bundler
 - scalacenter/scala-3-migration-guide
