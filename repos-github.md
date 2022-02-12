@@ -353,8 +353,6 @@
 - Dwolla/scala-test-utils
 - Dwolla/scheduled-maintenance
 - dylandoamaral/zinteract
-- earldouglas/xsbt-web-plugin
-- earldouglas/xsbt-web-plugin.g8
 - ecyshor/akka-consul-lease
 - EffectOrientedProgramming/book
 - eikek/binny
