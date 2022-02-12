@@ -577,6 +577,7 @@
 - hseeberger/akkluster
 - hseeberger/slf4s
 - http4s/blaze
+- http4s/hpack
 - http4s/http4s
 - http4s/http4s.g8
 - http4s/http4s-armeria
