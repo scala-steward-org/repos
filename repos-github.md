@@ -1140,6 +1140,7 @@
 - sbt/sbt-unidoc
 - sbt/sbt-web
 - sbt/sbt-web-build-base
+- sbt/zinc
 - scala2ts/scala2ts-core
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
