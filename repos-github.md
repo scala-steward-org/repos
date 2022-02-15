@@ -380,8 +380,8 @@
 - enlivensystems/invoicing-hungarian
 - enlivensystems/scala-iso
 - enzief/recursionz
-- erikerlandson/coulomb:scala3
 - erikerlandson/coulomb
+- erikerlandson/coulomb:scala3
 - erikvanoosten/metrics-scala
 - esamson/better-xdg
 - esamson/remder
