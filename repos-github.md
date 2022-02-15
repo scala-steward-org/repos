@@ -22,6 +22,7 @@
 - agourlay/json-2-csv
 - agustafson/cats-quartz
 - ahjohannessen/sec
+- ahjohannessen/unum
 - akka/akka
 - akka/akka-grpc
 - akka/akka-grpc-sample-kubernetes-scala
