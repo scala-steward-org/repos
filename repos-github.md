@@ -1566,7 +1566,6 @@
 - wiringbits/wiringbits-webapp-utils
 - wvlet/airframe
 - wvlet/wvlet
-- X9Developers/stakenet-orderbook
 - xencura/kagera
 - xerial/sbt-pack
 - xerial/sbt-sonatype
