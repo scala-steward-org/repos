@@ -182,6 +182,7 @@
 - channingwalton/http4sWS
 - chenharryhua/nanjin
 - che-samples/scala-sbt
+- chief-of-state/chief-of-state
 - chmodas/akka-persistence-r2dbc
 - ChristopherDavenport/agitation
 - ChristopherDavenport/bank
@@ -1619,4 +1620,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- chief-of-state/chief-of-state
