@@ -1619,3 +1619,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- chief-of-state/chief-of-state
