@@ -288,8 +288,8 @@
 - daandi/nice-url-encode-decode
 - DanielaSfregola/random-data-generator
 - DanielaSfregola/twitter4s
-- DanielaSfregola/twitter4s-demo
 - DanielaSfregola/twitter4s.g8
+- DanielaSfregola/twitter4s-demo
 - danieletorelli/loan-cashflows-api
 - dapperware/zio-slack
 - DataBiosphere/leonardo
@@ -306,9 +306,9 @@
 - DavidGregory084/mill-tpolecat
 - debasishg/effRedis
 - debasishg/frdomain-extras
-- debasishg/tradeioZ2
-- debasishg/tradeioZ
 - debasishg/tradeio
+- debasishg/tradeioZ
+- debasishg/tradeioZ2
 - debiki/talkyard
 - delimobil/cabbit
 - delimobil/cabbit-example
@@ -479,8 +479,8 @@
 - fthomas/status-page
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
-- fun-stack/fun-stack-scala
 - fun-stack/fun-stack.g8
+- fun-stack/fun-stack-scala
 - fun-stack/lambda-server 
 - gearpump/gearpump
 - geirolz/advxml
@@ -517,8 +517,8 @@
 - gfc-collective/gfc-id
 - gfc-collective/gfc-logging
 - gfc-collective/gfc-semver
-- gfc-collective/gfc-timeuuid
 - gfc-collective/gfc-time
+- gfc-collective/gfc-timeuuid
 - gfc-collective/gfc-util
 - gfc-collective/gfc-vavr
 - gfc-collective/sbt-aws-lambda
@@ -581,6 +581,7 @@
 - http4s/blaze
 - http4s/hpack
 - http4s/http4s
+- http4s/http4s.g8
 - http4s/http4s-armeria
 - http4s/http4s-crypto
 - http4s/http4s-dom
@@ -589,7 +590,6 @@
 - http4s/http4s-jdk-http-client
 - http4s/http4s-netty
 - http4s/http4s-session
-- http4s/http4s.g8
 - http4s/http4s:series/0.22
 - http4s/http4s:series/0.23
 - http4s/rho
@@ -831,9 +831,9 @@
 - msgpack/msgpack-java
 - mvillafuertem/akka-zio
 - mvillafuertem/mdoc-modifier
+- mvillafuertem/scala
 - mvillafuertem/scalajs-react-hooks
 - mvillafuertem/scalajs-react-world
-- mvillafuertem/scala
 - mvillafuertem/scala-seed
 - mvillafuertem/scalcite
 - mwz/sbt-sonar
@@ -969,6 +969,7 @@
 - pityka/utils-string
 - pjan/akka-d3
 - playalot/ReactiveMongo-Extensions
+- playframework/.github
 - playframework/anorm
 - playframework/cachecontrol
 - playframework/interplay
@@ -996,7 +997,6 @@
 - playframework/play-ws
 - playframework/scalatestplus-play
 - playframework/twirl
-- playframework/.github
 - plokhotnyuk/expression-evaluator
 - plokhotnyuk/fast-string-interpolator
 - plokhotnyuk/jsoniter-scala
@@ -1204,11 +1204,11 @@
 - scala/make-release-notes
 - scala/nanotest-strawman
 - scala/sbt-scala-module
+- scala/scala
+- scala/scala3.g8
 - scala/scala3-cross.g8
 - scala/scala3-example-project
-- scala/scala3.g8
 - scala/scalatest-example.g8
-- scala/scala
 - scala/scala-async
 - scala/scala-collection-compat
 - scala/scala-collection-contrib
@@ -1312,8 +1312,8 @@
 - spotify/noether
 - spotify/ratatool
 - spotify/scio
-- spotify/scio-idea-plugin
 - spotify/scio.g8
+- spotify/scio-idea-plugin
 - spotify/tfreader
 - srenault/sre-api
 - sritchie/scala-rl
@@ -1375,8 +1375,8 @@
 - ThoughtWorksInc/Binding.scala
 - ThoughtWorksInc/Compute.scala
 - ThoughtWorksInc/DeepLearning.scala
-- ThoughtWorksInc/dsl-domains-cats
 - ThoughtWorksInc/Dsl.scala
+- ThoughtWorksInc/dsl-domains-cats
 - ThoughtWorksInc/each
 - ThoughtWorksInc/enableIf.scala
 - ThoughtWorksInc/Extractor.scala
