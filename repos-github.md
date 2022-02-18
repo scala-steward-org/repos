@@ -39,6 +39,7 @@
 - akka/akka-sample-cluster-kubernetes-dns-java
 - akka/akka-sample-cluster-kubernetes-scala
 - akka/alpakka-kafka
+- aiven/guardian-for-apache-kafka
 - albuch/sbt-dependency-check
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
