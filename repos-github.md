@@ -23,6 +23,7 @@
 - agustafson/cats-quartz
 - ahjohannessen/sec
 - ahjohannessen/unum
+- aiven/guardian-for-apache-kafka
 - akka/akka
 - akka/akka-grpc
 - akka/akka-grpc-sample-kubernetes-scala
@@ -39,7 +40,6 @@
 - akka/akka-sample-cluster-kubernetes-dns-java
 - akka/akka-sample-cluster-kubernetes-scala
 - akka/alpakka-kafka
-- aiven/guardian-for-apache-kafka
 - albuch/sbt-dependency-check
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
