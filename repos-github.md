@@ -669,6 +669,8 @@
 - kiendang/python-native-libs
 - kinoplan/scalajs-react-material-ui
 - kinoplan/utils
+- kitlangton/animus
+- kitlangton/parallel-for
 - kitlangton/zio-magic
 - klassic/klassic
 - kmizu/jsonda
