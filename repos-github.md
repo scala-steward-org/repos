@@ -1405,6 +1405,7 @@
 - tkrs/fluflu
 - tkrs/mess
 - tkrs/orcus
+- tminglei/slick-pg
 - TobiasRoland/scala-xml-encoder
 - toddburnside/scalajs-react-table
 - toddburnside/scalajs-react-virtuoso
