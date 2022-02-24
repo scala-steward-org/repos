@@ -480,7 +480,7 @@
 - fthomas/status-page
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
-- fun-stack/fun-stack.g8
+- fun-stack/fun-stack-example
 - fun-stack/fun-stack-scala
 - fun-stack/lambda-server 
 - gearpump/gearpump
