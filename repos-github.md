@@ -1398,6 +1398,12 @@
 - TimWSpence/cats-stm
 - TinkoffCreditSystems/phobos
 - TinkoffCreditSystems/typed-schema
+- Tinkoff/gatling-amqp-plugin
+- Tinkoff/gatling-kafka-plugin
+- Tinkoff/gatling-jdbc-plugin
+- Tinkoff/gatling-picatinny
+- Tinkoff/gatling-template.g8
+- Tinkoff/sbt-schema-registry-plugin
 - tixxit/delimited
 - tjheslin1/DMsPredictor
 - tkrs/fluflu
