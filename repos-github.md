@@ -483,7 +483,6 @@
 - fun-stack/fun-stack-example
 - fun-stack/fun-stack-scala
 - fun-stack/lambda-server 
-- gearpump/gearpump
 - geirolz/advxml
 - geirolz/erules
 - geirolz/fly4s
