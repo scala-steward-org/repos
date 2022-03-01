@@ -540,6 +540,8 @@
 - guardian/manage-help-content-publisher
 - guardian/marley
 - guardian/members-data-api
+- guardian/membership-common
+- guardian/membership-frontend
 - guardian/ophan-backfill-step-function
 - guardian/ophan-geoip-db-refresher
 - guardian/ophan-housekeeper
@@ -548,6 +550,7 @@
 - guardian/play-secret-rotation
 - guardian/price-migration-engine
 - guardian/salesforce-message-handler
+- guardian/support-frontend
 - guardian/support-service-lambdas
 - guardian/zuora-6for6-modifier
 - guardian/zuora-creditor
