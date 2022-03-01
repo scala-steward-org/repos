@@ -539,9 +539,9 @@
 - guardian/invoicing-api
 - guardian/manage-help-content-publisher
 - guardian/marley
-- guardian/members-data-api
 - guardian/membership-common
 - guardian/membership-frontend
+- guardian/members-data-api
 - guardian/ophan-backfill-step-function
 - guardian/ophan-geoip-db-refresher
 - guardian/ophan-housekeeper
