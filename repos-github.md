@@ -800,6 +800,7 @@
 - mbuzdalov/one-plus-lambda-on-onemax
 - mbuzdalov/orthant-search
 - mbuzdalov/unbiased-bbc
+- mdedetrich/akka-streams-json
 - medeia/medeia
 - mefellows/sbt-dotenv
 - metabookmarks/lagom-silhouette
