@@ -802,7 +802,6 @@
 - mbuzdalov/unbiased-bbc
 - mdedetrich/akka-streams-json
 - medeia/medeia
-- mefellows/sbt-dotenv
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
 - metarank/cfor
@@ -954,6 +953,7 @@
 - Philippus/julius-iii
 - Philippus/osita
 - Philippus/pureconfig-javanet
+- Philippus/sbt-dotenv
 - Philippus/sbt-licencias
 - Philippus/scala-for-all
 - Philippus/scala-isbn
