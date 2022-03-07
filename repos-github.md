@@ -1134,6 +1134,7 @@
 - sbt/sbt-duplicates-finder
 - sbt/sbt-eclipse
 - sbt/sbt-fresh
+- sbt/sbt-git
 - sbt/sbt-gzip
 - sbt/sbt-header
 - sbt/sbt-jacoco
