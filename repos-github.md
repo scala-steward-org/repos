@@ -583,7 +583,6 @@
 - hseeberger/slf4s
 - http4s/blaze
 - http4s/hpack
-- http4s/http4s
 - http4s/http4s.g8
 - http4s/http4s-armeria
 - http4s/http4s-crypto
@@ -593,6 +592,7 @@
 - http4s/http4s-jdk-http-client
 - http4s/http4s-netty
 - http4s/http4s-session
+- http4s/http4s:main
 - http4s/http4s:series/0.22
 - http4s/http4s:series/0.23
 - http4s/rho
