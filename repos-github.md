@@ -357,6 +357,7 @@
 - Dwolla/scheduled-maintenance
 - dylandoamaral/zinteract
 - ecyshor/akka-consul-lease
+- eed3si9n/expecty
 - EffectOrientedProgramming/book
 - eikek/binny
 - eikek/calev
