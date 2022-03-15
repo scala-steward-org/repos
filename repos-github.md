@@ -1204,6 +1204,7 @@
 - scala-steward-org/scala-steward
 - scala-steward-org/test-repo-2
 - scala-steward-org/test-repo-2:test-branch
+- scala-tessella/ring-seq
 - scala-tsi/scala-tsi
 - scala-ts/scala-ts
 - scala/hello-world.g8
