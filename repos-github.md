@@ -730,6 +730,7 @@
 - leobenkel/Laeta
 - leobenkel/Soteria
 - leobenkel/Zparkio
+- LesnyRumcajs/grpc_bench
 - lewisjkl/kafkakit
 - liancheng/scalafix-organize-imports
 - librecaptcha/lc-core
