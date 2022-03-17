@@ -607,6 +607,7 @@
 - ilya-murzinov/finch-todo-backend
 - implmnt/mercator-cats
 - implmnt/scalacheck-magnolia
+- informalsystems/apalache
 - INCATools/boomer
 - INCATools/dosdp-tools
 - IndiscriminateCoding/api4s
