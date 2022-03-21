@@ -167,6 +167,7 @@
 - butcherless/scala
 - butcherless/tapir-learn
 - carlosedp/scalautils
+- carlosedp/chiselv
 - carueda/tscfg
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
