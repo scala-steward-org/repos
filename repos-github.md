@@ -641,7 +641,6 @@
 - jirkavrba/vse-verification-bot
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
-- jlvertol/listgen-app
 - joan38/kafka-streams-circe
 - joan38/kubernetes-client
 - joan38/mill-git
