@@ -592,7 +592,8 @@
 - http4s/http4s-fabric
 - http4s/http4s-finagle
 - http4s/http4s-io.g8
-- http4s/http4s-jdk-http-client
+- http4s/http4s-jdk-http-client:main
+- http4s/http4s-jdk-http-client:series/0.7
 - http4s/http4s-netty
 - http4s/http4s-session
 - http4s/http4s:main
