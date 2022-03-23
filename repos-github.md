@@ -1013,7 +1013,6 @@
 - plokhotnyuk/fast-string-interpolator
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
-- pluralsight/hydra
 - polyvariant/better-tostring
 - polyvariant/caliban-gitlab
 - polyvariant/doobie-quill
