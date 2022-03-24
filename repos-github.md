@@ -865,9 +865,6 @@
 - nafg/slick-migration-api-flyway
 - namely/chief-of-state
 - naoh87/lettucef
-- nationalarchives/tdr-checksum
-- nationalarchives/tdr-consignment-api
-- nationalarchives/tdr-transfer-frontend
 - navicore/akka-eventhubs
 - navicore/ehtail
 - navicore/lots-of-names
