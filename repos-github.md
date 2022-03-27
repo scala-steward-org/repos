@@ -81,6 +81,7 @@
 - apache/daffodil
 - apache/incubator-nlpcraft
 - apimorphism/telegramium
+- armanbilge/calico
 - armanbilge/cheshire
 - armanbilge/gcp4s
 - armanbilge/schrodinger
