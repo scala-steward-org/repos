@@ -1583,6 +1583,7 @@
 - wiringbits/scala-webapp-template
 - wiringbits/sjs-material-ui-facade
 - wiringbits/wiringbits-webapp-utils
+- wjglerum/bamboesmanager
 - wvlet/airframe
 - wvlet/wvlet
 - xencura/kagera
