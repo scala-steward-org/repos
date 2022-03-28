@@ -487,6 +487,7 @@
 - fun-stack/fun-stack-scala
 - fun-stack/lambda-server 
 - geirolz/advxml
+- geirolz/cats-xml
 - geirolz/erules
 - geirolz/fly4s
 - geirolz/fp-microservice
