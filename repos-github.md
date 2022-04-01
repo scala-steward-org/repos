@@ -662,6 +662,7 @@
 - jxnu-liguobin/scala-macro-tools
 - kailuowang/henkan
 - kailuowang/mau
+- kailuowang/sbt-catalysts
 - kaizen-solutions/virgil
 - katlasik/functionmeta
 - kcrypt/scala-biginteger
