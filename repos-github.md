@@ -157,6 +157,7 @@
 - brbrown25/macros
 - broadinstitute/cromwell
 - broadinstitute/leonardo-cron-jobs
+- broadinstitute/sam
 - broadinstitute/workbench-libs
 - brsyuksel/xurl
 - buildo/retro
