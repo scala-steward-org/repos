@@ -307,6 +307,7 @@
 - davenverse/cats-effect-time
 - davenverse/cats-scalacheck
 - DavidGregory084/mill-tpolecat
+- deanwampler/programming-scala-book-code-examples
 - debasishg/effRedis
 - debasishg/frdomain-extras
 - debasishg/tradeio
