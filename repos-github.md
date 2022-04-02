@@ -485,8 +485,8 @@
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
 - fun-stack/example
-- fun-stack/sdk-scala
 - fun-stack/local-env 
+- fun-stack/sdk-scala
 - geirolz/advxml
 - geirolz/cats-xml
 - geirolz/erules
