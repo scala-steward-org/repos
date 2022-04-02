@@ -484,9 +484,9 @@
 - fthomas/status-page
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
-- fun-stack/fun-stack-example
-- fun-stack/fun-stack-scala
-- fun-stack/lambda-server 
+- fun-stack/example
+- fun-stack/sdk-scala
+- fun-stack/local-env 
 - geirolz/advxml
 - geirolz/cats-xml
 - geirolz/erules
