@@ -1337,7 +1337,6 @@
 - stryker-mutator/mutation-testing-elements
 - stryker-mutator/stryker4s
 - stryker-mutator/weapon-regex
-- sullis/alpakka-jms-example
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/scala-hello-world-app
