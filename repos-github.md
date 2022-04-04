@@ -736,6 +736,7 @@
 - lenguyenthanh/steve
 - leobenkel/Laeta
 - leobenkel/Soteria
+- leobenkel/umlclassdiagram
 - leobenkel/Zparkio
 - LesnyRumcajs/grpc_bench
 - lewisjkl/kafkakit
