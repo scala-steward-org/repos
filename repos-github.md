@@ -1408,6 +1408,7 @@
 - ThoughtWorksInc/sde
 - ThoughtWorksInc/todo
 - ThoughtWorksInc/tryt.scala
+- timshen24/functional-spark
 - TimWSpence/cats-stm
 - TinkoffCreditSystems/phobos
 - TinkoffCreditSystems/typed-schema
@@ -1642,4 +1643,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- timshen24/functional-spark
