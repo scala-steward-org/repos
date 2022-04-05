@@ -1642,3 +1642,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- timshen24/functional-spark
