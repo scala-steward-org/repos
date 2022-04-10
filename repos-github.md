@@ -793,6 +793,7 @@
 - m2-oss/calypso
 - macro-peg/macro_peg
 - magott/scravatar
+- majk-p/identicon4s
 - makiftutuncu/e
 - martinpallmann/gchat
 - matsluni/aws-spi-akka-http
