@@ -1313,6 +1313,7 @@
 - softwaremill/sttp-model
 - softwaremill/sttp-shared
 - softwaremill/tapir
+- softwaremill/macwire
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
 - SoMind/authz-verify-proxy
