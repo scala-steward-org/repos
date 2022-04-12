@@ -281,6 +281,7 @@
 - cquiroz/scalajs-react-virtualized
 - cquiroz/scala-java-locales
 - cquiroz/scala-java-time
+- cr-org/neutron
 - crealytics/spark-excel
 - criteo/cuttle
 - criteo/lolhttp
