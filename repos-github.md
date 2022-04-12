@@ -1305,6 +1305,7 @@
 - softwaremill/diffx
 - softwaremill/elasticmq
 - softwaremill/livestub
+- softwaremill/macwire
 - softwaremill/magnolia
 - softwaremill/neme-plugin
 - softwaremill/sbt-softwaremill
@@ -1313,7 +1314,6 @@
 - softwaremill/sttp-model
 - softwaremill/sttp-shared
 - softwaremill/tapir
-- softwaremill/macwire
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
 - SoMind/authz-verify-proxy
