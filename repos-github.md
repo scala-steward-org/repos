@@ -581,6 +581,7 @@
 - hipjim/scala-retry
 - hireproof/screening
 - hntd187/spotify
+- home-podcast-content/home-podcast-features
 - holidaycheck/easy-akka-http
 - hrj/abandon
 - hseeberger/akka-http-json
