@@ -1524,6 +1524,7 @@
 - typelevel/simulacrum-scalafix
 - typelevel/spire
 - typelevel/squants
+- typelevel/typelevel.g8
 - typelevel/unique
 - typelevel/vault
 - typelevel/vault:series/2.x
