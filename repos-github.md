@@ -799,6 +799,7 @@
 - magott/scravatar
 - majk-p/identicon4s
 - makiftutuncu/e
+- manocha-aman/wind-alerts
 - martinpallmann/gchat
 - matsluni/aws-spi-akka-http
 - mauriciojost/main4ino-server
