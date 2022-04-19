@@ -600,12 +600,14 @@
 - http4s/http4s-jdk-http-client:series/0.7
 - http4s/http4s-jetty
 - http4s/http4s-netty
+- http4s/http4s-scala-xml-1
 - http4s/http4s-servlet
 - http4s/http4s-session
 - http4s/http4s-tomcat
 - http4s/http4s:main
 - http4s/http4s:series/0.22
 - http4s/http4s:series/0.23
+- http4s/module.g8
 - http4s/rho
 - http4s/sbt-http4s-org
 - huiwang/codingame-scala-kit
