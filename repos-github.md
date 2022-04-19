@@ -387,6 +387,7 @@
 - enlivensystems/couchbase-spark-connector
 - enlivensystems/invoicing-hungarian
 - enlivensystems/scala-iso
+- enriquerodbe/borsh4s
 - enzief/recursionz
 - erikerlandson/coulomb
 - erikerlandson/coulomb:scala3
