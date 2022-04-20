@@ -953,6 +953,7 @@
 - peregin/gps-overlay-on-video
 - peregin/velocorner.com
 - permutive/fs2-google-pubsub
+- peterstorm/scala3-template
 - pfcoperez/thebutlerdidit
 - phdoerfler/beegment
 - phdoerfler/enni
@@ -1656,4 +1657,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- peterstorm/scala3-template
