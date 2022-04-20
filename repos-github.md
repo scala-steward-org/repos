@@ -1656,3 +1656,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- peterstorm/scala3-template
