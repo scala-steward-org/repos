@@ -684,6 +684,7 @@
 - kemitix/thorp
 - kiambogo/fs2-jms
 - kiendang/python-native-libs
+- kiendang/sbt-scalapy
 - kinoplan/scalajs-react-material-ui
 - kinoplan/utils
 - kitlangton/animus
