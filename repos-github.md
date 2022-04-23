@@ -706,6 +706,7 @@
 - kubukoz/library-template.g8
 - kubukoz/slang
 - kubukoz/slick-effect
+- kubukoz/smithy-playground
 - kubukoz/spotify-next
 - kubukoz/steve
 - kubukoz/sup
