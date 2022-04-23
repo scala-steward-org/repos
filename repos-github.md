@@ -169,6 +169,8 @@
 - butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
+- caesarsdigital/trace4cats-zio-extras
+- caesarsdigital/zio-diffx
 - carlosedp/chiselv
 - carlosedp/scalautils
 - carueda/tscfg
