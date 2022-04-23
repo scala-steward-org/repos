@@ -1011,11 +1011,15 @@
 - playframework/play-file-watch
 - playframework/play-generated-docs
 - playframework/play-grpc
+- playframework/play-java-angular-seed
+- playframework/play-java-react-seed
 - playframework/play-java-seed.g8
 - playframework/play-json
 - playframework/play-mailer
 - playframework/play-meta
 - playframework/play-samples
+- playframework/play-scala-angular-seed
+- playframework/play-scala-react-seed
 - playframework/play-scala-seed.g8
 - playframework/play-slick
 - playframework/play-soap
