@@ -845,6 +845,7 @@
 - miguel-vila/steve
 - milessabin/shapeless
 - mitochon/polyjuice
+- mkutr/Scala-Stewart-Merge
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
 - moia-dev/streamee
