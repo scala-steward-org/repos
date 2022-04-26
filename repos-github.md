@@ -160,7 +160,6 @@
 - broadinstitute/cromwell
 - broadinstitute/leonardo-cron-jobs
 - broadinstitute/rawls
-- broadinstitute/sam
 - broadinstitute/workbench-libs
 - brsyuksel/xurl
 - buildo/retro
