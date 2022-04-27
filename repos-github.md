@@ -1450,7 +1450,6 @@
 - tofu-tf/derevo
 - tofu-tf/tofu
 - tomwadeson/scala-barebones
-- TonioGela/blq
 - topl/bifrost
 - ToToTec/CmdOption
 - tototoshi/slick-joda-mapper
