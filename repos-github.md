@@ -16,6 +16,7 @@
 - 7mind/sbtgen
 - 9rb/rchain
 - 100km/stk
+- aaronp/franz
 - abdolence/slack-morphism
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
