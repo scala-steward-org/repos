@@ -609,7 +609,6 @@
 - http4s/http4s-session
 - http4s/http4s-tomcat
 - http4s/http4s:main
-- http4s/http4s:series/0.22
 - http4s/http4s:series/0.23
 - http4s/module.g8
 - http4s/rho
