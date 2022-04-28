@@ -353,6 +353,7 @@
 - Dwolla/consul-to-ecs
 - Dwolla/fs2-aws
 - Dwolla/fs2-pgp
+- Dwolla/http4s-consul-middleware
 - Dwolla/iam-user-cleanup
 - Dwolla/mysql-init-custom-resource
 - Dwolla/postgresql-init-custom-resource
