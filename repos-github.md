@@ -1,5 +1,4 @@
 - 2m/authors
-- 2m/auto-gate
 - 2m/ciris-hocon
 - 2m/citywasp-api
 - 2m/history-of-fishing
