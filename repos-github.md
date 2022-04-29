@@ -848,7 +848,6 @@
 - mitochon/polyjuice
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
-- moia-dev/streamee
 - molikto/medit
 - monadless/monadless
 - monix/minitest
