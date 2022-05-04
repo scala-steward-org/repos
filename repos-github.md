@@ -401,6 +401,7 @@
 - esamson/sbt-groovy
 - etorreborre/specs2
 - etorreborre/specs2-cats
+- etorres/markdown-transformation-kata-scala
 - etorres/train-station
 - etspaceman/kinesis-mock
 - etspaceman/scalacheck-faker
