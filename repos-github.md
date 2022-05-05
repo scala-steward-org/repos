@@ -587,6 +587,7 @@
 - hayasshi/akka-http-router
 - hipjim/scala-retry
 - hireproof/screening
+- hnaderi/edomata
 - hntd187/spotify
 - holidaycheck/easy-akka-http
 - hrj/abandon
