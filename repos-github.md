@@ -321,6 +321,7 @@
 - delimobil/cabbit
 - delimobil/cabbit-example
 - DFiantHDL/DFiant
+- dhpiggott/helios
 - diamantidis/scala-screenshots
 - dieproht/matr
 - dimitarg/bb-webhook
