@@ -852,6 +852,7 @@
 - molikto/medit
 - monadless/monadless
 - monix/minitest
+- monix/monix
 - monix/monix:series/3.x
 - monix/monix:series/4.x
 - monix/monix-bio
