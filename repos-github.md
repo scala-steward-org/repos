@@ -852,11 +852,11 @@
 - molikto/medit
 - monadless/monadless
 - monix/minitest
-- monix/monix:series/3.x
-- monix/monix:series/4.x
 - monix/monix-bio
 - monix/monix-connect
 - monix/monix-kafka
+- monix/monix:series/3.x
+- monix/monix:series/4.x
 - monix/newtypes
 - monksy/serialization-checker
 - msgpack/msgpack-java
