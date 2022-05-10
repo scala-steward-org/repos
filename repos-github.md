@@ -158,8 +158,6 @@
 - bpholt/java-time-literals
 - brbrown25/macros
 - broadinstitute/cromwell
-- broadinstitute/leonardo-cron-jobs
-- broadinstitute/rawls
 - broadinstitute/workbench-libs
 - brsyuksel/xurl
 - buildo/retro
@@ -299,7 +297,6 @@
 - DanielaSfregola/twitter4s-demo
 - danieletorelli/loan-cashflows-api
 - dapperware/zio-slack
-- DataBiosphere/leonardo
 - dataswift/DataPlugs
 - dataswift/HAT2.0
 - dataswift/hat-she-functions
