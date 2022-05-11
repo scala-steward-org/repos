@@ -1577,6 +1577,7 @@
 - vigoo/prox
 - vigoo/scalafxml
 - vigoo/simpp
+- VirtusLab/ide-probe
 - VirtusLab/scala-cli
 - VirtusLab/scala-packager
 - VirtusLab/scala-yaml
