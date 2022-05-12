@@ -344,7 +344,6 @@
 - Dwolla/cloudflare-lambda
 - Dwolla/cloudflare-public-hostname-lambda
 - Dwolla/cloudwatch-alarm-cleanup
-- Dwolla/codecommit-merge-on-comment
 - Dwolla/codestar-human-notifications
 - Dwolla/consul-to-ecs
 - Dwolla/fs2-aws
