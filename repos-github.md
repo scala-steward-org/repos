@@ -729,6 +729,7 @@
 - LeeTibbert/scala-native-trials
 - lefou/mill-aspectj
 - lefou/mill-integrationtest
+- lefou/mill-jacoco
 - lefou/mill-jbake
 - lefou/mill-kotlin
 - lefou/mill-osgi
