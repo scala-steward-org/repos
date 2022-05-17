@@ -609,9 +609,9 @@
 - http4s/http4s-netty
 - http4s/http4s-play-json
 - http4s/http4s-prometheus-metrics
+- http4s/http4s-scalatags
 - http4s/http4s-scala-xml
 - http4s/http4s-scala-xml-1
-- http4s/http4s-scalatags
 - http4s/http4s-servlet
 - http4s/http4s-session
 - http4s/http4s-tomcat
