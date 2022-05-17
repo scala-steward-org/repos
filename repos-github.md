@@ -609,6 +609,7 @@
 - http4s/http4s-module.g8
 - http4s/http4s-netty
 - http4s/http4s-play-json
+- http4s/http4s-prometheus-metrics
 - http4s/http4s-scala-xml
 - http4s/http4s-scala-xml-1
 - http4s/http4s-scalatags
