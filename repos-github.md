@@ -462,6 +462,8 @@
 - finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
+- findify/flink-scala-api
+- findify/flink-adt
 - firstbirdtech/akka-persistence-query-view
 - firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
