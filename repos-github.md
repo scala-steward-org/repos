@@ -43,6 +43,8 @@
 - albuch/sbt-dependency-check
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
+- alephium/alephium
+- alephium/explorer-backend
 - alexandru/typelevel-library.g8
 - alexarchambault/ammonite-runner
 - alexarchambault/ammonite-spark
