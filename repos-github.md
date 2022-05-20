@@ -598,6 +598,7 @@
 - http4s/hpack
 - http4s/http4s.g8
 - http4s/http4s-armeria
+- http4s/http4s-async-http-client
 - http4s/http4s-boopickle
 - http4s/http4s-crypto
 - http4s/http4s-dom
@@ -608,7 +609,9 @@
 - http4s/http4s-jdk-http-client:main
 - http4s/http4s-jdk-http-client:series/0.7
 - http4s/http4s-jetty
+- http4s/http4s-jetty-client
 - http4s/http4s-netty
+- http4s/http4s-okhttp-client
 - http4s/http4s-play-json
 - http4s/http4s-prometheus-metrics
 - http4s/http4s-scalatags
