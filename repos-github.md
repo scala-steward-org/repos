@@ -609,7 +609,6 @@
 - http4s/http4s-jdk-http-client:main
 - http4s/http4s-jdk-http-client:series/0.7
 - http4s/http4s-jetty
-- http4s/http4s-jetty-client
 - http4s/http4s-netty
 - http4s/http4s-okhttp-client
 - http4s/http4s-play-json
