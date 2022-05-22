@@ -85,7 +85,7 @@
 - armanbilge/cheshire
 - armanbilge/gcp4s
 - armanbilge/schrodinger
-- armanbilge/van-cats
+- armanbilge/stratus
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
