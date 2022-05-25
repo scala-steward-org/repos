@@ -1283,7 +1283,6 @@
 - schrepfler/uri4s
 - scodec/scodec
 - scodec/scodec-bits
-- scodec/scodec-build
 - ScoreUnder/canti-bot
 - scoverage/sbt-coveralls
 - scoverage/sbt-scoverage
