@@ -856,6 +856,7 @@
 - miguel-vila/steve
 - milessabin/shapeless
 - mitochon/polyjuice
+- mkuthan/stream-processing
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
 - molikto/medit
