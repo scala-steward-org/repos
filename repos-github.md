@@ -1560,6 +1560,7 @@
 - ultram4rine/switchmap
 - underscoreio/slickless
 - unfiltered/unfiltered
+- univalence/zio-notion
 - univalence/zio-spark
 - upb-uc4/hlf-api
 - uptane/director
