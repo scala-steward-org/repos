@@ -1402,6 +1402,7 @@
 - takayahilton/sql-formatter
 - tanishiking/scalafix-unused
 - tanishiking/semanticdb-for-scala3
+- target/data-validator
 - tbje/full-stack
 - tbrown1979/totp4s
 - TeamWanari/sbt-paradox-diagrams
