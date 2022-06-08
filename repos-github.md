@@ -517,6 +517,7 @@
 - gemini-hlsw/sbt-lucuma
 - gemini-hlsw/seqexec
 - geneontology/gaferencer
+- gerdreiss/typicode-graph
 - getquill/quill
 - gfc-collective/gfc-aws-cloudwatch
 - gfc-collective/gfc-aws-kinesis
