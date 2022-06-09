@@ -554,6 +554,7 @@
 - guardian/membership-common
 - guardian/membership-frontend
 - guardian/members-data-api
+- guardian/mobile-n10n
 - guardian/ophan-backfill-step-function
 - guardian/ophan-geoip-db-refresher
 - guardian/ophan-housekeeper
